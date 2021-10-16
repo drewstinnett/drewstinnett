@@ -22,8 +22,8 @@
 - [drewstinnett/taskpoet v0.0.6](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.6) (4 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Gate, 1987 - ★★★](https://letterboxd.com/mondodrew/film/the-gate/)
 - [Halloween Kills, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/halloween-kills/)
 - [24: Redemption, 2008 - ★★½](https://letterboxd.com/mondodrew/film/24-redemption/)
 - [Concrete Plans, 2020 - ★★½](https://letterboxd.com/mondodrew/film/concrete-plans/)
 - [Witchboard, 1986 - ★½](https://letterboxd.com/mondodrew/film/witchboard/)
-- [Prince of Darkness, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/prince-of-darkness/)
