@@ -11,7 +11,7 @@
 
 #### 👨‍💻 Repositories I created recently
 
-{{- range recentRepos 3 }}
+{{- range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
 
@@ -26,6 +26,3 @@
 {{- range rss "https://letterboxd.com/mondodrew/rss/" 5}}
 - [{{.Title}}]({{ .URL }})
 {{- end}}
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drewstinnett&theme=default) 
