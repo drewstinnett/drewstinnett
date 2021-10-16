@@ -5,7 +5,7 @@
 - 📫 You can find me on twitter at [@BrewerDrewer](https://twitter.com/BrewerDrewer)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Can you spot me in [this](https://www.youtube.com/watch?v=oL9WnB0qHBA)?
-- 🎙 I have a weekly podcast called [Imminent Teachnology](https://podcast.imminentteachnology.com/) about technology and inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
+- 🎙 Cohost of the weekly podcast [Imminent Teachnology](https://podcast.imminentteachnology.com/) about Technology and Inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
 
 #### 👨‍💻 Latest projects I've created
 - [drewstinnett/flipip](https://github.com/drewstinnett/flipip) - Take an IP address and quickly get the reverse PTR
@@ -27,3 +27,10 @@
 - [24: Redemption, 2008 - ★★½](https://letterboxd.com/mondodrew/film/24-redemption/)
 - [Concrete Plans, 2020 - ★★½](https://letterboxd.com/mondodrew/film/concrete-plans/)
 - [Witchboard, 1986 - ★½](https://letterboxd.com/mondodrew/film/witchboard/)
+
+#### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- &#34;People of Color&#34;
+- American History
+- Future of Work
+- Trends in Technology Continued
+- The Gods Must be Crazy
