@@ -22,8 +22,11 @@
 - [drewstinnett/taskpoet v0.0.6](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.6) (4 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [24: Redemption, 2008 - ★★½](https://letterboxd.com/mondodrew/film/24-redemption/)
 - [Concrete Plans, 2020 - ★★½](https://letterboxd.com/mondodrew/film/concrete-plans/)
 - [Witchboard, 1986 - ★½](https://letterboxd.com/mondodrew/film/witchboard/)
 - [Prince of Darkness, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/prince-of-darkness/)
 - [Terror Train, 1980 - ★★](https://letterboxd.com/mondodrew/film/terror-train/)
-- [Angel, 1984 - ★★](https://letterboxd.com/mondodrew/film/angel-1984/)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drewstinnett&theme=default) 
