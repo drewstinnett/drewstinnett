@@ -1,7 +1,5 @@
 
-# Drew Stinnett
-
-## Hi! 👋
+# Drew Stinnett 👋
 
 - 🔭 I’m currently working at Duke University
 - 📫 You can find me on twitter at [@BrewerDrewer](https://twitter.com/BrewerDrewer)
@@ -9,7 +7,7 @@
 - ⚡ Fun fact: Can you spot me in [this](https://www.youtube.com/watch?v=oL9WnB0qHBA)?
 - 🎙 I have a weekly podcast called [Imminent Teachnology](https://podcast.imminentteachnology.com/) about technology and inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
 
-### 👨‍💻 Latest projects I've created
+#### 👨‍💻 Latest projects I've created
 - [drewstinnett/flipip](https://github.com/drewstinnett/flipip) - Take an IP address and quickly get the reverse PTR
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
