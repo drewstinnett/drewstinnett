@@ -13,6 +13,8 @@
 - [drewstinnett/flipip](https://github.com/drewstinnett/flipip) - Take an IP address and quickly get the reverse PTR
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
+- [drewstinnett/homebrew-taskpoet](https://github.com/drewstinnett/homebrew-taskpoet) - Homebrew installer for Taskpoet
+- [drewstinnett/taskpoet](https://github.com/drewstinnett/taskpoet) - Alternative to the awesome TaskWarrior, but in Go, with some additional stuff I find useful
 
 #### 🚀 Latest releases I've contributed to
 - [drewstinnett/sourceseedy v0.2.4](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.4) (2 days ago)
@@ -27,6 +29,3 @@
 - [Witchboard, 1986 - ★½](https://letterboxd.com/mondodrew/film/witchboard/)
 - [Prince of Darkness, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/prince-of-darkness/)
 - [Terror Train, 1980 - ★★](https://letterboxd.com/mondodrew/film/terror-train/)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drewstinnett&theme=default) 
