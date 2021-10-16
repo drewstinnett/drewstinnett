@@ -26,3 +26,6 @@
 {{- range rss "https://letterboxd.com/mondodrew/rss/" 5}}
 - [{{.Title}}]({{ .URL }})
 {{- end}}
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drewstinnett&theme=default) 
