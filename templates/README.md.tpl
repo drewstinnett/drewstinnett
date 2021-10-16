@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Can you spot me in [this](https://www.youtube.com/watch?v=oL9WnB0qHBA)?
 - 🎙 I have a weekly podcast called [Imminent Teachnology](https://podcast.imminentteachnology.com/) about technology and inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
 
-#### 👨‍💻 Repositories I created recently
+### 👨‍💻 Latest projects I've created
 
 {{- range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
