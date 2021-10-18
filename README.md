@@ -22,11 +22,11 @@
 - [drewstinnett/taskpoet v0.0.6](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Slumber Party Massacre, 2021 - ★★½](https://letterboxd.com/mondodrew/film/slumber-party-massacre/)
 - [Big Trouble in Little China, 1986 - ★★★½](https://letterboxd.com/mondodrew/film/big-trouble-in-little-china/)
 - [The Shout, 1978 - ★★½](https://letterboxd.com/mondodrew/film/the-shout/)
 - [The Gate, 1987 - ★★★](https://letterboxd.com/mondodrew/film/the-gate/)
 - [Halloween Kills, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/halloween-kills/)
-- [24: Redemption, 2008 - ★★½](https://letterboxd.com/mondodrew/film/24-redemption/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;People of Color&#34;
