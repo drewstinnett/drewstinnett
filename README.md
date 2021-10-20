@@ -29,8 +29,8 @@
 - [The Gate, 1987 - ★★★](https://letterboxd.com/mondodrew/film/the-gate/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Technology and Suicide (Mental Health Part 1)
 - &#34;People of Color&#34;
 - American History
 - Future of Work
 - Trends in Technology Continued
-- The Gods Must be Crazy
