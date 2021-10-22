@@ -15,18 +15,18 @@
 - [drewstinnett/taskpoet](https://github.com/drewstinnett/taskpoet) - Alternative to the awesome TaskWarrior, but in Go, with some additional stuff I find useful
 
 #### 🚀 Latest releases I've contributed to
+- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (today)
 - [drewstinnett/sourceseedy v0.2.4](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.4) (1 week ago)
 - [drewstinnett/flipip v0.1.0](https://github.com/drewstinnett/flipip/releases/tag/v0.1.0) (1 week ago)
 - [goreleaser/nfpm v2.7.1](https://github.com/goreleaser/nfpm/releases/tag/v2.7.1) (1 week ago)
-- [goreleaser/goreleaser v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1) (1 week ago)
 - [drewstinnett/taskpoet v0.0.6](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Cabinet of Dr. Caligari, 1920 - ★★★★](https://letterboxd.com/mondodrew/film/the-cabinet-of-dr-caligari-1920/)
 - [Dashcam, 2021 - ★★](https://letterboxd.com/mondodrew/film/dashcam-2021/)
 - [The Manor, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/film:687245/)
 - [The Gift, 2000 - ★★★](https://letterboxd.com/mondodrew/film/the-gift/)
 - [Slumber Party Massacre, 2021 - ★★½](https://letterboxd.com/mondodrew/film/slumber-party-massacre/)
-- [Big Trouble in Little China, 1986 - ★★★½](https://letterboxd.com/mondodrew/film/big-trouble-in-little-china/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology and Suicide (Mental Health Part 1)
