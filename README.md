@@ -22,11 +22,11 @@
 - [drewstinnett/taskpoet v0.0.6](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Suspiria, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/suspiria-2018/)
 - [Children of the Corn, 1984 - ★★★](https://letterboxd.com/mondodrew/film/children-of-the-corn/)
 - [13 Fanboy, 2021 - ★★](https://letterboxd.com/mondodrew/film/13-fanboy/)
 - [The Cabinet of Dr. Caligari, 1920 - ★★★★](https://letterboxd.com/mondodrew/film/the-cabinet-of-dr-caligari-1920/)
 - [Dashcam, 2021 - ★★](https://letterboxd.com/mondodrew/film/dashcam-2021/)
-- [The Manor, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/film:687245/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology and Suicide (Mental Health Part 1)
