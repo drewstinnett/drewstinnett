@@ -15,18 +15,18 @@
 - [drewstinnett/homebrew-taskpoet](https://github.com/drewstinnett/homebrew-taskpoet) - Homebrew installer for Taskpoet
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (1 day ago)
+- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (2 days ago)
 - [drewstinnett/sourceseedy v0.2.4](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.4) (1 week ago)
 - [drewstinnett/flipip v0.1.0](https://github.com/drewstinnett/flipip/releases/tag/v0.1.0) (1 week ago)
 - [goreleaser/nfpm v2.7.1](https://github.com/goreleaser/nfpm/releases/tag/v2.7.1) (1 week ago)
 - [drewstinnett/taskpoet v0.0.6](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Funhouse, 1981 - ★★★½](https://letterboxd.com/mondodrew/film/the-funhouse/)
 - [Suspiria, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/suspiria-2018/)
 - [Children of the Corn, 1984 - ★★★](https://letterboxd.com/mondodrew/film/children-of-the-corn/)
 - [13 Fanboy, 2021 - ★★](https://letterboxd.com/mondodrew/film/13-fanboy/)
 - [The Cabinet of Dr. Caligari, 1920 - ★★★★](https://letterboxd.com/mondodrew/film/the-cabinet-of-dr-caligari-1920/)
-- [Dashcam, 2021 - ★★](https://letterboxd.com/mondodrew/film/dashcam-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology and Suicide (Mental Health Part 1)
