@@ -22,11 +22,11 @@
 - [drewstinnett/taskpoet v0.0.6](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [A Bay of Blood, 1971 - ★★](https://letterboxd.com/mondodrew/film/a-bay-of-blood/)
 - [The Deep House, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-deep-house/)
 - [Dune, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/dune-2021/)
 - [The Funhouse, 1981 - ★★★½](https://letterboxd.com/mondodrew/film/the-funhouse/)
 - [Suspiria, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/suspiria-2018/)
-- [Children of the Corn, 1984 - ★★★](https://letterboxd.com/mondodrew/film/children-of-the-corn/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology and Suicide (Mental Health Part 1)
