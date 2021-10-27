@@ -29,8 +29,8 @@
 - [Suspiria, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/suspiria-2018/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Technology and Suicide (Mental Health Part 2)
 - Technology and Suicide (Mental Health Part 1)
 - &#34;People of Color&#34;
 - American History
 - Future of Work
-- Trends in Technology Continued
