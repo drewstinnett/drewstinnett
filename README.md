@@ -15,8 +15,8 @@
 - [drewstinnett/homebrew-taskpoet](https://github.com/drewstinnett/homebrew-taskpoet) - Homebrew installer for Taskpoet
 
 #### 🚀 Latest releases I've contributed to
+- [drewstinnett/sourceseedy v0.2.5](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.5) (today)
 - [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (6 days ago)
-- [drewstinnett/sourceseedy v0.2.4](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.4) (2 weeks ago)
 - [drewstinnett/flipip v0.1.0](https://github.com/drewstinnett/flipip/releases/tag/v0.1.0) (2 weeks ago)
 - [goreleaser/nfpm v2.7.1](https://github.com/goreleaser/nfpm/releases/tag/v2.7.1) (2 weeks ago)
 - [drewstinnett/taskpoet v0.0.6](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.6) (1 month ago)
