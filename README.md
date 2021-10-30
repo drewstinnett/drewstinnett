@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (1 week ago)
 
 #### 🍿 Latest movies I've watched
+- [Horror Noire, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/horror-noire/)
 - [Antlers, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/antlers/)
 - [Bordello of Blood, 1996 - ★★](https://letterboxd.com/mondodrew/film/bordello-of-blood/)
 - [The People Under the Stairs, 1991 - ★★★★](https://letterboxd.com/mondodrew/film/the-people-under-the-stairs/)
 - [Habit, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/habit/)
-- [A Bay of Blood, 1971 - ★★](https://letterboxd.com/mondodrew/film/a-bay-of-blood/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology and Suicide (Mental Health Part 2)
