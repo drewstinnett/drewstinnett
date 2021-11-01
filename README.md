@@ -15,11 +15,11 @@
 - [drewstinnett/homebrew-taskpoet](https://github.com/drewstinnett/homebrew-taskpoet) - Homebrew installer for Taskpoet
 
 #### 🚀 Latest releases I've contributed to
+- [goreleaser/goreleaser v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0) (today)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 day ago)
 - [drewstinnett/taskpoet v0.0.9](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.9) (2 days ago)
 - [drewstinnett/flipip v0.1.1](https://github.com/drewstinnett/flipip/releases/tag/v0.1.1) (4 days ago)
 - [drewstinnett/sourceseedy v0.2.5](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.5) (4 days ago)
-- [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (1 week ago)
 
 #### 🍿 Latest movies I've watched
 - [The Evil Dead, 1981 - ★★★★](https://letterboxd.com/mondodrew/film/the-evil-dead/1/)
