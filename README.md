@@ -15,18 +15,18 @@
 - [drewstinnett/homebrew-taskpoet](https://github.com/drewstinnett/homebrew-taskpoet) - Homebrew installer for Taskpoet
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (today)
-- [drewstinnett/taskpoet v0.0.9](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.9) (1 day ago)
-- [drewstinnett/flipip v0.1.1](https://github.com/drewstinnett/flipip/releases/tag/v0.1.1) (3 days ago)
-- [drewstinnett/sourceseedy v0.2.5](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.5) (3 days ago)
+- [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 day ago)
+- [drewstinnett/taskpoet v0.0.9](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.9) (2 days ago)
+- [drewstinnett/flipip v0.1.1](https://github.com/drewstinnett/flipip/releases/tag/v0.1.1) (4 days ago)
+- [drewstinnett/sourceseedy v0.2.5](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.5) (4 days ago)
 - [goreleaser/goreleaser v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0) (1 week ago)
 
 #### 🍿 Latest movies I've watched
+- [The Evil Dead, 1981 - ★★★★](https://letterboxd.com/mondodrew/film/the-evil-dead/1/)
 - [Four Hours at the Capitol, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/four-hours-at-the-capitol/)
 - [Last Night in Soho, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/last-night-in-soho/)
 - [Horror Noire, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/horror-noire/)
 - [Antlers, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/antlers/)
-- [Bordello of Blood, 1996 - ★★](https://letterboxd.com/mondodrew/film/bordello-of-blood/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology and Suicide (Mental Health Part 2)
