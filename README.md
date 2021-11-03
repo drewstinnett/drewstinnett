@@ -29,8 +29,8 @@
 - [Horror Noire, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/horror-noire/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Contributing to Open Source Technology
 - Technology and Suicide (Mental Health Part 2)
 - Technology and Suicide (Mental Health Part 1)
 - &#34;People of Color&#34;
 - American History
-- Future of Work
