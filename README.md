@@ -15,11 +15,11 @@
 - [drewstinnett/homebrew-taskpoet](https://github.com/drewstinnett/homebrew-taskpoet) - Homebrew installer for Taskpoet
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0) (2 days ago)
-- [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (3 days ago)
-- [drewstinnett/taskpoet v0.0.9](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.9) (4 days ago)
-- [drewstinnett/flipip v0.1.1](https://github.com/drewstinnett/flipip/releases/tag/v0.1.1) (6 days ago)
-- [drewstinnett/sourceseedy v0.2.5](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.5) (6 days ago)
+- [goreleaser/goreleaser v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0) (3 days ago)
+- [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (4 days ago)
+- [drewstinnett/taskpoet v0.0.9](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.9) (5 days ago)
+- [drewstinnett/flipip v0.1.1](https://github.com/drewstinnett/flipip/releases/tag/v0.1.1) (1 week ago)
+- [drewstinnett/sourceseedy v0.2.5](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.5) (1 week ago)
 
 #### 🍿 Latest movies I've watched
 - [Paranormal Activity: Next of Kin, 2021 - ★½](https://letterboxd.com/mondodrew/film/paranormal-activity-next-of-kin/)
