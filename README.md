@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.5](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.5) (1 week ago)
 
 #### 🍿 Latest movies I've watched
+- [Eternals, 2021 - ★★½](https://letterboxd.com/mondodrew/film/eternals/)
 - [Finch, 2021 - ★★½](https://letterboxd.com/mondodrew/film/finch/)
 - [The Spine of Night, 2021 - ★★★](https://letterboxd.com/mondodrew/film/the-spine-of-night/)
 - [Flag Day, 2021 - ★½](https://letterboxd.com/mondodrew/film/flag-day/)
 - [One Shot, 2021 - ★★½](https://letterboxd.com/mondodrew/film/film:728083/)
-- [Joy Ride, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/joy-ride-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Contributing to Open Source Technology
