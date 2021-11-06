@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.5](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.5) (1 week ago)
 
 #### 🍿 Latest movies I've watched
+- [The Spine of Night, 2021 - ★★★](https://letterboxd.com/mondodrew/film/the-spine-of-night/)
 - [Flag Day, 2021 - ★½](https://letterboxd.com/mondodrew/film/flag-day/)
 - [One Shot, 2021 - ★★½](https://letterboxd.com/mondodrew/film/film:728083/)
 - [Joy Ride, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/joy-ride-2021/)
 - [Paranormal Activity: Next of Kin, 2021 - ★½](https://letterboxd.com/mondodrew/film/paranormal-activity-next-of-kin/)
-- [The Evil Dead, 1981 - ★★★★](https://letterboxd.com/mondodrew/film/the-evil-dead/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Contributing to Open Source Technology
