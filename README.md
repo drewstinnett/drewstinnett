@@ -22,11 +22,11 @@
 - [drewstinnett/flipip v0.1.1](https://github.com/drewstinnett/flipip/releases/tag/v0.1.1) (1 week ago)
 
 #### 🍿 Latest movies I've watched
+- [New York Ninja, 2021 - ★★½](https://letterboxd.com/mondodrew/film/new-york-ninja/)
 - [In the Heights, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/in-the-heights/2/)
 - [The Beta Test, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-beta-test/)
 - [Eternals, 2021 - ★★½](https://letterboxd.com/mondodrew/film/eternals/)
 - [Finch, 2021 - ★★½](https://letterboxd.com/mondodrew/film/finch/)
-- [The Spine of Night, 2021 - ★★★](https://letterboxd.com/mondodrew/film/the-spine-of-night/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Contributing to Open Source Technology
