@@ -29,8 +29,8 @@
 - [Finch, 2021 - ★★½](https://letterboxd.com/mondodrew/film/finch/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Performance Reviews
 - Contributing to Open Source Technology
 - Technology and Suicide (Mental Health Part 2)
 - Technology and Suicide (Mental Health Part 1)
 - &#34;People of Color&#34;
-- American History
