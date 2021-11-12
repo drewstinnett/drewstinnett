@@ -22,11 +22,11 @@
 - [drewstinnett/taskpoet v0.0.9](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.9) (1 week ago)
 
 #### 🍿 Latest movies I've watched
+- [Great White, 2021 - ★★½](https://letterboxd.com/mondodrew/film/great-white-2021/)
 - [Squid Game, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/squid-game/)
 - [New York Ninja, 2021 - ★★½](https://letterboxd.com/mondodrew/film/new-york-ninja/)
 - [In the Heights, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/in-the-heights/2/)
 - [The Beta Test, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-beta-test/)
-- [Eternals, 2021 - ★★½](https://letterboxd.com/mondodrew/film/eternals/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Performance Reviews
