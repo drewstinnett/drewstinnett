@@ -15,18 +15,18 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
+- [goreleaser/nfpm v2.9.0](https://github.com/goreleaser/nfpm/releases/tag/v2.9.0) (today)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 days ago)
-- [goreleaser/nfpm v2.8.0](https://github.com/goreleaser/nfpm/releases/tag/v2.8.0) (6 days ago)
 - [goreleaser/goreleaser v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0) (1 week ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 week ago)
 - [drewstinnett/taskpoet v0.0.9](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.9) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Brimstone, 2016 - ★★](https://letterboxd.com/mondodrew/film/brimstone-2016/)
+- [A Man Named Scott, 2021 - ★★½](https://letterboxd.com/mondodrew/film/a-man-named-scott/)
 - [Great White, 2021 - ★★½](https://letterboxd.com/mondodrew/film/great-white-2021/)
 - [Squid Game, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/squid-game/)
 - [New York Ninja, 2021 - ★★½](https://letterboxd.com/mondodrew/film/new-york-ninja/)
-- [In the Heights, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/in-the-heights/2/)
-- [The Beta Test, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-beta-test/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Performance Reviews
