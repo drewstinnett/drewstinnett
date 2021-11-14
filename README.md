@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Old Henry, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/old-henry/)
 - [Raising Arizona, 1987 - ★★★★★](https://letterboxd.com/mondodrew/film/raising-arizona/)
 - [Red Notice, 2021 - ★½](https://letterboxd.com/mondodrew/film/red-notice/)
 - [The Fifth Element, 1997 - ★★★★](https://letterboxd.com/mondodrew/film/the-fifth-element/)
 - [Brimstone, 2016 - ★★](https://letterboxd.com/mondodrew/film/brimstone-2016/)
-- [A Man Named Scott, 2021 - ★★½](https://letterboxd.com/mondodrew/film/a-man-named-scott/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Performance Reviews
