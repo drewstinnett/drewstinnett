@@ -15,18 +15,18 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/labdoc v0.1.0](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.0) (1 day ago)
+- [drewstinnett/labdoc v0.1.1](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.1) (today)
 - [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (1 day ago)
 - [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (1 day ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (4 days ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Leatherface, 2017 - ★★★](https://letterboxd.com/mondodrew/film/leatherface/)
 - [Old Henry, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/old-henry/)
 - [Raising Arizona, 1987 - ★★★★★](https://letterboxd.com/mondodrew/film/raising-arizona/)
 - [Red Notice, 2021 - ★½](https://letterboxd.com/mondodrew/film/red-notice/)
 - [The Fifth Element, 1997 - ★★★★](https://letterboxd.com/mondodrew/film/the-fifth-element/)
-- [Brimstone, 2016 - ★★](https://letterboxd.com/mondodrew/film/brimstone-2016/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Performance Reviews
