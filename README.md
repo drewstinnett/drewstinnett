@@ -15,10 +15,10 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/labdoc v0.0.5](https://github.com/drewstinnett/labdoc/releases/tag/v0.0.5) (today)
-- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (today)
-- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (today)
-- [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (3 days ago)
+- [drewstinnett/labdoc v0.1.0](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.0) (1 day ago)
+- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (1 day ago)
+- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (1 day ago)
+- [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (4 days ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
