@@ -15,18 +15,18 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/labdoc v0.1.1](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.1) (1 day ago)
-- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (2 days ago)
-- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (2 days ago)
-- [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (5 days ago)
+- [drewstinnett/labdoc v0.1.1](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.1) (2 days ago)
+- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (3 days ago)
+- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (3 days ago)
+- [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (6 days ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Rocky Horror Picture Show, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/the-rocky-horror-picture-show/)
 - [Leatherface, 2017 - ★★★](https://letterboxd.com/mondodrew/film/leatherface/)
 - [Old Henry, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/old-henry/)
 - [Raising Arizona, 1987 - ★★★★★](https://letterboxd.com/mondodrew/film/raising-arizona/)
 - [Red Notice, 2021 - ★½](https://letterboxd.com/mondodrew/film/red-notice/)
-- [The Fifth Element, 1997 - ★★★★](https://letterboxd.com/mondodrew/film/the-fifth-element/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Performance Reviews
