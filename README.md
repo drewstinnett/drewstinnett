@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Something from Nothing: The Art of Rap, 2012 - ★★★](https://letterboxd.com/mondodrew/film/something-from-nothing-the-art-of-rap/)
 - [The Rocky Horror Picture Show, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/the-rocky-horror-picture-show/)
 - [Leatherface, 2017 - ★★★](https://letterboxd.com/mondodrew/film/leatherface/)
 - [Old Henry, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/old-henry/)
 - [Raising Arizona, 1987 - ★★★★★](https://letterboxd.com/mondodrew/film/raising-arizona/)
-- [Red Notice, 2021 - ★½](https://letterboxd.com/mondodrew/film/red-notice/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Performance Reviews
