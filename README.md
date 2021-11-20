@@ -15,18 +15,18 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (today)
-- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (5 days ago)
-- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (5 days ago)
+- [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (1 day ago)
+- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (6 days ago)
+- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (6 days ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 week ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Titane, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/titane/)
 - [My Salinger Year, 2020 - ★★](https://letterboxd.com/mondodrew/film/my-salinger-year/)
 - [Something from Nothing: The Art of Rap, 2012 - ★★★](https://letterboxd.com/mondodrew/film/something-from-nothing-the-art-of-rap/)
 - [The Rocky Horror Picture Show, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/the-rocky-horror-picture-show/)
 - [Leatherface, 2017 - ★★★](https://letterboxd.com/mondodrew/film/leatherface/)
-- [Old Henry, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/old-henry/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Work Life Balance!
