@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [ThanksKilling, 2008 - ★★★½](https://letterboxd.com/mondodrew/film/thankskilling/)
 - [Ghostbusters: Afterlife, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/ghostbusters-afterlife/)
 - [tick, tick...BOOM!, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/tick-tickboom/)
 - [Clifford the Big Red Dog, 2021 - ★★](https://letterboxd.com/mondodrew/film/clifford-the-big-red-dog/)
 - [Motherly, 2021 - ★★★](https://letterboxd.com/mondodrew/film/film:688121/)
-- [Halloween Party, 2019 - ★★½](https://letterboxd.com/mondodrew/film/halloween-party-2019/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Work Life Balance!
