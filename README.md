@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Clifford the Big Red Dog, 2021 - ★★](https://letterboxd.com/mondodrew/film/clifford-the-big-red-dog/)
 - [Motherly, 2021 - ★★★](https://letterboxd.com/mondodrew/film/film:688121/)
 - [Halloween Party, 2019 - ★★½](https://letterboxd.com/mondodrew/film/halloween-party-2019/)
 - [Titane, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/titane/)
 - [My Salinger Year, 2020 - ★★](https://letterboxd.com/mondodrew/film/my-salinger-year/)
-- [Something from Nothing: The Art of Rap, 2012 - ★★★](https://letterboxd.com/mondodrew/film/something-from-nothing-the-art-of-rap/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Work Life Balance!
