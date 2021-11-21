@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Amazing Spider-Man 2, 2014 - ★★★★](https://letterboxd.com/mondodrew/film/the-amazing-spider-man-2/)
+- [The Amazing Spider-Man, 2012 - ★★★★½](https://letterboxd.com/mondodrew/film/the-amazing-spider-man/)
 - [The Dead Ones, 2020 - ★★](https://letterboxd.com/mondodrew/film/film:520438/)
 - [ThanksKilling, 2008 - ★★★½](https://letterboxd.com/mondodrew/film/thankskilling/)
 - [Ghostbusters: Afterlife, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/ghostbusters-afterlife/)
-- [tick, tick...BOOM!, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/tick-tickboom/)
-- [Clifford the Big Red Dog, 2021 - ★★](https://letterboxd.com/mondodrew/film/clifford-the-big-red-dog/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Work Life Balance!
