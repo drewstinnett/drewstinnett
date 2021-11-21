@@ -15,18 +15,18 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (1 day ago)
-- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (6 days ago)
-- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (6 days ago)
+- [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (2 days ago)
+- [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (1 week ago)
+- [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (1 week ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 week ago)
-- [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (2 weeks ago)
+- [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Dead Ones, 2020 - ★★](https://letterboxd.com/mondodrew/film/film:520438/)
 - [ThanksKilling, 2008 - ★★★½](https://letterboxd.com/mondodrew/film/thankskilling/)
 - [Ghostbusters: Afterlife, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/ghostbusters-afterlife/)
 - [tick, tick...BOOM!, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/tick-tickboom/)
 - [Clifford the Big Red Dog, 2021 - ★★](https://letterboxd.com/mondodrew/film/clifford-the-big-red-dog/)
-- [Motherly, 2021 - ★★★](https://letterboxd.com/mondodrew/film/film:688121/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Work Life Balance!
