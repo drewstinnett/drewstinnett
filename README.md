@@ -29,8 +29,8 @@
 - [The Amazing Spider-Man, 2012 - ★★★★½](https://letterboxd.com/mondodrew/film/the-amazing-spider-man/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Durham Mayor Steve Schewel
 - Work Life Balance!
 - Performance Reviews
 - Contributing to Open Source Technology
 - Technology and Suicide (Mental Health Part 2)
-- Technology and Suicide (Mental Health Part 1)
