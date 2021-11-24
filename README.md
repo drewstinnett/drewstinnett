@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Humans, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-humans/)
 - [The Strings, 2020 - ★½](https://letterboxd.com/mondodrew/film/film:652888/)
 - [Desperado, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/desperado/)
 - [King Richard, 2021 - ★★★](https://letterboxd.com/mondodrew/film/king-richard/)
 - [The Amazing Spider-Man 2, 2014 - ★★★★](https://letterboxd.com/mondodrew/film/the-amazing-spider-man-2/)
-- [The Amazing Spider-Man, 2012 - ★★★★½](https://letterboxd.com/mondodrew/film/the-amazing-spider-man/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Durham Mayor Steve Schewel
