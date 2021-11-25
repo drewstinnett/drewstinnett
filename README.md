@@ -15,18 +15,18 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (5 days ago)
+- [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (6 days ago)
 - [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (1 week ago)
 - [goreleaser/nfpm v2.9.2](https://github.com/goreleaser/nfpm/releases/tag/v2.9.2) (1 week ago)
-- [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 week ago)
+- [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 weeks ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Kill List, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/kill-list/)
 - [The Humans, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-humans/)
 - [The Strings, 2020 - ★½](https://letterboxd.com/mondodrew/film/film:652888/)
 - [Desperado, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/desperado/)
 - [King Richard, 2021 - ★★★](https://letterboxd.com/mondodrew/film/king-richard/)
-- [The Amazing Spider-Man 2, 2014 - ★★★★](https://letterboxd.com/mondodrew/film/the-amazing-spider-man-2/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Durham Mayor Steve Schewel
