@@ -15,7 +15,7 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/nfpm v2.10.0](https://github.com/goreleaser/nfpm/releases/tag/v2.10.0) (today)
+- [goreleaser/nfpm v2.10.0](https://github.com/goreleaser/nfpm/releases/tag/v2.10.0) (1 day ago)
 - [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (1 week ago)
 - [goreleaser/goreleaser v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0) (1 week ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 weeks ago)
