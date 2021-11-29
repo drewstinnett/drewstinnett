@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (4 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [High Plains Drifter, 1973 - ★★★★½](https://letterboxd.com/mondodrew/film/high-plains-drifter/)
 - [The Last Duel, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-last-duel-2021/)
 - [Ghosts of Mars, 2001 - ★★½](https://letterboxd.com/mondodrew/film/ghosts-of-mars/)
 - [Some Kind of Heaven, 2020 - ★★★½](https://letterboxd.com/mondodrew/film/some-kind-of-heaven/)
 - [Patton Oswalt: Annihilation, 2017 - ★★★½](https://letterboxd.com/mondodrew/film/patton-oswalt-annihilation/)
-- [DMX: Don&#39;t Try to Understand, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/dmx-dont-try-to-understand/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Durham Mayor Steve Schewel
