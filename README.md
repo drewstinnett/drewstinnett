@@ -29,8 +29,8 @@
 - [Some Kind of Heaven, 2020 - ★★★½](https://letterboxd.com/mondodrew/film/some-kind-of-heaven/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Failing Often
 - Durham Mayor Steve Schewel
 - Work Life Balance!
 - Performance Reviews
 - Contributing to Open Source Technology
-- Technology and Suicide (Mental Health Part 2)
