@@ -15,18 +15,18 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (2 days ago)
-- [goreleaser/nfpm v2.10.0](https://github.com/goreleaser/nfpm/releases/tag/v2.10.0) (4 days ago)
+- [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (3 days ago)
+- [goreleaser/nfpm v2.10.0](https://github.com/goreleaser/nfpm/releases/tag/v2.10.0) (5 days ago)
 - [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (1 week ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 weeks ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Bourne Identity, 2002 - ★★½](https://letterboxd.com/mondodrew/film/the-bourne-identity-2002/)
 - [High Plains Drifter, 1973 - ★★★★½](https://letterboxd.com/mondodrew/film/high-plains-drifter/)
 - [The Last Duel, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-last-duel-2021/)
 - [Ghosts of Mars, 2001 - ★★½](https://letterboxd.com/mondodrew/film/ghosts-of-mars/)
 - [Some Kind of Heaven, 2020 - ★★★½](https://letterboxd.com/mondodrew/film/some-kind-of-heaven/)
-- [Patton Oswalt: Annihilation, 2017 - ★★★½](https://letterboxd.com/mondodrew/film/patton-oswalt-annihilation/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Durham Mayor Steve Schewel
