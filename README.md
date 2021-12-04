@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Electrical Life of Louis Wain, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-electrical-life-of-louis-wain/)
 - [Spider-Man: Into the Spider-Verse, 2018 - ★★★★★](https://letterboxd.com/mondodrew/film/spider-man-into-the-spider-verse/3/)
 - [House of Wax, 2005 - ★★★](https://letterboxd.com/mondodrew/film/house-of-wax-2005/)
 - [The Bourne Identity, 2002 - ★★½](https://letterboxd.com/mondodrew/film/the-bourne-identity-2002/)
 - [High Plains Drifter, 1973 - ★★★★½](https://letterboxd.com/mondodrew/film/high-plains-drifter/)
-- [The Last Duel, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-last-duel-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Failing Often
