@@ -15,18 +15,18 @@
 - [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (5 days ago)
+- [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (6 days ago)
 - [goreleaser/nfpm v2.10.0](https://github.com/goreleaser/nfpm/releases/tag/v2.10.0) (1 week ago)
 - [drewstinnett/labdoc v0.1.3](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.3) (2 weeks ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (3 weeks ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Spider-Man: Into the Spider-Verse, 2018 - ★★★★★](https://letterboxd.com/mondodrew/film/spider-man-into-the-spider-verse/3/)
 - [House of Wax, 2005 - ★★★](https://letterboxd.com/mondodrew/film/house-of-wax-2005/)
 - [The Bourne Identity, 2002 - ★★½](https://letterboxd.com/mondodrew/film/the-bourne-identity-2002/)
 - [High Plains Drifter, 1973 - ★★★★½](https://letterboxd.com/mondodrew/film/high-plains-drifter/)
 - [The Last Duel, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-last-duel-2021/)
-- [Ghosts of Mars, 2001 - ★★½](https://letterboxd.com/mondodrew/film/ghosts-of-mars/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Failing Often
