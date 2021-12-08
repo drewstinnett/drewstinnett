@@ -29,8 +29,8 @@
 - [True Grit, 2010 - ★★★★](https://letterboxd.com/mondodrew/film/true-grit-2010/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Acceptance and Belonging with Mark Little
 - Failing Often
 - Durham Mayor Steve Schewel
 - Work Life Balance!
 - Performance Reviews
-- Contributing to Open Source Technology
