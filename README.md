@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Four Seasons Total Documentary, 2021 - ★★½](https://letterboxd.com/mondodrew/film/four-seasons-total-documentary/)
 - [Extraction, 2020 - ★★★★](https://letterboxd.com/mondodrew/film/extraction-2020/1/)
 - [Death Valley, 2021 - ★★½](https://letterboxd.com/mondodrew/film/death-valley-2021/)
 - [Hail to the Deadites, 2020 - ★★★½](https://letterboxd.com/mondodrew/film/hail-to-the-deadites/)
 - [Alone, 2020 - ★★½](https://letterboxd.com/mondodrew/film/alone-2020-11/)
-- [The Rundown, 2003 - ★★★](https://letterboxd.com/mondodrew/film/the-rundown/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Acceptance and Belonging with Mark Little
