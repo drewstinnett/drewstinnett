@@ -8,11 +8,11 @@
 - 🎙 Cohost of the weekly podcast [Imminent Teachnology](https://podcast.imminentteachnology.com/) about Technology and Inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
 
 #### 👨‍💻 Latest projects I've created
+- [drewstinnett/vaultpp](https://github.com/drewstinnett/vaultpp) - Vault&#43;&#43; adds additional functionality in to the normal HashiVault CLI.
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 - [drewstinnett/azurectx-go](https://github.com/drewstinnett/azurectx-go) - Easily switch between Azure subscriptions
 - [drewstinnett/flipip](https://github.com/drewstinnett/flipip) - Take an IP address and quickly get the reverse PTR
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
-- [drewstinnett/sourceseedy](https://github.com/drewstinnett/sourceseedy) - Source CD - Switch between source directories easily, using a well defined path
 
 #### 🚀 Latest releases I've contributed to
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (4 days ago)
@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Scrooged, 1988 - ★★★★](https://letterboxd.com/mondodrew/film/scrooged/)
 - [Ravers, 2018 - ★★½](https://letterboxd.com/mondodrew/film/ravers/)
 - [Four Seasons Total Documentary, 2021 - ★★½](https://letterboxd.com/mondodrew/film/four-seasons-total-documentary/)
 - [Extraction, 2020 - ★★★★](https://letterboxd.com/mondodrew/film/extraction-2020/1/)
 - [Death Valley, 2021 - ★★½](https://letterboxd.com/mondodrew/film/death-valley-2021/)
-- [Hail to the Deadites, 2020 - ★★★½](https://letterboxd.com/mondodrew/film/hail-to-the-deadites/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Acceptance and Belonging with Mark Little
