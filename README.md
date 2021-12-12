@@ -15,18 +15,18 @@
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (4 days ago)
-- [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (1 week ago)
+- [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (5 days ago)
+- [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (2 weeks ago)
 - [goreleaser/nfpm v2.10.0](https://github.com/goreleaser/nfpm/releases/tag/v2.10.0) (2 weeks ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 month ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Nothing But the Blood, 2020 - ★½](https://letterboxd.com/mondodrew/film/nothing-but-the-blood/)
 - [Scrooged, 1988 - ★★★★](https://letterboxd.com/mondodrew/film/scrooged/)
 - [Ravers, 2018 - ★★½](https://letterboxd.com/mondodrew/film/ravers/)
 - [Four Seasons Total Documentary, 2021 - ★★½](https://letterboxd.com/mondodrew/film/four-seasons-total-documentary/)
 - [Extraction, 2020 - ★★★★](https://letterboxd.com/mondodrew/film/extraction-2020/1/)
-- [Death Valley, 2021 - ★★½](https://letterboxd.com/mondodrew/film/death-valley-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Acceptance and Belonging with Mark Little
