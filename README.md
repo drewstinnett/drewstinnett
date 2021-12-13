@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Benedetta, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/benedetta/)
 - [Silent Night, 2021 - ★★★](https://letterboxd.com/mondodrew/film/silent-night-2021/)
 - [Nothing But the Blood, 2020 - ★½](https://letterboxd.com/mondodrew/film/nothing-but-the-blood/)
 - [Scrooged, 1988 - ★★★★](https://letterboxd.com/mondodrew/film/scrooged/)
 - [Ravers, 2018 - ★★½](https://letterboxd.com/mondodrew/film/ravers/)
-- [Four Seasons Total Documentary, 2021 - ★★½](https://letterboxd.com/mondodrew/film/four-seasons-total-documentary/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Acceptance and Belonging with Mark Little
