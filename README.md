@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [137 Shots, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/137-shots/)
 - [The French Dispatch, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-french-dispatch/)
 - [Once Upon a Time in Mexico, 2003 - ★★★★](https://letterboxd.com/mondodrew/film/once-upon-a-time-in-mexico/)
 - [We Need to Do Something, 2021 - ★★★](https://letterboxd.com/mondodrew/film/we-need-to-do-something/)
 - [Jack Frost 2: The Revenge of the Mutant Killer Snowman, 2000 - ★½](https://letterboxd.com/mondodrew/film/jack-frost-2-the-revenge-of-the-mutant-killer-snowman/)
-- [Benedetta, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/benedetta/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Global Education with Soraya Campbell
