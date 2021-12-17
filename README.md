@@ -15,18 +15,18 @@
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/nfpm v2.11.0](https://github.com/goreleaser/nfpm/releases/tag/v2.11.0) (today)
+- [goreleaser/nfpm v2.11.0](https://github.com/goreleaser/nfpm/releases/tag/v2.11.0) (1 day ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 week ago)
 - [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (2 weeks ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 month ago)
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The French Dispatch, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-french-dispatch/)
 - [Once Upon a Time in Mexico, 2003 - ★★★★](https://letterboxd.com/mondodrew/film/once-upon-a-time-in-mexico/)
 - [We Need to Do Something, 2021 - ★★★](https://letterboxd.com/mondodrew/film/we-need-to-do-something/)
 - [Jack Frost 2: The Revenge of the Mutant Killer Snowman, 2000 - ★½](https://letterboxd.com/mondodrew/film/jack-frost-2-the-revenge-of-the-mutant-killer-snowman/)
 - [Benedetta, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/benedetta/)
-- [Silent Night, 2021 - ★★★](https://letterboxd.com/mondodrew/film/silent-night-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Global Education with Soraya Campbell
