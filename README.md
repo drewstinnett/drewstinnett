@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Spider-Man: No Way Home, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/spider-man-no-way-home/)
 - [Hannibal Buress: Comedy Camisado, 2016 - ★★½](https://letterboxd.com/mondodrew/film/hannibal-buress-comedy-camisado/)
 - [The Scary of Sixty-First, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-scary-of-sixty-first/)
 - [Mother/Android, 2021 - ★½](https://letterboxd.com/mondodrew/film/mother-android/)
 - [Juice WRLD: Into the Abyss, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/juice-wrld-into-the-abyss/)
-- [137 Shots, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/137-shots/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Global Education with Soraya Campbell
