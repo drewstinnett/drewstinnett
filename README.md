@@ -22,11 +22,11 @@
 - [drewstinnett/azurectx-go v0.2.0](https://github.com/drewstinnett/azurectx-go/releases/tag/v0.2.0) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Scary of Sixty-First, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-scary-of-sixty-first/)
 - [Mother/Android, 2021 - ★½](https://letterboxd.com/mondodrew/film/mother-android/)
 - [Juice WRLD: Into the Abyss, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/juice-wrld-into-the-abyss/)
 - [137 Shots, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/137-shots/)
 - [The French Dispatch, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-french-dispatch/)
-- [Once Upon a Time in Mexico, 2003 - ★★★★](https://letterboxd.com/mondodrew/film/once-upon-a-time-in-mexico/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Global Education with Soraya Campbell
