@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Resident Evil: Welcome to Raccoon City, 2021 - ★★](https://letterboxd.com/mondodrew/film/resident-evil-welcome-to-raccoon-city/)
 - [A History of Violence, 2005 - ★★★★](https://letterboxd.com/mondodrew/film/a-history-of-violence/)
 - [Spider-Man: No Way Home, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/spider-man-no-way-home/)
 - [Hannibal Buress: Comedy Camisado, 2016 - ★★½](https://letterboxd.com/mondodrew/film/hannibal-buress-comedy-camisado/)
 - [The Scary of Sixty-First, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-scary-of-sixty-first/)
-- [Mother/Android, 2021 - ★½](https://letterboxd.com/mondodrew/film/mother-android/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Global Education with Soraya Campbell
