@@ -15,18 +15,18 @@
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 
 #### 🚀 Latest releases I've contributed to
+- [goreleaser/goreleaser v1.2.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.1) (today)
 - [goreleaser/nfpm v2.11.1](https://github.com/goreleaser/nfpm/releases/tag/v2.11.1) (1 day ago)
 - [drewstinnett/vaultx v0.1.0](https://github.com/drewstinnett/vaultx/releases/tag/v0.1.0) (3 days ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 weeks ago)
-- [goreleaser/goreleaser v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0) (3 weeks ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Eastern Promises, 2007 - ★★★★](https://letterboxd.com/mondodrew/film/eastern-promises/)
 - [Resident Evil: Welcome to Raccoon City, 2021 - ★★](https://letterboxd.com/mondodrew/film/resident-evil-welcome-to-raccoon-city/)
 - [A History of Violence, 2005 - ★★★★](https://letterboxd.com/mondodrew/film/a-history-of-violence/)
 - [Spider-Man: No Way Home, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/spider-man-no-way-home/)
 - [Hannibal Buress: Comedy Camisado, 2016 - ★★½](https://letterboxd.com/mondodrew/film/hannibal-buress-comedy-camisado/)
-- [The Scary of Sixty-First, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-scary-of-sixty-first/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Global Education with Soraya Campbell
