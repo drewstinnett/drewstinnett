@@ -29,8 +29,8 @@
 - [Hannibal Buress: Comedy Camisado, 2016 - ★★½](https://letterboxd.com/mondodrew/film/hannibal-buress-comedy-camisado/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- &#34;I Quit!&#34;
 - Global Education with Soraya Campbell
 - Acceptance and Belonging with Mark Little
 - Failing Often
 - Durham Mayor Steve Schewel
-- Work Life Balance!
