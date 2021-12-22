@@ -15,7 +15,7 @@
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.2.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.1) (today)
+- [goreleaser/goreleaser v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2) (today)
 - [goreleaser/nfpm v2.11.1](https://github.com/goreleaser/nfpm/releases/tag/v2.11.1) (1 day ago)
 - [drewstinnett/vaultx v0.1.0](https://github.com/drewstinnett/vaultx/releases/tag/v0.1.0) (3 days ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 weeks ago)
