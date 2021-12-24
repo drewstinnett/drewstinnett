@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Hell Hath No Fury, 2021 - ★★](https://letterboxd.com/mondodrew/film/hell-hath-no-fury-2021-1/)
+- [Encanto, 2021 - ★★★](https://letterboxd.com/mondodrew/film/encanto/)
 - [C&#39;mon C&#39;mon, 2021 - ★★★](https://letterboxd.com/mondodrew/film/cmon-cmon/)
 - [The Matrix Resurrections, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-matrix-resurrections/)
 - [&#39;Gator Bait, 1974 - ★★½](https://letterboxd.com/mondodrew/film/gator-bait/)
-- [Hawkeye, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/hawkeye-2021/)
-- [Eastern Promises, 2007 - ★★★★](https://letterboxd.com/mondodrew/film/eastern-promises/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;I Quit!&#34;
