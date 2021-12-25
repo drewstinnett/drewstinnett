@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Mulholland Drive, 2001 - ★★★★½](https://letterboxd.com/mondodrew/film/mulholland-drive/)
 - [The Nights Before Christmas, 2020 - ★★](https://letterboxd.com/mondodrew/film/the-nights-before-christmas/)
 - [Hell Hath No Fury, 2021 - ★★](https://letterboxd.com/mondodrew/film/hell-hath-no-fury-2021-1/)
 - [Encanto, 2021 - ★★★](https://letterboxd.com/mondodrew/film/encanto/)
 - [C&#39;mon C&#39;mon, 2021 - ★★★](https://letterboxd.com/mondodrew/film/cmon-cmon/)
-- [The Matrix Resurrections, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-matrix-resurrections/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;I Quit!&#34;
