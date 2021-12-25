@@ -15,18 +15,18 @@
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/nfpm v2.11.2](https://github.com/goreleaser/nfpm/releases/tag/v2.11.2) (2 days ago)
-- [goreleaser/goreleaser v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2) (2 days ago)
-- [drewstinnett/vaultx v0.1.0](https://github.com/drewstinnett/vaultx/releases/tag/v0.1.0) (5 days ago)
+- [goreleaser/nfpm v2.11.2](https://github.com/goreleaser/nfpm/releases/tag/v2.11.2) (3 days ago)
+- [goreleaser/goreleaser v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2) (3 days ago)
+- [drewstinnett/vaultx v0.1.0](https://github.com/drewstinnett/vaultx/releases/tag/v0.1.0) (6 days ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 weeks ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Nights Before Christmas, 2020 - ★★](https://letterboxd.com/mondodrew/film/the-nights-before-christmas/)
 - [Hell Hath No Fury, 2021 - ★★](https://letterboxd.com/mondodrew/film/hell-hath-no-fury-2021-1/)
 - [Encanto, 2021 - ★★★](https://letterboxd.com/mondodrew/film/encanto/)
 - [C&#39;mon C&#39;mon, 2021 - ★★★](https://letterboxd.com/mondodrew/film/cmon-cmon/)
 - [The Matrix Resurrections, 2021 - ★★½](https://letterboxd.com/mondodrew/film/the-matrix-resurrections/)
-- [&#39;Gator Bait, 1974 - ★★½](https://letterboxd.com/mondodrew/film/gator-bait/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;I Quit!&#34;
