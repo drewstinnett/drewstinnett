@@ -15,11 +15,11 @@
 - [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 
 #### 🚀 Latest releases I've contributed to
-- [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (today)
-- [goreleaser/nfpm v2.11.2](https://github.com/goreleaser/nfpm/releases/tag/v2.11.2) (5 days ago)
-- [goreleaser/goreleaser v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2) (5 days ago)
+- [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (1 day ago)
+- [goreleaser/nfpm v2.11.2](https://github.com/goreleaser/nfpm/releases/tag/v2.11.2) (6 days ago)
+- [goreleaser/goreleaser v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2) (6 days ago)
 - [drewstinnett/vaultx v0.1.0](https://github.com/drewstinnett/vaultx/releases/tag/v0.1.0) (1 week ago)
-- [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 weeks ago)
+- [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
 - [Mulholland Drive, 2001 - ★★★★½](https://letterboxd.com/mondodrew/film/mulholland-drive/)
