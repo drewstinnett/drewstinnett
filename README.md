@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Red Rocket, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/red-rocket-2021/)
 - [Mulholland Drive, 2001 - ★★★★½](https://letterboxd.com/mondodrew/film/mulholland-drive/)
 - [The Nights Before Christmas, 2020 - ★★](https://letterboxd.com/mondodrew/film/the-nights-before-christmas/)
 - [Hell Hath No Fury, 2021 - ★★](https://letterboxd.com/mondodrew/film/hell-hath-no-fury-2021-1/)
 - [Encanto, 2021 - ★★★](https://letterboxd.com/mondodrew/film/encanto/)
-- [C&#39;mon C&#39;mon, 2021 - ★★★](https://letterboxd.com/mondodrew/film/cmon-cmon/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;I Quit!&#34;
