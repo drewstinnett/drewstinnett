@@ -8,11 +8,11 @@
 - 🎙 Cohost of the weekly podcast [Imminent Teachnology](https://podcast.imminentteachnology.com/) about Technology and Inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
 
 #### 👨‍💻 Latest projects I've created
+- [drewstinnett/gpgrap](https://github.com/drewstinnett/gpgrap) - GPG Wrapper for Go that standardizes key retrieval through an interface
 - [drewstinnett/vaultx](https://github.com/drewstinnett/vaultx) - Vault&#43;&#43; adds additional functionality in to the normal HashiVault CLI.
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 - [drewstinnett/azurectx-go](https://github.com/drewstinnett/azurectx-go) - Easily switch between Azure subscriptions
 - [drewstinnett/flipip](https://github.com/drewstinnett/flipip) - Take an IP address and quickly get the reverse PTR
-- [drewstinnett/homebrew-tap](https://github.com/drewstinnett/homebrew-tap) - Homebrew taps for my misc. stuff
 
 #### 🚀 Latest releases I've contributed to
 - [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (1 day ago)
