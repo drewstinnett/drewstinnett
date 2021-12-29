@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Super Bob Einstein Movie, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-super-bob-einstein-movie/)
 - [Don&#39;t Look Up, 2021 - ★★](https://letterboxd.com/mondodrew/film/dont-look-up-2021/)
 - [It&#39;s Such a Beautiful Day, 2012 - ★★★★★](https://letterboxd.com/mondodrew/film/its-such-a-beautiful-day/1/)
 - [Mo Amer: Mohammed in Texas, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/mo-amer-mohammed-in-texas/)
 - [The King&#39;s Man, 2021 - ★★★](https://letterboxd.com/mondodrew/film/the-kings-man/)
-- [Red Rocket, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/red-rocket-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Supply Chain Breaches
