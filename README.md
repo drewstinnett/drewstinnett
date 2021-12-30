@@ -15,9 +15,9 @@
 - [drewstinnett/flipip](https://github.com/drewstinnett/flipip) - Take an IP address and quickly get the reverse PTR
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.2.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.3) (today)
-- [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (1 day ago)
-- [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (2 days ago)
+- [goreleaser/goreleaser v1.2.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.3) (1 day ago)
+- [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (2 days ago)
+- [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (3 days ago)
 - [drewstinnett/vaultx v0.1.0](https://github.com/drewstinnett/vaultx/releases/tag/v0.1.0) (1 week ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 weeks ago)
 
