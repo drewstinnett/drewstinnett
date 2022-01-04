@@ -15,18 +15,18 @@
 - [drewstinnett/azurectx-go](https://github.com/drewstinnett/azurectx-go) - Easily switch between Azure subscriptions
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (3 days ago)
-- [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (6 days ago)
+- [goreleaser/goreleaser v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5) (4 days ago)
+- [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (1 week ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (1 week ago)
 - [drewstinnett/vaultx v0.1.0](https://github.com/drewstinnett/vaultx/releases/tag/v0.1.0) (2 weeks ago)
-- [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 weeks ago)
+- [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (4 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Halloween Kills, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-kills/1/)
 - [Halloween, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-2018/)
 - [Swan Song, 2021 - ★★](https://letterboxd.com/mondodrew/film/swan-song-2021-1/)
 - [The Super Bob Einstein Movie, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-super-bob-einstein-movie/)
 - [Don&#39;t Look Up, 2021 - ★★](https://letterboxd.com/mondodrew/film/dont-look-up-2021/)
-- [It&#39;s Such a Beautiful Day, 2012 - ★★★★★](https://letterboxd.com/mondodrew/film/its-such-a-beautiful-day/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Supply Chain Breaches
