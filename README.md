@@ -29,8 +29,8 @@
 - [Don&#39;t Look Up, 2021 - ★★](https://letterboxd.com/mondodrew/film/dont-look-up-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- IPA - Not the Beer but the Intelligent Process Automation
 - Supply Chain Breaches
 - &#34;I Quit!&#34;
 - Global Education with Soraya Campbell
 - Acceptance and Belonging with Mark Little
-- Failing Often
