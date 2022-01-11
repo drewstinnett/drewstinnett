@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Pleasure, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/pleasure-2021/)
 - [Mad God, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/mad-god/)
 - [Nightmare Alley, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/nightmare-alley-2021/)
 - [Winterbeast, 1992 - ★★½](https://letterboxd.com/mondodrew/film/winterbeast/)
 - [Halloween Kills, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-kills/1/)
-- [Halloween, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-2018/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - IPA - Not the Beer but the Intelligent Process Automation
