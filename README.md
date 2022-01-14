@@ -15,7 +15,7 @@
 - [drewstinnett/azurectx-go](https://github.com/drewstinnett/azurectx-go) - Easily switch between Azure subscriptions
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.3.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.0) (1 day ago)
+- [goreleaser/goreleaser v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1) (today)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (3 days ago)
 - [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (2 weeks ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (2 weeks ago)
