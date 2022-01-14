@@ -15,18 +15,18 @@
 - [drewstinnett/azurectx-go](https://github.com/drewstinnett/azurectx-go) - Easily switch between Azure subscriptions
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.3.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.0) (today)
-- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (2 days ago)
+- [goreleaser/goreleaser v1.3.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.0) (1 day ago)
+- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (3 days ago)
 - [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (2 weeks ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (2 weeks ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Station Eleven, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/station-eleven/)
 - [Pleasure, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/pleasure-2021/)
 - [Mad God, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/mad-god/)
 - [Nightmare Alley, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/nightmare-alley-2021/)
 - [Winterbeast, 1992 - ★★½](https://letterboxd.com/mondodrew/film/winterbeast/)
-- [Halloween Kills, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-kills/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - IPA - Not the Beer but the Intelligent Process Automation
