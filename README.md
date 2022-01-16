@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [I Am Lisa, 2020 - ★½](https://letterboxd.com/mondodrew/film/i-am-lisa/)
 - [The Runner, 2022 - ★★](https://letterboxd.com/mondodrew/film/the-runner-2022/)
 - [Alison&#39;s Birthday, 1981 - ★★](https://letterboxd.com/mondodrew/film/alisons-birthday/)
 - [Scream, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/scream-2022/)
 - [Eyes of Fire, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/eyes-of-fire/)
-- [The Tragedy of Macbeth, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-tragedy-of-macbeth/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - IPA - Not the Beer but the Intelligent Process Automation
