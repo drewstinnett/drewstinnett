@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Flesh for Frankenstein, 1973 - ★★★★](https://letterboxd.com/mondodrew/film/flesh-for-frankenstein/)
 - [Fatal Exam, 1990 - ★★](https://letterboxd.com/mondodrew/film/fatal-exam/)
 - [Clearcut, 1991 - ★★★](https://letterboxd.com/mondodrew/film/clearcut/)
 - [I Am Lisa, 2020 - ★½](https://letterboxd.com/mondodrew/film/i-am-lisa/)
 - [The Runner, 2022 - ★★](https://letterboxd.com/mondodrew/film/the-runner-2022/)
-- [Alison&#39;s Birthday, 1981 - ★★](https://letterboxd.com/mondodrew/film/alisons-birthday/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - IPA - Not the Beer but the Intelligent Process Automation
