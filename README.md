@@ -29,8 +29,8 @@
 - [I Am Lisa, 2020 - ★½](https://letterboxd.com/mondodrew/film/i-am-lisa/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Selling Personal Data
 - IPA - Not the Beer but the Intelligent Process Automation
 - Supply Chain Breaches
 - &#34;I Quit!&#34;
 - Global Education with Soraya Campbell
-- Acceptance and Belonging with Mark Little
