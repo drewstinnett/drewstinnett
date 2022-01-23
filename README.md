@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Pizzagate Massacre, 2020 - ★★½](https://letterboxd.com/mondodrew/film/the-pizzagate-massacre/)
 - [The Last Thing Mary Saw, 2021 - ★★](https://letterboxd.com/mondodrew/film/the-last-thing-mary-saw/)
 - [Blood for Dracula, 1974 - ★★½](https://letterboxd.com/mondodrew/film/blood-for-dracula/)
 - [Flesh for Frankenstein, 1973 - ★★★★](https://letterboxd.com/mondodrew/film/flesh-for-frankenstein/)
 - [Fatal Exam, 1990 - ★★](https://letterboxd.com/mondodrew/film/fatal-exam/)
-- [Clearcut, 1991 - ★★★](https://letterboxd.com/mondodrew/film/clearcut/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Selling Personal Data
