@@ -16,8 +16,8 @@
 
 #### 🚀 Latest releases I've contributed to
 - [goreleaser/goreleaser v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1) (1 week ago)
-- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (1 week ago)
-- [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (3 weeks ago)
+- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (2 weeks ago)
+- [goreleaser/nfpm v2.11.3](https://github.com/goreleaser/nfpm/releases/tag/v2.11.3) (4 weeks ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (4 weeks ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 month ago)
 
