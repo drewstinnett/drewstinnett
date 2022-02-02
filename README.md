@@ -29,8 +29,8 @@
 - [Blood for Dracula, 1974 - ★★½](https://letterboxd.com/mondodrew/film/blood-for-dracula/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Language!
 - Selling Personal Data
 - IPA - Not the Beer but the Intelligent Process Automation
 - Supply Chain Breaches
 - &#34;I Quit!&#34;
-- Global Education with Soraya Campbell
