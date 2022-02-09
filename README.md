@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Sicario, 2015 - ★★★★★](https://letterboxd.com/mondodrew/film/sicario-2015/)
 - [House of Gucci, 2021 - ★½](https://letterboxd.com/mondodrew/film/house-of-gucci/)
 - [Slapface, 2021 - ★★](https://letterboxd.com/mondodrew/film/slapface-2021/)
 - [Jackass Forever, 2022 - ★★★](https://letterboxd.com/mondodrew/film/jackass-forever/)
 - [The Cleansing, 2019 - ★★](https://letterboxd.com/mondodrew/film/the-cleansing/)
-- [The Witch Who Came from the Sea, 1976 - ★★★](https://letterboxd.com/mondodrew/film/the-witch-who-came-from-the-sea/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Language!
