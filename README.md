@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Attica, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/attica-2021/)
 - [Cherry Falls, 2000 - ★★½](https://letterboxd.com/mondodrew/film/cherry-falls/)
 - [Robin Robin, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/robin-robin/)
 - [Sicario, 2015 - ★★★★★](https://letterboxd.com/mondodrew/film/sicario-2015/)
 - [House of Gucci, 2021 - ★½](https://letterboxd.com/mondodrew/film/house-of-gucci/)
-- [Slapface, 2021 - ★★](https://letterboxd.com/mondodrew/film/slapface-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Language!
