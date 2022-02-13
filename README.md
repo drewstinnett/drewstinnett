@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Black Roses, 1988 - ★★★](https://letterboxd.com/mondodrew/film/black-roses/1/)
 - [I Blame Society, 2020 - ★★★](https://letterboxd.com/mondodrew/film/i-blame-society/)
 - [Alone with You, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/film:773104/)
 - [Attica, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/attica-2021/)
 - [Cherry Falls, 2000 - ★★½](https://letterboxd.com/mondodrew/film/cherry-falls/)
-- [Robin Robin, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/robin-robin/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Language!
