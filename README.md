@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Frankenhooker, 1990 - ★★★½](https://letterboxd.com/mondodrew/film/frankenhooker/)
 - [The Power of the Dog, 2021 - ★★★](https://letterboxd.com/mondodrew/film/the-power-of-the-dog/)
 - [Black Roses, 1988 - ★★★](https://letterboxd.com/mondodrew/film/black-roses/1/)
 - [I Blame Society, 2020 - ★★★](https://letterboxd.com/mondodrew/film/i-blame-society/)
 - [Alone with You, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/film:773104/)
-- [Attica, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/attica-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Language!
