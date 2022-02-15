@@ -15,8 +15,8 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) (2 days ago)
-- [goreleaser/nfpm v2.13.0](https://github.com/goreleaser/nfpm/releases/tag/v2.13.0) (2 days ago)
+- [goreleaser/goreleaser v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0) (3 days ago)
+- [goreleaser/nfpm v2.13.0](https://github.com/goreleaser/nfpm/releases/tag/v2.13.0) (3 days ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (1 month ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (1 month ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 months ago)
