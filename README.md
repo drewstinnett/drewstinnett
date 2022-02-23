@@ -29,8 +29,8 @@
 - [Frankenhooker, 1990 - ★★★½](https://letterboxd.com/mondodrew/film/frankenhooker/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- NFTs!
 - Language!
 - Selling Personal Data
 - IPA - Not the Beer but the Intelligent Process Automation
 - Supply Chain Breaches
-- &#34;I Quit!&#34;
