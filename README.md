@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Kimi, 2022 - ★★½](https://letterboxd.com/mondodrew/film/kimi/)
 - [Uncharted, 2022 - ★★★](https://letterboxd.com/mondodrew/film/uncharted-2022/)
 - [Licorice Pizza, 2021 - ★★★](https://letterboxd.com/mondodrew/film/licorice-pizza/)
 - [Texas Chainsaw Massacre, 2022 - ★★★ (contains spoilers)](https://letterboxd.com/mondodrew/film/texas-chainsaw-massacre/)
 - [The Worst Person in the World, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-worst-person-in-the-world/)
-- [Frankenhooker, 1990 - ★★★½](https://letterboxd.com/mondodrew/film/frankenhooker/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - NFTs!
