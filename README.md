@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [West Side Story, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/west-side-story-2021/)
 - [Hellbender, 2021 - ★★★](https://letterboxd.com/mondodrew/film/hellbender/)
 - [Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles, 2014 - ★★★½](https://letterboxd.com/mondodrew/film/turtle-power-the-definitive-history-of-the-teenage-mutant-ninja-turtles/)
 - [Kimi, 2022 - ★★½](https://letterboxd.com/mondodrew/film/kimi/)
 - [Uncharted, 2022 - ★★★](https://letterboxd.com/mondodrew/film/uncharted-2022/)
-- [Licorice Pizza, 2021 - ★★★](https://letterboxd.com/mondodrew/film/licorice-pizza/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - NFTs!
