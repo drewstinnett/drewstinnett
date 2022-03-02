@@ -29,8 +29,8 @@
 - [Uncharted, 2022 - ★★★](https://letterboxd.com/mondodrew/film/uncharted-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Newton Advocacy &amp; Strategic Information Technology
 - NFTs!
 - Language!
 - Selling Personal Data
 - IPA - Not the Beer but the Intelligent Process Automation
-- Supply Chain Breaches
