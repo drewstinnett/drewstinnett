@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Belfast, 2021 - ★★½](https://letterboxd.com/mondodrew/film/belfast/)
 - [The Batman, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/the-batman/)
 - [jeen-yuhs: A Kanye Trilogy, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/jeen-yuhs-a-kanye-trilogy/)
 - [West Side Story, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/west-side-story-2021/)
 - [Hellbender, 2021 - ★★★](https://letterboxd.com/mondodrew/film/hellbender/)
-- [Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles, 2014 - ★★★½](https://letterboxd.com/mondodrew/film/turtle-power-the-definitive-history-of-the-teenage-mutant-ninja-turtles/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Newton Advocacy &amp; Strategic Information Technology
