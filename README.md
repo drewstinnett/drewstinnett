@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1) (1 day ago)
+- [goreleaser/goreleaser v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1) (2 days ago)
 - [goreleaser/nfpm v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) (1 week ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (1 month ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (2 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Darkman, 1990 - ★★★★](https://letterboxd.com/mondodrew/film/darkman/)
 - [Sundown, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/sundown-2021/)
 - [Fresh, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/fresh-2022/)
 - [After Yang, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/after-yang/)
 - [Belfast, 2021 - ★★½](https://letterboxd.com/mondodrew/film/belfast/)
-- [The Batman, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/the-batman/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Newton Advocacy &amp; Strategic Information Technology
