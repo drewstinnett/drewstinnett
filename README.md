@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Interstellar, 2014 - ★★★★★](https://letterboxd.com/mondodrew/film/interstellar/)
 - [Darkman, 1990 - ★★★★](https://letterboxd.com/mondodrew/film/darkman/)
 - [Sundown, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/sundown-2021/)
 - [Fresh, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/fresh-2022/)
 - [After Yang, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/after-yang/)
-- [Belfast, 2021 - ★★½](https://letterboxd.com/mondodrew/film/belfast/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Newton Advocacy &amp; Strategic Information Technology
