@@ -29,8 +29,8 @@
 - [After Yang, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/after-yang/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Artificial Intelligence
 - Newton Advocacy &amp; Strategic Information Technology
 - NFTs!
 - Language!
 - Selling Personal Data
-- IPA - Not the Beer but the Intelligent Process Automation
