@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Offseason, 2021 - ★★★](https://letterboxd.com/mondodrew/film/film:714010/)
 - [Alien: Covenant, 2017 - ★★★½](https://letterboxd.com/mondodrew/film/alien-covenant/)
 - [Prometheus, 2012 - ★★★★](https://letterboxd.com/mondodrew/film/prometheus/)
 - [Sicario: Day of the Soldado, 2018 - ★★★★½](https://letterboxd.com/mondodrew/film/sicario-day-of-the-soldado/)
 - [Interstellar, 2014 - ★★★★★](https://letterboxd.com/mondodrew/film/interstellar/)
-- [Darkman, 1990 - ★★★★](https://letterboxd.com/mondodrew/film/darkman/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Artificial Intelligence
