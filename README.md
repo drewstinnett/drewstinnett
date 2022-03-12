@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Rent, 2005 - ★★★★](https://letterboxd.com/mondodrew/film/rent/)
 - [Studio 666, 2022 - ★★★](https://letterboxd.com/mondodrew/film/studio-666-2022/)
 - [The Adam Project, 2022 - ★½](https://letterboxd.com/mondodrew/film/the-adam-project/)
 - [Offseason, 2021 - ★★★](https://letterboxd.com/mondodrew/film/film:714010/)
 - [Alien: Covenant, 2017 - ★★★½](https://letterboxd.com/mondodrew/film/alien-covenant/)
-- [Prometheus, 2012 - ★★★★](https://letterboxd.com/mondodrew/film/prometheus/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Artificial Intelligence
