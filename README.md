@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Cursed, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-cursed-2021/)
 - [The 355, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-355/)
 - [Dunkirk, 2017 - ★★★½](https://letterboxd.com/mondodrew/film/dunkirk-2017/)
 - [Dog, 2022 - ★★½](https://letterboxd.com/mondodrew/film/dog-2022/)
 - [Rent, 2005 - ★★★★](https://letterboxd.com/mondodrew/film/rent/)
-- [Studio 666, 2022 - ★★★](https://letterboxd.com/mondodrew/film/studio-666-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Artificial Intelligence
