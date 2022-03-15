@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3) (2 days ago)
+- [goreleaser/goreleaser v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3) (3 days ago)
 - [goreleaser/nfpm v2.14.0](https://github.com/goreleaser/nfpm/releases/tag/v2.14.0) (2 weeks ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (2 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (2 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The 355, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-355/)
 - [Dunkirk, 2017 - ★★★½](https://letterboxd.com/mondodrew/film/dunkirk-2017/)
 - [Dog, 2022 - ★★½](https://letterboxd.com/mondodrew/film/dog-2022/)
 - [Rent, 2005 - ★★★★](https://letterboxd.com/mondodrew/film/rent/)
 - [Studio 666, 2022 - ★★★](https://letterboxd.com/mondodrew/film/studio-666-2022/)
-- [The Adam Project, 2022 - ★½](https://letterboxd.com/mondodrew/film/the-adam-project/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Artificial Intelligence
