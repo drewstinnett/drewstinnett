@@ -29,8 +29,8 @@
 - [Rent, 2005 - ★★★★](https://letterboxd.com/mondodrew/film/rent/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Anonymity on the Web
 - Artificial Intelligence
 - Newton Advocacy &amp; Strategic Information Technology
 - NFTs!
 - Language!
-- Selling Personal Data
