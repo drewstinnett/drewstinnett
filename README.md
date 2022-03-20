@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Master, 2022 - ★★★](https://letterboxd.com/mondodrew/film/master-2022/)
 - [X, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/x-2022/)
 - [The Seed, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-seed-2021-1/)
 - [Panama, 2022 - ★½](https://letterboxd.com/mondodrew/film/panama-2022/)
 - [The Cursed, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-cursed-2021/)
-- [The 355, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-355/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Anonymity on the Web
