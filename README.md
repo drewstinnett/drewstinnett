@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/nfpm v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) (1 day ago)
-- [goreleaser/goreleaser v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3) (1 week ago)
+- [goreleaser/goreleaser v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) (today)
+- [goreleaser/nfpm v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) (2 days ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (2 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (2 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Upgrade, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/upgrade/)
 - [Master, 2022 - ★★★](https://letterboxd.com/mondodrew/film/master-2022/)
 - [X, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/x-2022/)
 - [The Seed, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-seed-2021-1/)
 - [Panama, 2022 - ★½](https://letterboxd.com/mondodrew/film/panama-2022/)
-- [The Cursed, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-cursed-2021/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Anonymity on the Web
