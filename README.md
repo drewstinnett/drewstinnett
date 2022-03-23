@@ -29,8 +29,8 @@
 - [The Seed, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-seed-2021-1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Bitcoin Part 1
 - Anonymity on the Web
 - Artificial Intelligence
 - Newton Advocacy &amp; Strategic Information Technology
 - NFTs!
-- Language!
