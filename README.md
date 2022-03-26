@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Blade: The Iron Cross, 2020 - ★★](https://letterboxd.com/mondodrew/film/blade-the-iron-cross/)
 - [Windfall, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/windfall/)
 - [Upgrade, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/upgrade/)
 - [Master, 2022 - ★★★](https://letterboxd.com/mondodrew/film/master-2022/)
 - [X, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/x-2022/)
-- [The Seed, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/the-seed-2021-1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Bitcoin Part 1
