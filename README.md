@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) (5 days ago)
+- [goreleaser/goreleaser v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) (6 days ago)
 - [goreleaser/nfpm v2.15.0](https://github.com/goreleaser/nfpm/releases/tag/v2.15.0) (1 week ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (2 months ago)
-- [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (2 months ago)
+- [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (3 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Memory: The Origins of Alien, 2019 - ★★★½](https://letterboxd.com/mondodrew/film/memory-the-origins-of-alien/)
 - [Siege, 1983 - ★★★](https://letterboxd.com/mondodrew/film/siege-1983/)
 - [The Lost City, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-lost-city-2022/)
 - [Blade: The Iron Cross, 2020 - ★★](https://letterboxd.com/mondodrew/film/blade-the-iron-cross/)
 - [Windfall, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/windfall/)
-- [Upgrade, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/upgrade/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Bitcoin Part 1
