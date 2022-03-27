@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Cyrano, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/cyrano-2021/)
 - [Memory: The Origins of Alien, 2019 - ★★★½](https://letterboxd.com/mondodrew/film/memory-the-origins-of-alien/)
 - [Siege, 1983 - ★★★](https://letterboxd.com/mondodrew/film/siege-1983/)
 - [The Lost City, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-lost-city-2022/)
 - [Blade: The Iron Cross, 2020 - ★★](https://letterboxd.com/mondodrew/film/blade-the-iron-cross/)
-- [Windfall, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/windfall/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Bitcoin Part 1
