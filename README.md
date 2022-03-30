@@ -29,8 +29,8 @@
 - [The Lost City, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-lost-city-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Bitcoint Part 2
 - Bitcoin Part 1
 - Anonymity on the Web
 - Artificial Intelligence
 - Newton Advocacy &amp; Strategic Information Technology
-- NFTs!
