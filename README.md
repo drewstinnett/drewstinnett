@@ -19,14 +19,14 @@
 - [goreleaser/goreleaser v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0) (2 weeks ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (2 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (3 months ago)
-- [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (3 months ago)
+- [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Moonfall, 2022 - ★★★](https://letterboxd.com/mondodrew/film/moonfall/)
 - [Searching for Cannibal Holocaust, 2021 - ★★½](https://letterboxd.com/mondodrew/film/searching-for-cannibal-holocaust/)
 - [Downfall: The Case Against Boeing, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/downfall-the-case-against-boeing/)
 - [Cyrano, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/cyrano-2021/)
 - [Memory: The Origins of Alien, 2019 - ★★★½](https://letterboxd.com/mondodrew/film/memory-the-origins-of-alien/)
-- [Siege, 1983 - ★★★](https://letterboxd.com/mondodrew/film/siege-1983/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Bitcoint Part 2
