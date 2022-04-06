@@ -29,8 +29,8 @@
 - [Memory: The Origins of Alien, 2019 - ★★★½](https://letterboxd.com/mondodrew/film/memory-the-origins-of-alien/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Generations of Technology
 - Bitcoint Part 2
 - Bitcoin Part 1
 - Anonymity on the Web
 - Artificial Intelligence
-- Newton Advocacy &amp; Strategic Information Technology
