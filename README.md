@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [GetEven, 1993 - ★★★½](https://letterboxd.com/mondodrew/film/geteven/)
 - [Moonfall, 2022 - ★★★](https://letterboxd.com/mondodrew/film/moonfall/)
 - [Searching for Cannibal Holocaust, 2021 - ★★½](https://letterboxd.com/mondodrew/film/searching-for-cannibal-holocaust/)
 - [Downfall: The Case Against Boeing, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/downfall-the-case-against-boeing/)
 - [Cyrano, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/cyrano-2021/)
-- [Memory: The Origins of Alien, 2019 - ★★★½](https://letterboxd.com/mondodrew/film/memory-the-origins-of-alien/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Generations of Technology
