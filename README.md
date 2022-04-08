@@ -30,7 +30,7 @@
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Generations of Technology
-- Bitcoint Part 2
+- Bitcoin Part 2
 - Bitcoin Part 1
 - Anonymity on the Web
 - Artificial Intelligence
