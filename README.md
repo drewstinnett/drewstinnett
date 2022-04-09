@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Idle Hands, 1999 - ★★★★](https://letterboxd.com/mondodrew/film/idle-hands/)
 - [Umma, 2022 - ★★½](https://letterboxd.com/mondodrew/film/umma-2022/)
 - [GetEven, 1993 - ★★★½](https://letterboxd.com/mondodrew/film/geteven/)
 - [Moonfall, 2022 - ★★★](https://letterboxd.com/mondodrew/film/moonfall/)
 - [Searching for Cannibal Holocaust, 2021 - ★★½](https://letterboxd.com/mondodrew/film/searching-for-cannibal-holocaust/)
-- [Downfall: The Case Against Boeing, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/downfall-the-case-against-boeing/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Generations of Technology
