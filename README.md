@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [See for Me, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/see-for-me/)
 - [Morbius, 2022 - ★½](https://letterboxd.com/mondodrew/film/morbius/1/)
 - [Morbius, 2022 - ★½](https://letterboxd.com/mondodrew/film/morbius/)
 - [Idle Hands, 1999 - ★★★★](https://letterboxd.com/mondodrew/film/idle-hands/)
 - [Umma, 2022 - ★★½](https://letterboxd.com/mondodrew/film/umma-2022/)
-- [GetEven, 1993 - ★★★½](https://letterboxd.com/mondodrew/film/geteven/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Generations of Technology
