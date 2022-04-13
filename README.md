@@ -29,8 +29,8 @@
 - [Morbius, 2022 - ★½](https://letterboxd.com/mondodrew/film/morbius/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Encryption Part 1
 - Generations of Technology
 - Bitcoin Part 2
 - Bitcoin Part 1
 - Anonymity on the Web
-- Artificial Intelligence
