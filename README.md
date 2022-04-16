@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [X, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/x-2022/1/)
+- [The Cellar, 2022 - ★★](https://letterboxd.com/mondodrew/film/the-cellar-2022/)
 - [Subspecies, 1991 - ★★★](https://letterboxd.com/mondodrew/film/subspecies/)
 - [Everything Everywhere All at Once, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/everything-everywhere-all-at-once/)
 - [The Outfit, 2022 - ★★](https://letterboxd.com/mondodrew/film/the-outfit-2022/)
-- [See for Me, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/see-for-me/)
-- [Morbius, 2022 - ★½](https://letterboxd.com/mondodrew/film/morbius/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Encryption Part 1
