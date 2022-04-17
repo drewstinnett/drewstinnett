@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.3.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.3.2) (today)
-- [goreleaser/goreleaser v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2) (today)
+- [trufflesecurity/trufflehog v3.3.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.3.2) (1 day ago)
+- [goreleaser/goreleaser v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2) (1 day ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 weeks ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (3 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Bubble, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-bubble-2022/)
 - [Four Brothers, 2005 - ★★★](https://letterboxd.com/mondodrew/film/four-brothers/)
 - [X, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/x-2022/1/)
 - [The Cellar, 2022 - ★★](https://letterboxd.com/mondodrew/film/the-cellar-2022/)
 - [Subspecies, 1991 - ★★★](https://letterboxd.com/mondodrew/film/subspecies/)
-- [Everything Everywhere All at Once, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/everything-everywhere-all-at-once/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Encryption Part 1
