@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Evil Dead II, 1987 - ★★★★½](https://letterboxd.com/mondodrew/film/evil-dead-ii/)
 - [The Bubble, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-bubble-2022/)
 - [Four Brothers, 2005 - ★★★](https://letterboxd.com/mondodrew/film/four-brothers/)
 - [X, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/x-2022/1/)
 - [The Cellar, 2022 - ★★](https://letterboxd.com/mondodrew/film/the-cellar-2022/)
-- [Subspecies, 1991 - ★★★](https://letterboxd.com/mondodrew/film/subspecies/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Encryption Part 1
