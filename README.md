@@ -29,8 +29,8 @@
 - [Four Brothers, 2005 - ★★★](https://letterboxd.com/mondodrew/film/four-brothers/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Weedmaps Vs Amazon
 - Encryption Part 1
 - Generations of Technology
 - Bitcoin Part 2
 - Bitcoin Part 1
-- Anonymity on the Web
