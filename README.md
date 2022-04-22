@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) (1 day ago)
-- [trufflesecurity/trufflehog v3.3.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.3.3) (3 days ago)
+- [goreleaser/goreleaser v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) (2 days ago)
+- [trufflesecurity/trufflehog v3.3.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.3.3) (4 days ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (3 weeks ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (3 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Unbearable Weight of Massive Talent, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/the-unbearable-weight-of-massive-talent/)
 - [Riders of Justice, 2020 - ★★★★](https://letterboxd.com/mondodrew/film/riders-of-justice/)
 - [Army of Darkness, 1992 - ★★★★½](https://letterboxd.com/mondodrew/film/army-of-darkness/)
 - [Evil Dead II, 1987 - ★★★★½](https://letterboxd.com/mondodrew/film/evil-dead-ii/)
 - [The Bubble, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-bubble-2022/)
-- [Four Brothers, 2005 - ★★★](https://letterboxd.com/mondodrew/film/four-brothers/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Weedmaps Vs Amazon
