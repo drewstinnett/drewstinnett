@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Northman, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/the-northman/)
 - [The Unbearable Weight of Massive Talent, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/the-unbearable-weight-of-massive-talent/)
 - [Riders of Justice, 2020 - ★★★★](https://letterboxd.com/mondodrew/film/riders-of-justice/)
 - [Army of Darkness, 1992 - ★★★★½](https://letterboxd.com/mondodrew/film/army-of-darkness/)
 - [Evil Dead II, 1987 - ★★★★½](https://letterboxd.com/mondodrew/film/evil-dead-ii/)
-- [The Bubble, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-bubble-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Weedmaps Vs Amazon
