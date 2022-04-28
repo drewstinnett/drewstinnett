@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Rocktober Blood, 1984 - ★½](https://letterboxd.com/mondodrew/film/rocktober-blood/)
 - [Come and See, 1985 - ★★★★](https://letterboxd.com/mondodrew/film/come-and-see/)
 - [Batman Begins, 2005 - ★★★★½](https://letterboxd.com/mondodrew/film/batman-begins/)
 - [Ambulance, 2022 - ★★](https://letterboxd.com/mondodrew/film/ambulance-2022/)
 - [Cypress Hill: Insane in the Brain, 2022 - ★★½](https://letterboxd.com/mondodrew/film/cypress-hill-insane-in-the-brain/)
-- [The Northman, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/the-northman/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Weedmaps Vs Amazon
