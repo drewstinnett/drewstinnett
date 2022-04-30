@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Sonic the Hedgehog 2, 2022 - ★★](https://letterboxd.com/mondodrew/film/sonic-the-hedgehog-2/)
 - [The Pit and the Pendulum, 1991 - ★★★](https://letterboxd.com/mondodrew/film/the-pit-and-the-pendulum/)
 - [Rocktober Blood, 1984 - ★½](https://letterboxd.com/mondodrew/film/rocktober-blood/)
 - [Come and See, 1985 - ★★★★](https://letterboxd.com/mondodrew/film/come-and-see/)
 - [Batman Begins, 2005 - ★★★★½](https://letterboxd.com/mondodrew/film/batman-begins/)
-- [Ambulance, 2022 - ★★](https://letterboxd.com/mondodrew/film/ambulance-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Weedmaps Vs Amazon
