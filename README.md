@@ -29,8 +29,8 @@
 - [The Quick and the Dead, 1995 - ★★★](https://letterboxd.com/mondodrew/film/the-quick-and-the-dead-1995/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Encryption Part 2
 - Weedmaps Vs Amazon
 - Encryption Part 1
 - Generations of Technology
 - Bitcoin Part 2
-- Bitcoin Part 1
