@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.4.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.4.3) (today)
+- [trufflesecurity/trufflehog v3.4.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.4.3) (1 day ago)
 - [goreleaser/goreleaser v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) (2 weeks ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (1 month ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (3 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Moon Knight, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/moon-knight-2022/)
 - [A Dog&#39;s Will, 2000 - ★★](https://letterboxd.com/mondodrew/film/a-dogs-will/)
 - [Anthropophagous, 1980 - ★½](https://letterboxd.com/mondodrew/film/anthropophagous/)
 - [Night of the Living Dead, 1968 - ★★★★½](https://letterboxd.com/mondodrew/film/night-of-the-living-dead/)
 - [Detention, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/detention-2011/)
-- [The Quick and the Dead, 1995 - ★★★](https://letterboxd.com/mondodrew/film/the-quick-and-the-dead-1995/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Encryption Part 2
