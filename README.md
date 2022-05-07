@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Doctor Strange in the Multiverse of Madness, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/doctor-strange-in-the-multiverse-of-madness/)
 - [Moon Knight, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/moon-knight-2022/)
 - [A Dog&#39;s Will, 2000 - ★★](https://letterboxd.com/mondodrew/film/a-dogs-will/)
 - [Anthropophagous, 1980 - ★½](https://letterboxd.com/mondodrew/film/anthropophagous/)
 - [Night of the Living Dead, 1968 - ★★★★½](https://letterboxd.com/mondodrew/film/night-of-the-living-dead/)
-- [Detention, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/detention-2011/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Encryption Part 2
