@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Def by Temptation, 1990 - ★★★](https://letterboxd.com/mondodrew/film/def-by-temptation/1/)
 - [Black Sunday, 1960 - ★★★](https://letterboxd.com/mondodrew/film/black-sunday-1960/)
 - [Suicide for Beginners, 2022 - ★★★](https://letterboxd.com/mondodrew/film/suicide-for-beginners/)
 - [Doctor Strange in the Multiverse of Madness, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/doctor-strange-in-the-multiverse-of-madness/)
 - [Moon Knight, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/moon-knight-2022/)
-- [A Dog&#39;s Will, 2000 - ★★](https://letterboxd.com/mondodrew/film/a-dogs-will/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Encryption Part 2
