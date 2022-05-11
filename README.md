@@ -15,10 +15,10 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.4.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.4.4) (today)
-- [goreleaser/goreleaser v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) (2 weeks ago)
+- [trufflesecurity/trufflehog v3.4.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.4.4) (1 day ago)
+- [goreleaser/goreleaser v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) (3 weeks ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (1 month ago)
-- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (3 months ago)
+- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (4 months ago)
 
 #### 🍿 Latest movies I've watched
