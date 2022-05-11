@@ -29,8 +29,8 @@
 - [Moon Knight, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/moon-knight-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Diversity and Invisibility
 - Encryption Part 2
 - Weedmaps Vs Amazon
 - Encryption Part 1
 - Generations of Technology
-- Bitcoin Part 2
