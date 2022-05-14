@@ -22,11 +22,11 @@
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [A Ghost Waits, 2020 - ★★](https://letterboxd.com/mondodrew/film/a-ghost-waits/)
 - [The Midnight Swim, 2014 - ★★½](https://letterboxd.com/mondodrew/film/the-midnight-swim/)
 - [Firestarter, 2022 - ★](https://letterboxd.com/mondodrew/film/firestarter-1/)
 - [Def by Temptation, 1990 - ★★★](https://letterboxd.com/mondodrew/film/def-by-temptation/1/)
 - [Black Sunday, 1960 - ★★★](https://letterboxd.com/mondodrew/film/black-sunday-1960/)
-- [Suicide for Beginners, 2022 - ★★★](https://letterboxd.com/mondodrew/film/suicide-for-beginners/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Diversity and Invisibility
