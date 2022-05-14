@@ -8,11 +8,11 @@
 - 🎙 Cohost of the weekly podcast [Imminent Teachnology](https://podcast.imminentteachnology.com/) about Technology and Inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
 
 #### 👨‍💻 Latest projects I've created
+- [drewstinnett/letterrestd](https://github.com/drewstinnett/letterrestd) - RESTful API Server to letterboxd
 - [drewstinnett/gpgrap](https://github.com/drewstinnett/gpgrap) - Library for simplifying gpg encryption in utils
 - [drewstinnett/letseat](https://github.com/drewstinnett/letseat)
 - [drewstinnett/drewstinnett.github.io](https://github.com/drewstinnett/drewstinnett.github.io)
 - [drewstinnett/vaultx](https://github.com/drewstinnett/vaultx) - Vault&#43;&#43; adds additional functionality in to the normal HashiVault CLI.
-- [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
 - [trufflesecurity/trufflehog v3.4.5](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.4.5) (1 day ago)
