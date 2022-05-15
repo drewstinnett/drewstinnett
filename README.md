@@ -15,8 +15,8 @@
 - [drewstinnett/vaultx](https://github.com/drewstinnett/vaultx) - Vault&#43;&#43; adds additional functionality in to the normal HashiVault CLI.
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/letterrestd v0.1.3](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.3) (today)
-- [trufflesecurity/trufflehog v3.4.5](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.4.5) (1 day ago)
+- [drewstinnett/letterrestd v0.1.3](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.3) (1 day ago)
+- [trufflesecurity/trufflehog v3.4.5](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.4.5) (2 days ago)
 - [goreleaser/goreleaser v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3) (3 weeks ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (1 month ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
