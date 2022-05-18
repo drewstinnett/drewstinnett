@@ -29,8 +29,8 @@
 - [Firestarter, 2022 - ★](https://letterboxd.com/mondodrew/film/firestarter-1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Application Tracking Systems
 - Diversity and Invisibility
 - Encryption Part 2
 - Weedmaps Vs Amazon
 - Encryption Part 1
-- Generations of Technology
