@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Dual, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/dual-2022/)
 - [Everything Everywhere All at Once, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/everything-everywhere-all-at-once/1/)
 - [Housebound, 2014 - ★★★★](https://letterboxd.com/mondodrew/film/housebound/)
 - [The Little Girl Who Lives Down the Lane, 1976 - ★★½](https://letterboxd.com/mondodrew/film/the-little-girl-who-lives-down-the-lane/)
 - [A Ghost Waits, 2020 - ★★](https://letterboxd.com/mondodrew/film/a-ghost-waits/)
-- [The Midnight Swim, 2014 - ★★½](https://letterboxd.com/mondodrew/film/the-midnight-swim/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Application Tracking Systems
