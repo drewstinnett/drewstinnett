@@ -29,8 +29,8 @@
 - [Men, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/men-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Decision Intelligence
 - Application Tracking Systems
 - Diversity and Invisibility
 - Encryption Part 2
 - Weedmaps Vs Amazon
-- Encryption Part 1
