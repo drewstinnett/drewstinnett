@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (5 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Look At Me: XXXTENTACION, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/look-at-me-xxxtentacion/)
 - [Nosferatu the Vampyre, 1979 - ★★★★](https://letterboxd.com/mondodrew/film/nosferatu-the-vampyre/)
 - [The Sadness, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-sadness-2021/)
 - [Nosferatu, 1922 - ★★★½](https://letterboxd.com/mondodrew/film/nosferatu/)
 - [Jackass 4.5, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/jackass-45/)
-- [Men, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/men-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Decision Intelligence
