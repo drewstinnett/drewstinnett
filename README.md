@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 day ago)
-- [trufflesecurity/trufflehog v3.6.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.1) (3 days ago)
+- [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (2 days ago)
+- [trufflesecurity/trufflehog v3.6.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.1) (4 days ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (5 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Popcorn, 1991 - ★★](https://letterboxd.com/mondodrew/film/popcorn/)
 - [RRR, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/rrr/)
 - [Top Gun: Maverick, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/top-gun-maverick/)
 - [A Banquet, 2021 - ★★](https://letterboxd.com/mondodrew/film/a-banquet/)
 - [Look At Me: XXXTENTACION, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/look-at-me-xxxtentacion/)
-- [Nosferatu the Vampyre, 1979 - ★★★★](https://letterboxd.com/mondodrew/film/nosferatu-the-vampyre/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Decision Intelligence
