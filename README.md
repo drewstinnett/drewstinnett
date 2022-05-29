@@ -22,11 +22,11 @@
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (5 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Tenebre, 1982 - ★★★½](https://letterboxd.com/mondodrew/film/tenebre/)
 - [Popcorn, 1991 - ★★](https://letterboxd.com/mondodrew/film/popcorn/)
 - [RRR, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/rrr/)
 - [Top Gun: Maverick, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/top-gun-maverick/)
 - [A Banquet, 2021 - ★★](https://letterboxd.com/mondodrew/film/a-banquet/)
-- [Look At Me: XXXTENTACION, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/look-at-me-xxxtentacion/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Decision Intelligence
