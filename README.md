@@ -15,18 +15,18 @@
 - [drewstinnett/labdoc](https://github.com/drewstinnett/labdoc) - Generate a GitLab Personal README.md from a template
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (3 days ago)
-- [trufflesecurity/trufflehog v3.6.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.1) (5 days ago)
+- [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (4 days ago)
+- [trufflesecurity/trufflehog v3.6.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.1) (6 days ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 - [caarlos0/svu v1.9.0](https://github.com/caarlos0/svu/releases/tag/v1.9.0) (5 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Slaughterhouse, 1987 - ★★](https://letterboxd.com/mondodrew/film/slaughterhouse/)
 - [Solaris, 1972 - ★★★★](https://letterboxd.com/mondodrew/film/solaris/)
 - [Castle Freak, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/castle-freak/)
 - [Norm Macdonald: Nothing Special, 2022 - ★★★](https://letterboxd.com/mondodrew/film/norm-macdonald-nothing-special/)
 - [Ricky Gervais: SuperNature, 2022 - ★★](https://letterboxd.com/mondodrew/film/ricky-gervais-supernature/)
-- [Tenebre, 1982 - ★★★½](https://letterboxd.com/mondodrew/film/tenebre/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Decision Intelligence
