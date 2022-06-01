@@ -29,8 +29,8 @@
 - [Norm Macdonald: Nothing Special, 2022 - ★★★](https://letterboxd.com/mondodrew/film/norm-macdonald-nothing-special/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Datafication
 - Decision Intelligence
 - Application Tracking Systems
 - Diversity and Invisibility
 - Encryption Part 2
-- Weedmaps Vs Amazon
