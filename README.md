@@ -22,11 +22,11 @@
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Swiss Army Man, 2016 - ★★★★½](https://letterboxd.com/mondodrew/film/swiss-army-man/)
 - [George Washington, 2000 - ★★★½](https://letterboxd.com/mondodrew/film/george-washington/)
 - [Modern Times, 1936 - ★★★½](https://letterboxd.com/mondodrew/film/modern-times/)
 - [City Lights, 1931 - ★★★½](https://letterboxd.com/mondodrew/film/city-lights/)
 - [Slaughterhouse, 1987 - ★★](https://letterboxd.com/mondodrew/film/slaughterhouse/)
-- [Solaris, 1972 - ★★★★](https://letterboxd.com/mondodrew/film/solaris/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
