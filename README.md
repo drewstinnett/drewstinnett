@@ -15,18 +15,18 @@
 - [drewstinnett/vaultx](https://github.com/drewstinnett/vaultx) - Vault&#43;&#43; adds additional functionality in to the normal HashiVault CLI.
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (6 days ago)
+- [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 week ago)
 - [trufflesecurity/trufflehog v3.6.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.1) (1 week ago)
 - [drewstinnett/letterrestd v0.1.3](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.3) (2 weeks ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [George Washington, 2000 - ★★★½](https://letterboxd.com/mondodrew/film/george-washington/)
 - [Modern Times, 1936 - ★★★½](https://letterboxd.com/mondodrew/film/modern-times/)
 - [City Lights, 1931 - ★★★½](https://letterboxd.com/mondodrew/film/city-lights/)
 - [Slaughterhouse, 1987 - ★★](https://letterboxd.com/mondodrew/film/slaughterhouse/)
 - [Solaris, 1972 - ★★★★](https://letterboxd.com/mondodrew/film/solaris/)
-- [Castle Freak, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/castle-freak/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
