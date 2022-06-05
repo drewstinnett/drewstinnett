@@ -22,11 +22,11 @@
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Alligator, 1980 - ★★★](https://letterboxd.com/mondodrew/film/alligator/)
+- [A Woman Under the Influence, 1974 - ★★★½](https://letterboxd.com/mondodrew/film/a-woman-under-the-influence/)
 - [Crimes of the Future, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/crimes-of-the-future-2022/)
 - [Mary, Mary, Bloody Mary, 1975 - ★★½](https://letterboxd.com/mondodrew/film/mary-mary-bloody-mary/)
 - [Before Midnight, 2013 - ★★★★½](https://letterboxd.com/mondodrew/film/before-midnight/)
-- [Before Sunset, 2004 - ★★★★½](https://letterboxd.com/mondodrew/film/before-sunset/)
-- [Before Sunrise, 1995 - ★★★½](https://letterboxd.com/mondodrew/film/before-sunrise/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
