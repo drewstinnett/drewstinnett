@@ -22,11 +22,11 @@
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Monster Club, 1981 - ★★★½](https://letterboxd.com/mondodrew/film/the-monster-club/)
 - [Stalker, 1979 - ★★★★](https://letterboxd.com/mondodrew/film/stalker/)
 - [Barry Lyndon, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/barry-lyndon/)
 - [Alligator, 1980 - ★★★](https://letterboxd.com/mondodrew/film/alligator/)
 - [A Woman Under the Influence, 1974 - ★★★½](https://letterboxd.com/mondodrew/film/a-woman-under-the-influence/)
-- [Crimes of the Future, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/crimes-of-the-future-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
