@@ -16,17 +16,17 @@
 
 #### 🚀 Latest releases I've contributed to
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 week ago)
-- [trufflesecurity/trufflehog v3.6.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.1) (1 week ago)
+- [trufflesecurity/trufflehog v3.6.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.1) (2 weeks ago)
 - [drewstinnett/letterrestd v0.1.3](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.3) (3 weeks ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Paths of Glory, 1957 - ★★★½](https://letterboxd.com/mondodrew/film/paths-of-glory/)
 - [The Monster Club, 1981 - ★★★½](https://letterboxd.com/mondodrew/film/the-monster-club/)
 - [Stalker, 1979 - ★★★★](https://letterboxd.com/mondodrew/film/stalker/)
 - [Barry Lyndon, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/barry-lyndon/)
 - [Alligator, 1980 - ★★★](https://letterboxd.com/mondodrew/film/alligator/)
-- [A Woman Under the Influence, 1974 - ★★★½](https://letterboxd.com/mondodrew/film/a-woman-under-the-influence/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
