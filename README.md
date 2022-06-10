@@ -22,11 +22,11 @@
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (5 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Paddington, 2014 - ★★★](https://letterboxd.com/mondodrew/film/paddington/)
 - [Brief Encounter, 1945 - ★★★★](https://letterboxd.com/mondodrew/film/brief-encounter/)
 - [The Red Shoes, 1948 - ★★★](https://letterboxd.com/mondodrew/film/the-red-shoes/)
 - [Paths of Glory, 1957 - ★★★½](https://letterboxd.com/mondodrew/film/paths-of-glory/)
 - [The Monster Club, 1981 - ★★★½](https://letterboxd.com/mondodrew/film/the-monster-club/)
-- [Stalker, 1979 - ★★★★](https://letterboxd.com/mondodrew/film/stalker/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
