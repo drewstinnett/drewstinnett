@@ -22,11 +22,11 @@
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Night of the Hunter, 1955 - ★★★★](https://letterboxd.com/mondodrew/film/the-night-of-the-hunter/)
 - [A Matter of Life and Death, 1946 - ★★★★](https://letterboxd.com/mondodrew/film/a-matter-of-life-and-death/)
 - [Opening Night, 1977 - ★★★](https://letterboxd.com/mondodrew/film/opening-night/)
 - [Paddington, 2014 - ★★★](https://letterboxd.com/mondodrew/film/paddington/)
 - [Brief Encounter, 1945 - ★★★★](https://letterboxd.com/mondodrew/film/brief-encounter/)
-- [The Red Shoes, 1948 - ★★★](https://letterboxd.com/mondodrew/film/the-red-shoes/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
