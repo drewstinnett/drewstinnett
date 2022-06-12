@@ -15,18 +15,18 @@
 - [drewstinnett/letseat](https://github.com/drewstinnett/letseat)
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/letterboxdctl v0.1.4](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.4) (today)
-- [trufflesecurity/trufflehog v3.6.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.2) (2 days ago)
-- [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 days ago)
+- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 day ago)
+- [trufflesecurity/trufflehog v3.6.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.2) (3 days ago)
+- [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 days ago)
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (2 weeks ago)
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Paper Moon, 1973 - ★★★★](https://letterboxd.com/mondodrew/film/paper-moon/)
 - [The Third Man, 1949 - ★★★](https://letterboxd.com/mondodrew/film/the-third-man/)
 - [Jurassic World Dominion, 2022 - ★](https://letterboxd.com/mondodrew/film/jurassic-world-dominion/)
 - [The Night of the Hunter, 1955 - ★★★★](https://letterboxd.com/mondodrew/film/the-night-of-the-hunter/)
 - [A Matter of Life and Death, 1946 - ★★★★](https://letterboxd.com/mondodrew/film/a-matter-of-life-and-death/)
-- [Opening Night, 1977 - ★★★](https://letterboxd.com/mondodrew/film/opening-night/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
