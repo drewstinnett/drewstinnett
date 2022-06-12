@@ -22,11 +22,11 @@
 - [goreleaser/nfpm v2.15.1](https://github.com/goreleaser/nfpm/releases/tag/v2.15.1) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Taste of Cherry, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/taste-of-cherry/)
 - [The Baby, 1973 - ★★★](https://letterboxd.com/mondodrew/film/the-baby/)
 - [My Neighbor Totoro, 1988 - ★★★](https://letterboxd.com/mondodrew/film/my-neighbor-totoro/)
 - [Sweet Smell of Success, 1957 - ★★★](https://letterboxd.com/mondodrew/film/sweet-smell-of-success/)
 - [Paper Moon, 1973 - ★★★★](https://letterboxd.com/mondodrew/film/paper-moon/)
-- [The Third Man, 1949 - ★★★](https://letterboxd.com/mondodrew/film/the-third-man/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
