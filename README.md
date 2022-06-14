@@ -15,7 +15,7 @@
 - [drewstinnett/letseat](https://github.com/drewstinnett/letseat)
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.6.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.3) (today)
+- [trufflesecurity/trufflehog v3.6.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.4) (today)
 - [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (1 day ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 days ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (6 days ago)
