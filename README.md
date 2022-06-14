@@ -15,18 +15,18 @@
 - [drewstinnett/letseat](https://github.com/drewstinnett/letseat)
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (today)
-- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 days ago)
-- [trufflesecurity/trufflehog v3.6.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.2) (4 days ago)
-- [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (5 days ago)
+- [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (1 day ago)
+- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 days ago)
+- [trufflesecurity/trufflehog v3.6.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.2) (5 days ago)
+- [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (6 days ago)
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Treasure of the Sierra Madre, 1948 - ★★★½](https://letterboxd.com/mondodrew/film/the-treasure-of-the-sierra-madre/)
 - [Le Samouraï, 1967 - ★★★★½](https://letterboxd.com/mondodrew/film/le-samourai/)
 - [Taste of Cherry, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/taste-of-cherry/)
 - [The Baby, 1973 - ★★★](https://letterboxd.com/mondodrew/film/the-baby/)
 - [My Neighbor Totoro, 1988 - ★★★](https://letterboxd.com/mondodrew/film/my-neighbor-totoro/)
-- [Sweet Smell of Success, 1957 - ★★★](https://letterboxd.com/mondodrew/film/sweet-smell-of-success/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
