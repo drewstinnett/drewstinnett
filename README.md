@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (2 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Apartment, 1960 - ★★★½](https://letterboxd.com/mondodrew/film/the-apartment/)
 - [The Treasure of the Sierra Madre, 1948 - ★★★½](https://letterboxd.com/mondodrew/film/the-treasure-of-the-sierra-madre/)
 - [Le Samouraï, 1967 - ★★★★½](https://letterboxd.com/mondodrew/film/le-samourai/)
 - [Taste of Cherry, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/taste-of-cherry/)
 - [The Baby, 1973 - ★★★](https://letterboxd.com/mondodrew/film/the-baby/)
-- [My Neighbor Totoro, 1988 - ★★★](https://letterboxd.com/mondodrew/film/my-neighbor-totoro/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Datafication
