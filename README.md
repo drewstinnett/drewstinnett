@@ -29,8 +29,8 @@
 - [Taste of Cherry, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/taste-of-cherry/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Wearable Technology
 - Datafication
 - Decision Intelligence
 - Application Tracking Systems
 - Diversity and Invisibility
-- Encryption Part 2
