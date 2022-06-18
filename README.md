@@ -8,11 +8,11 @@
 - 🎙 Cohost of the weekly podcast [Imminent Teachnology](https://podcast.imminentteachnology.com/) about Technology and Inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
 
 #### 👨‍💻 Latest projects I've created
+- [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 - [drewstinnett/letterrestd](https://github.com/drewstinnett/letterrestd) - RESTful API Server to letterboxd
 - [drewstinnett/gpgrap](https://github.com/drewstinnett/gpgrap) - Library for simplifying gpg encryption in utils
-- [drewstinnett/letseat](https://github.com/drewstinnett/letseat)
 
 #### 🚀 Latest releases I've contributed to
 - [trufflesecurity/trufflehog v3.6.5](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.5) (3 days ago)
@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Chip &#39;n Dale: Rescue Rangers, 2022 - ★★](https://letterboxd.com/mondodrew/film/chip-n-dale-rescue-rangers/)
+- [The Great Dictator, 1940 - ★★★★](https://letterboxd.com/mondodrew/film/the-great-dictator/)
 - [The Life and Death of Colonel Blimp, 1943 - ★★](https://letterboxd.com/mondodrew/film/the-life-and-death-of-colonel-blimp/)
 - [Singin&#39; in the Rain, 1952 - ★★★★★](https://letterboxd.com/mondodrew/film/singin-in-the-rain/)
 - [The Iron Giant, 1999 - ★★★★½](https://letterboxd.com/mondodrew/film/the-iron-giant/)
-- [To Be or Not to Be, 1942 - ★★½](https://letterboxd.com/mondodrew/film/to-be-or-not-to-be/)
-- [The Handmaiden, 2016 - ★★★★½](https://letterboxd.com/mondodrew/film/the-handmaiden/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Wearable Technology
