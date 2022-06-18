@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Life and Death of Colonel Blimp, 1943 - ★★](https://letterboxd.com/mondodrew/film/the-life-and-death-of-colonel-blimp/)
 - [Singin&#39; in the Rain, 1952 - ★★★★★](https://letterboxd.com/mondodrew/film/singin-in-the-rain/)
 - [The Iron Giant, 1999 - ★★★★½](https://letterboxd.com/mondodrew/film/the-iron-giant/)
 - [To Be or Not to Be, 1942 - ★★½](https://letterboxd.com/mondodrew/film/to-be-or-not-to-be/)
 - [The Handmaiden, 2016 - ★★★★½](https://letterboxd.com/mondodrew/film/the-handmaiden/)
-- [The Apartment, 1960 - ★★★½](https://letterboxd.com/mondodrew/film/the-apartment/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Wearable Technology
