@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [The Mutations, 1974 - ★★★](https://letterboxd.com/mondodrew/film/the-mutations/)
 - [The Stepfather, 1987 - ★★½](https://letterboxd.com/mondodrew/film/the-stepfather/)
 - [Chip &#39;n Dale: Rescue Rangers, 2022 - ★★](https://letterboxd.com/mondodrew/film/chip-n-dale-rescue-rangers/)
 - [The Great Dictator, 1940 - ★★★★](https://letterboxd.com/mondodrew/film/the-great-dictator/)
 - [The Life and Death of Colonel Blimp, 1943 - ★★](https://letterboxd.com/mondodrew/film/the-life-and-death-of-colonel-blimp/)
-- [Singin&#39; in the Rain, 1952 - ★★★★★](https://letterboxd.com/mondodrew/film/singin-in-the-rain/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Wearable Technology
