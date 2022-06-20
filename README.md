@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Princess Mononoke, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/princess-mononoke/)
 - [Neon Genesis Evangelion: The End of Evangelion, 1997 - ★★★](https://letterboxd.com/mondodrew/film/neon-genesis-evangelion-the-end-of-evangelion/)
 - [Howl&#39;s Moving Castle, 2004 - ★★★](https://letterboxd.com/mondodrew/film/howls-moving-castle/)
 - [Spirited Away, 2001 - ★★★★](https://letterboxd.com/mondodrew/film/spirited-away/)
 - [Spiderhead, 2022 - ★★](https://letterboxd.com/mondodrew/film/spiderhead/)
-- [The Mutations, 1974 - ★★★](https://letterboxd.com/mondodrew/film/the-mutations/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Wearable Technology
