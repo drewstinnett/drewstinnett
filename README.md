@@ -29,8 +29,8 @@
 - [Neon Genesis Evangelion: The End of Evangelion, 1997 - ★★★](https://letterboxd.com/mondodrew/film/neon-genesis-evangelion-the-end-of-evangelion/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Fathers Day Tech
 - Wearable Technology
 - Datafication
 - Decision Intelligence
 - Application Tracking Systems
-- Diversity and Invisibility
