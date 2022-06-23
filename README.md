@@ -15,18 +15,18 @@
 - [drewstinnett/gpgrap](https://github.com/drewstinnett/gpgrap) - Library for simplifying gpg encryption in utils
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.6.6](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.6) (1 day ago)
+- [trufflesecurity/trufflehog v3.6.6](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.6) (2 days ago)
 - [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 week ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 weeks ago)
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [La Haine, 1995 - ★★★★½](https://letterboxd.com/mondodrew/film/la-haine/)
 - [High and Low, 1963 - ★★★★](https://letterboxd.com/mondodrew/film/high-and-low/)
 - [Watcher, 2022 - ★★½](https://letterboxd.com/mondodrew/film/watcher/)
 - [Mommy, 2014 - ★★★★★](https://letterboxd.com/mondodrew/film/mommy-2014/)
 - [Princess Mononoke, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/princess-mononoke/)
-- [Neon Genesis Evangelion: The End of Evangelion, 1997 - ★★★](https://letterboxd.com/mondodrew/film/neon-genesis-evangelion-the-end-of-evangelion/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Fathers Day Tech
