@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (4 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Crimes of the Future, 1970 - ★★½](https://letterboxd.com/mondodrew/film/crimes-of-the-future/)
 - [Sherlock, Jr., 1924 - ★★★½](https://letterboxd.com/mondodrew/film/sherlock-jr/)
 - [Elvis, 2022 - ★★★](https://letterboxd.com/mondodrew/film/elvis-2022/)
 - [Race with the Devil, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/race-with-the-devil/)
 - [Network, 1976 - ★★★½](https://letterboxd.com/mondodrew/film/network/)
-- [Death Bed: The Bed That Eats, 1977 - ★★](https://letterboxd.com/mondodrew/film/death-bed-the-bed-that-eats/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Fathers Day Tech
