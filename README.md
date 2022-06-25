@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (4 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Race with the Devil, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/race-with-the-devil/)
 - [Network, 1976 - ★★★½](https://letterboxd.com/mondodrew/film/network/)
 - [Death Bed: The Bed That Eats, 1977 - ★★](https://letterboxd.com/mondodrew/film/death-bed-the-bed-that-eats/)
 - [Obi-Wan Kenobi, 2022 - ★★★](https://letterboxd.com/mondodrew/film/obi-wan-kenobi/)
 - [Beavis and Butt-Head Do the Universe, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/beavis-and-butt-head-do-the-universe/)
-- [La Haine, 1995 - ★★★★½](https://letterboxd.com/mondodrew/film/la-haine/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Fathers Day Tech
