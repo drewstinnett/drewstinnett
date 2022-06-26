@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Revealer, 2022 - ★★★](https://letterboxd.com/mondodrew/film/revealer/)
 - [I Bought a Vampire Motorcycle, 1990 - ★★](https://letterboxd.com/mondodrew/film/i-bought-a-vampire-motorcycle/)
 - [Crimes of the Future, 1970 - ★★½](https://letterboxd.com/mondodrew/film/crimes-of-the-future/)
 - [Sherlock, Jr., 1924 - ★★★½](https://letterboxd.com/mondodrew/film/sherlock-jr/)
 - [Elvis, 2022 - ★★★](https://letterboxd.com/mondodrew/film/elvis-2022/)
-- [Race with the Devil, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/race-with-the-devil/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Fathers Day Tech
