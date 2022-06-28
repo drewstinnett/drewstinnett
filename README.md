@@ -15,18 +15,18 @@
 - [drewstinnett/gpgrap](https://github.com/drewstinnett/gpgrap) - Library for simplifying gpg encryption in utils
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.6.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.7) (3 days ago)
+- [trufflesecurity/trufflehog v3.6.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.7) (4 days ago)
 - [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 weeks ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 weeks ago)
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Mirror, 1975 - ★★★★](https://letterboxd.com/mondodrew/film/mirror/)
 - [The Black Phone, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-black-phone/)
 - [From Beyond, 1986 - ★★★★](https://letterboxd.com/mondodrew/film/from-beyond/)
 - [Revealer, 2022 - ★★★](https://letterboxd.com/mondodrew/film/revealer/)
 - [I Bought a Vampire Motorcycle, 1990 - ★★](https://letterboxd.com/mondodrew/film/i-bought-a-vampire-motorcycle/)
-- [Crimes of the Future, 1970 - ★★½](https://letterboxd.com/mondodrew/film/crimes-of-the-future/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Fathers Day Tech
