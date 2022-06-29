@@ -29,8 +29,8 @@
 - [Revealer, 2022 - ★★★](https://letterboxd.com/mondodrew/film/revealer/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Ask Drew Part 1
 - Fathers Day Tech
 - Wearable Technology
 - Datafication
 - Decision Intelligence
-- Application Tracking Systems
