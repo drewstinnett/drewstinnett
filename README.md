@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Nostalgia, 1983 - ★★★★](https://letterboxd.com/mondodrew/film/nostalgia-1983/)
 - [Mirror, 1975 - ★★★★](https://letterboxd.com/mondodrew/film/mirror/)
 - [The Black Phone, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-black-phone/)
 - [From Beyond, 1986 - ★★★★](https://letterboxd.com/mondodrew/film/from-beyond/)
 - [Revealer, 2022 - ★★★](https://letterboxd.com/mondodrew/film/revealer/)
-- [I Bought a Vampire Motorcycle, 1990 - ★★](https://letterboxd.com/mondodrew/film/i-bought-a-vampire-motorcycle/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Fathers Day Tech
