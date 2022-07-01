@@ -15,18 +15,18 @@
 - [drewstinnett/gpgrap](https://github.com/drewstinnett/gpgrap) - Library for simplifying gpg encryption in utils
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.6.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.7) (6 days ago)
+- [trufflesecurity/trufflehog v3.6.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.7) (1 week ago)
 - [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 weeks ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 weeks ago)
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Survival of the Film Freaks, 2018 - ★★★](https://letterboxd.com/mondodrew/film/survival-of-the-film-freaks/)
 - [The Sacrifice, 1986 - ★★★★](https://letterboxd.com/mondodrew/film/the-sacrifice/)
 - [Head of the Family, 1996 - ★★★](https://letterboxd.com/mondodrew/film/head-of-the-family/)
 - [Nostalgia, 1983 - ★★★★](https://letterboxd.com/mondodrew/film/nostalgia-1983/)
 - [Mirror, 1975 - ★★★★](https://letterboxd.com/mondodrew/film/mirror/)
-- [The Black Phone, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-black-phone/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 1
