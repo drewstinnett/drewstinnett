@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Son of the White Mare, 1981 - ★★★★½](https://letterboxd.com/mondodrew/film/son-of-the-white-mare/)
 - [Strip Nude for Your Killer, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/strip-nude-for-your-killer/)
 - [Down with the King, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/down-with-the-king/)
 - [The Princess, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-princess-2022-1/)
 - [Cat People, 1982 - ★★½](https://letterboxd.com/mondodrew/film/cat-people-1982/)
-- [Mishima: A Life in Four Chapters, 1985 - ★★★★](https://letterboxd.com/mondodrew/film/mishima-a-life-in-four-chapters/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 1
