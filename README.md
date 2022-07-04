@@ -22,11 +22,11 @@
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Souvenir: Part II, 2021 - ★★](https://letterboxd.com/mondodrew/film/the-souvenir-part-ii/)
 - [Ace in the Hole, 1951 - ★★★½](https://letterboxd.com/mondodrew/film/ace-in-the-hole/)
 - [Perfect Blue, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/perfect-blue/)
 - [Prince Avalanche, 2013 - ★★★](https://letterboxd.com/mondodrew/film/prince-avalanche/)
 - [Nightbreed, 1990 - ★★★½](https://letterboxd.com/mondodrew/film/nightbreed/)
-- [Uncle Sam, 1996 - ★½](https://letterboxd.com/mondodrew/film/uncle-sam/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 1
