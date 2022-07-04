@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 weeks ago)
 
 #### 🍿 Latest movies I've watched
+- [Petite Maman, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/petite-maman/)
 - [When We Were Bullies, 2021 - ★★★](https://letterboxd.com/mondodrew/film/when-we-were-bullies/)
 - [Death Game, 1977 - ★★★½](https://letterboxd.com/mondodrew/film/death-game/)
 - [The Souvenir: Part II, 2021 - ★★](https://letterboxd.com/mondodrew/film/the-souvenir-part-ii/)
 - [Ace in the Hole, 1951 - ★★★½](https://letterboxd.com/mondodrew/film/ace-in-the-hole/)
-- [Perfect Blue, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/perfect-blue/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 1
