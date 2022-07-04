@@ -16,17 +16,17 @@
 
 #### 🚀 Latest releases I've contributed to
 - [trufflesecurity/trufflehog v3.6.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.7) (1 week ago)
-- [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (2 weeks ago)
+- [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 weeks ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 weeks ago)
 - [goreleaser/goreleaser v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Perfect Blue, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/perfect-blue/)
+- [Prince Avalanche, 2013 - ★★★](https://letterboxd.com/mondodrew/film/prince-avalanche/)
 - [Nightbreed, 1990 - ★★★½](https://letterboxd.com/mondodrew/film/nightbreed/)
 - [Uncle Sam, 1996 - ★½](https://letterboxd.com/mondodrew/film/uncle-sam/)
 - [Son of the White Mare, 1981 - ★★★★½](https://letterboxd.com/mondodrew/film/son-of-the-white-mare/)
-- [Strip Nude for Your Killer, 1975 - ★★★½](https://letterboxd.com/mondodrew/film/strip-nude-for-your-killer/)
-- [Down with the King, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/down-with-the-king/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 1
