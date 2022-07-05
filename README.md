@@ -15,7 +15,7 @@
 - [drewstinnett/gpgrap](https://github.com/drewstinnett/gpgrap) - Library for simplifying gpg encryption in utils
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.10.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.0) (today)
+- [goreleaser/goreleaser v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1) (today)
 - [trufflesecurity/trufflehog v3.6.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.7) (1 week ago)
 - [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 weeks ago)
