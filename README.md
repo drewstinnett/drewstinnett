@@ -29,8 +29,8 @@
 - [Petite Maman, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/petite-maman/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Ask Drew Part 2
 - Ask Drew Part 1
 - Fathers Day Tech
 - Wearable Technology
 - Datafication
-- Decision Intelligence
