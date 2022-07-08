@@ -15,18 +15,18 @@
 - [drewstinnett/gpgrap](https://github.com/drewstinnett/gpgrap) - Library for simplifying gpg encryption in utils
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1) (2 days ago)
-- [trufflesecurity/trufflehog v3.6.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.7) (1 week ago)
+- [trufflesecurity/trufflehog v3.6.8](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.8) (1 day ago)
+- [goreleaser/goreleaser v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1) (3 days ago)
 - [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 weeks ago)
-- [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 weeks ago)
+- [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Cha Cha Real Smooth, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/cha-cha-real-smooth/)
 - [Climate of the Hunter, 2019 - ★★★](https://letterboxd.com/mondodrew/film/climate-of-the-hunter/)
 - [Witness for the Prosecution, 1957 - ★★★](https://letterboxd.com/mondodrew/film/witness-for-the-prosecution-1957/)
 - [Grave of the Fireflies, 1988 - ★★★½](https://letterboxd.com/mondodrew/film/grave-of-the-fireflies/)
 - [Andrei Rublev, 1966 - ★★★½](https://letterboxd.com/mondodrew/film/andrei-rublev/)
-- [All That Jazz, 1979 - ★★★★½](https://letterboxd.com/mondodrew/film/all-that-jazz/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 2
