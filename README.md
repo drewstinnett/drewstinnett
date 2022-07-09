@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [A Face in the Crowd, 1957 - ★★★](https://letterboxd.com/mondodrew/film/a-face-in-the-crowd/)
 - [Thor: Love and Thunder, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/thor-love-and-thunder/)
 - [Her Name Was Christa, 2020 - ★★½](https://letterboxd.com/mondodrew/film/her-name-was-christa/)
 - [All About Eve, 1950 - ★★½](https://letterboxd.com/mondodrew/film/all-about-eve/)
 - [Cha Cha Real Smooth, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/cha-cha-real-smooth/)
-- [Climate of the Hunter, 2019 - ★★★](https://letterboxd.com/mondodrew/film/climate-of-the-hunter/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 2
