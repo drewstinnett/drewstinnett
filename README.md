@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Her Name Was Christa, 2020 - ★★½](https://letterboxd.com/mondodrew/film/her-name-was-christa/)
 - [All About Eve, 1950 - ★★½](https://letterboxd.com/mondodrew/film/all-about-eve/)
 - [Cha Cha Real Smooth, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/cha-cha-real-smooth/)
 - [Climate of the Hunter, 2019 - ★★★](https://letterboxd.com/mondodrew/film/climate-of-the-hunter/)
 - [Witness for the Prosecution, 1957 - ★★★](https://letterboxd.com/mondodrew/film/witness-for-the-prosecution-1957/)
-- [Grave of the Fireflies, 1988 - ★★★½](https://letterboxd.com/mondodrew/film/grave-of-the-fireflies/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 2
