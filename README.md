@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Eraserhead Stories, 2001 - ★★½](https://letterboxd.com/mondodrew/film/eraserhead-stories/)
 - [Harakiri, 1962 - ★★★★★](https://letterboxd.com/mondodrew/film/harakiri/)
 - [A Brighter Summer Day, 1991 - ★★★½](https://letterboxd.com/mondodrew/film/a-brighter-summer-day/)
 - [Baby Boy, 2001 - ★★★½](https://letterboxd.com/mondodrew/film/baby-boy/)
 - [Some Like It Hot, 1959 - ★★★½](https://letterboxd.com/mondodrew/film/some-like-it-hot/)
-- [Primal Rage, 1988 - ★★](https://letterboxd.com/mondodrew/film/primal-rage/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 2
