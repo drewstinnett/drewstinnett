@@ -22,7 +22,7 @@
 #### 🍿 Latest movies I've watched
 
 {{- range rss "https://letterboxd.com/mondodrew/rss/" 5}}
-- [{{.Title}}]({{ .URL }})
+{{ (index .Extensions.letterboxd.filmTitle 0).Value }}
 {{- end}}
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
