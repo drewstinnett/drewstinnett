@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [The Human Condition I: No Greater Love, 1959 - ★★★★½](https://letterboxd.com/mondodrew/film/the-human-condition-i-no-greater-love/)
+- [Stretch, 2014 - ★★½](https://letterboxd.com/mondodrew/film/stretch-2014/)
 - [Holy Motors, 2012 - ★★★½](https://letterboxd.com/mondodrew/film/holy-motors/)
 - [Dear God No!, 2011 - ★★½](https://letterboxd.com/mondodrew/film/dear-god-no/)
 - [Lightyear, 2022 - ★★★](https://letterboxd.com/mondodrew/film/lightyear-2022/)
-- [Make Way for Tomorrow, 1937 - ★★★½](https://letterboxd.com/mondodrew/film/make-way-for-tomorrow/)
-- [On the Third Day, 2020 - ★★½](https://letterboxd.com/mondodrew/film/on-the-third-day-2020/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew Part 2
