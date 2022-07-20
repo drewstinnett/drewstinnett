@@ -29,8 +29,8 @@
 - [Dear God No!, 2011 - ★★½](https://letterboxd.com/mondodrew/film/dear-god-no/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Technology and Americas History of Slavery
 - Ask Drew Part 2
 - Ask Drew Part 1
 - Fathers Day Tech
 - Wearable Technology
-- Datafication
