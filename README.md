@@ -15,7 +15,7 @@
 - [drewstinnett/letterrestd](https://github.com/drewstinnett/letterrestd) - RESTful API Server to letterboxd
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.6.9](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.9) (4 days ago)
+- [trufflesecurity/trufflehog v3.6.9](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.9) (5 days ago)
 - [goreleaser/goreleaser v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2) (2 weeks ago)
 - [goreleaser/nfpm v2.16.0](https://github.com/goreleaser/nfpm/releases/tag/v2.16.0) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 month ago)
