@@ -8,25 +8,25 @@
 - 🎙 Cohost of the weekly podcast [Imminent Teachnology](https://podcast.imminentteachnology.com/) about Technology and Inclusion with [Dr. Rochelle Newton](https://www.linkedin.com/in/drrochellenewton/). Wanna be a guest? Hit me up!
 
 #### 👨‍💻 Latest projects I've created
+- [drewstinnett/shell-scripts](https://github.com/drewstinnett/shell-scripts) - Place to shove the misc. shell scripts I end up creating
 - [drewstinnett/box-packing](https://github.com/drewstinnett/box-packing) - Testing some go code to do efficient box packing
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
-- [drewstinnett/letterrestd](https://github.com/drewstinnett/letterrestd) - RESTful API Server to letterboxd
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/nfpm v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (3 days ago)
-- [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (4 days ago)
-- [trufflesecurity/trufflehog v3.6.11](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.11) (5 days ago)
+- [goreleaser/nfpm v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (4 days ago)
+- [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (5 days ago)
+- [trufflesecurity/trufflehog v3.6.11](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.6.11) (6 days ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 month ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Nightmare Weekend, 1984 - ★½](https://letterboxd.com/mondodrew/film/nightmare-weekend/)
+- [Nope, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/nope/)
+- [The Human Condition II: Road to Eternity, 1959 - ★★★★½](https://letterboxd.com/mondodrew/film/the-human-condition-ii-road-to-eternity/)
 - [Torn Hearts, 2022 - ★★](https://letterboxd.com/mondodrew/film/torn-hearts/)
 - [Mary Jane&#39;s Not a Virgin Anymore, 1996 - ★★★](https://letterboxd.com/mondodrew/film/mary-janes-not-a-virgin-anymore/)
-- [Death Has Blue Eyes, 1976 - ★★](https://letterboxd.com/mondodrew/film/death-has-blue-eyes/)
-- [The Orange Years: The Nickelodeon Story, 2020 - ★★★](https://letterboxd.com/mondodrew/film/the-orange-years-the-nickelodeon-story/)
-- [Sam &amp; Mattie Make a Zombie Movie, 2021 - ★★½](https://letterboxd.com/mondodrew/film/sam-mattie-make-a-zombie-movie/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology and Americas History of Slavery
