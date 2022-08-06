@@ -15,18 +15,18 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.7.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.7.2) (2 days ago)
+- [trufflesecurity/trufflehog v3.7.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.7.2) (3 days ago)
 - [goreleaser/nfpm v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (1 week ago)
 - [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 month ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Resurrection, 2022 - ★★½](https://letterboxd.com/mondodrew/film/resurrection-2022/)
+- [The East, 2013 - ★★½](https://letterboxd.com/mondodrew/film/the-east/)
+- [Prey, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/prey-2022/)
 - [The Human Condition III: A Soldier&#39;s Prayer, 1961 - ★★★★★](https://letterboxd.com/mondodrew/film/the-human-condition-iii-a-soldiers-prayer/)
 - [Nightmare Weekend, 1984 - ★½](https://letterboxd.com/mondodrew/film/nightmare-weekend/)
-- [Nope, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/nope/)
-- [The Human Condition II: Road to Eternity, 1959 - ★★★★½](https://letterboxd.com/mondodrew/film/the-human-condition-ii-road-to-eternity/)
-- [Torn Hearts, 2022 - ★★](https://letterboxd.com/mondodrew/film/torn-hearts/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ancestry and Technology with Joe Stinnett Part 1
