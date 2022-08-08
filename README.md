@@ -15,18 +15,18 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.7.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.7.2) (4 days ago)
+- [trufflesecurity/trufflehog v3.7.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.7.2) (5 days ago)
 - [goreleaser/nfpm v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (1 week ago)
 - [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 month ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Thirteen Lives, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/thirteen-lives/)
+- [Predator 2, 1990 - ★★★](https://letterboxd.com/mondodrew/film/predator-2/)
 - [Predator, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/predator/)
 - [Apollo 10½: A Space Age Childhood, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/apollo-10-a-space-age-childhood/)
 - [What Josiah Saw, 2021 - ★★★](https://letterboxd.com/mondodrew/film/what-josiah-saw/)
-- [Bullet Train, 2022 - ★★★](https://letterboxd.com/mondodrew/film/bullet-train/)
-- [Resurrection, 2022 - ★★½](https://letterboxd.com/mondodrew/film/resurrection-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ancestry and Technology with Joe Stinnett Part 1
