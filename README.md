@@ -15,22 +15,22 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.7.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.7.3) (1 day ago)
+- [trufflesecurity/trufflehog v3.7.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.7.3) (2 days ago)
 - [goreleaser/nfpm v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (1 week ago)
-- [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (1 week ago)
-- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 month ago)
+- [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (2 weeks ago)
+- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Ikiru, 1952 - ★★★★½](https://letterboxd.com/mondodrew/film/ikiru/)
 - [Lord of War, 2005 - ★★★½](https://letterboxd.com/mondodrew/film/lord-of-war/)
 - [Central Station, 1998 - ★★★★★](https://letterboxd.com/mondodrew/film/central-station/)
 - [Thirteen Lives, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/thirteen-lives/)
 - [Predator 2, 1990 - ★★★](https://letterboxd.com/mondodrew/film/predator-2/)
-- [Predator, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/predator/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Ancestry and Technology with Joe Stinnett Part 2
 - Ancestry and Technology with Joe Stinnett Part 1
 - Technology and Americas History of Slavery
 - Ask Drew Part 2
 - Ask Drew Part 1
-- Fathers Day Tech
