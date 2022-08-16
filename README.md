@@ -15,8 +15,8 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
+- [goreleaser/nfpm v2.18.0](https://github.com/goreleaser/nfpm/releases/tag/v2.18.0) (today)
 - [trufflesecurity/trufflehog v3.7.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.7.3) (1 week ago)
-- [goreleaser/nfpm v2.17.0](https://github.com/goreleaser/nfpm/releases/tag/v2.17.0) (2 weeks ago)
 - [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 months ago)
