@@ -15,18 +15,18 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (5 days ago)
+- [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (6 days ago)
 - [trufflesecurity/trufflehog v3.7.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.7.3) (2 weeks ago)
-- [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (3 weeks ago)
+- [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (4 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Woman in the Dunes, 1964 - ★★★★½](https://letterboxd.com/mondodrew/film/woman-in-the-dunes/)
+- [The Passion of Joan of Arc, 1928 - ★★★½](https://letterboxd.com/mondodrew/film/the-passion-of-joan-of-arc/)
 - [Cat&#39;s Eye, 1985 - ★★★½](https://letterboxd.com/mondodrew/film/cats-eye/)
 - [In the Mood for Love, 2000 - ★★★★](https://letterboxd.com/mondodrew/film/in-the-mood-for-love/)
 - [Bodies Bodies Bodies, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/bodies-bodies-bodies/)
-- [Glorious, 2022 - ★★½](https://letterboxd.com/mondodrew/film/glorious-2022/)
-- [The Predator, 2018 - ★★★½](https://letterboxd.com/mondodrew/film/the-predator/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ancestry and Technology with Joe Stinnett Part 2
