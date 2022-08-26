@@ -15,18 +15,18 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.8.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.8.0) (1 day ago)
+- [trufflesecurity/trufflehog v3.9.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.9.0) (1 day ago)
 - [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (1 week ago)
-- [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (4 weeks ago)
+- [goreleaser/goreleaser v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Tokyo Story, 1953 - ★★★★](https://letterboxd.com/mondodrew/film/tokyo-story/)
 - [Orphan: First Kill, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/orphan-first-kill/)
 - [Cinema Paradiso, 1988 - ★★★★★](https://letterboxd.com/mondodrew/film/cinema-paradiso/)
 - [Woman in the Dunes, 1964 - ★★★★½](https://letterboxd.com/mondodrew/film/woman-in-the-dunes/)
 - [The Passion of Joan of Arc, 1928 - ★★★½](https://letterboxd.com/mondodrew/film/the-passion-of-joan-of-arc/)
-- [Cat&#39;s Eye, 1985 - ★★★½](https://letterboxd.com/mondodrew/film/cats-eye/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ancestry and Technology with Joe Stinnett Part 2
