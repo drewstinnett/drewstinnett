@@ -15,18 +15,18 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0) (1 day ago)
-- [trufflesecurity/trufflehog v3.9.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.9.0) (4 days ago)
+- [goreleaser/goreleaser v1.11.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.1) (today)
+- [trufflesecurity/trufflehog v3.9.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.9.0) (5 days ago)
 - [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Autumn Sonata, 1978 - ★★★½](https://letterboxd.com/mondodrew/film/autumn-sonata/)
 - [Eaten Alive, 1976 - ★★★](https://letterboxd.com/mondodrew/film/eaten-alive/)
 - [Breaking, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/breaking-2022/)
 - [Sleepaway Camp IV: The Survivor, 1992 - ★](https://letterboxd.com/mondodrew/film/sleepaway-camp-iv-the-survivor/)
 - [Nausicaä of the Valley of the Wind, 1984 - ★★★★](https://letterboxd.com/mondodrew/film/nausicaa-of-the-valley-of-the-wind/)
-- [Tokyo Story, 1953 - ★★★★](https://letterboxd.com/mondodrew/film/tokyo-story/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ancestry and Technology with Joe Stinnett Part 2
