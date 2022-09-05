@@ -15,18 +15,18 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.10.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.10.2) (2 days ago)
-- [goreleaser/goreleaser v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2) (4 days ago)
+- [trufflesecurity/trufflehog v3.10.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.10.2) (3 days ago)
+- [goreleaser/goreleaser v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2) (5 days ago)
 - [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Fanny and Alexander, 1982 - ★★★½](https://letterboxd.com/mondodrew/film/fanny-and-alexander/)
+- [The World of Apu, 1959 - ★★★★](https://letterboxd.com/mondodrew/film/the-world-of-apu/)
 - [Marcel the Shell with Shoes On, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/marcel-the-shell-with-shoes-on-2021/)
 - [Aparajito, 1956 - ★★★½](https://letterboxd.com/mondodrew/film/aparajito/)
 - [Honk for Jesus. Save Your Soul., 2022 - ★★★½](https://letterboxd.com/mondodrew/film/honk-for-jesus-save-your-soul-2022/)
-- [The House on Sorority Row, 1982 - ★★](https://letterboxd.com/mondodrew/film/the-house-on-sorority-row/)
-- [So Vam, 2021 - ★★½](https://letterboxd.com/mondodrew/film/so-vam/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; - The Political Arena
