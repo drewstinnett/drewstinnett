@@ -15,18 +15,18 @@
 - [drewstinnett/go-letterboxd](https://github.com/drewstinnett/go-letterboxd) - Go client for reading Letterboxd data
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.10.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.10.3) (2 days ago)
+- [trufflesecurity/trufflehog v3.10.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.10.3) (3 days ago)
 - [goreleaser/goreleaser v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2) (1 week ago)
-- [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (2 weeks ago)
+- [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Full Metal Jacket, 1987 - ★★★★](https://letterboxd.com/mondodrew/film/full-metal-jacket/)
+- [The Cranes Are Flying, 1957 - ★★★½](https://letterboxd.com/mondodrew/film/the-cranes-are-flying/)
 - [The Killing, 1956 - ★★★½](https://letterboxd.com/mondodrew/film/the-killing/)
 - [Eternity and a Day, 1998 - ★★★★](https://letterboxd.com/mondodrew/film/eternity-and-a-day/)
 - [Le Trou, 1960 - ★★★★½](https://letterboxd.com/mondodrew/film/le-trou/)
-- [The Invitation, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-invitation-2022-1/)
-- [Fanny and Alexander, 1982 - ★★★½](https://letterboxd.com/mondodrew/film/fanny-and-alexander/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; - Education
