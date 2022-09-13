@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Vengeance, 2022 - ★★](https://letterboxd.com/mondodrew/film/vengeance-2022/)
+- [Love Exposure, 2008 - ★★★★](https://letterboxd.com/mondodrew/film/love-exposure/)
 - [The Ascent, 1977 - ★★★★](https://letterboxd.com/mondodrew/film/the-ascent/)
 - [My Son Hunter, 2022 - ½](https://letterboxd.com/mondodrew/film/my-son-hunter/)
 - [Macario, 1960 - ★★★½](https://letterboxd.com/mondodrew/film/macario/)
-- [The Given Word, 1962 - ★★★](https://letterboxd.com/mondodrew/film/the-given-word/)
-- [Sansho the Bailiff, 1954 - ★★★½](https://letterboxd.com/mondodrew/film/sansho-the-bailiff/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; - Education
