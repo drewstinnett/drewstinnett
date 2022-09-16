@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
+- [goreleaser/goreleaser v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3) (today)
 - [trufflesecurity/trufflehog v3.10.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.10.3) (1 week ago)
-- [goreleaser/goreleaser v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2) (2 weeks ago)
 - [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (4 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Beast, 2022 - ★★½](https://letterboxd.com/mondodrew/film/beast-2022-1/)
 - [Incendies, 2010 - ★★★★½](https://letterboxd.com/mondodrew/film/incendies/)
 - [Emily the Criminal, 2022 - ★★★](https://letterboxd.com/mondodrew/film/emily-the-criminal/)
 - [Ordet, 1955 - ★★★](https://letterboxd.com/mondodrew/film/ordet/)
 - [Three Thousand Years of Longing, 2022 - ★★](https://letterboxd.com/mondodrew/film/three-thousand-years-of-longing/)
-- [Vengeance, 2022 - ★★](https://letterboxd.com/mondodrew/film/vengeance-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; - Education
