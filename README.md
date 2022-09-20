@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (today)
-- [trufflesecurity/trufflehog v3.10.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.10.3) (2 weeks ago)
+- [trufflesecurity/trufflehog v3.11.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.11.1) (1 day ago)
+- [goreleaser/goreleaser v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (1 day ago)
 - [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Decision to Leave, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/decision-to-leave/)
 - [The Battle of Algiers, 1966 - ★★★★](https://letterboxd.com/mondodrew/film/the-battle-of-algiers/)
 - [Nights of Cabiria, 1957 - ★★★](https://letterboxd.com/mondodrew/film/nights-of-cabiria/)
 - [The Munsters, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-munsters/)
 - [Pearl, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/pearl-2022/)
-- [Killer&#39;s Kiss, 1955 - ★★★](https://letterboxd.com/mondodrew/film/killers-kiss/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; - Education
