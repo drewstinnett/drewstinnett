@@ -15,22 +15,22 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.11.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.11.1) (1 day ago)
-- [goreleaser/goreleaser v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (1 day ago)
+- [trufflesecurity/trufflehog v3.11.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.11.1) (2 days ago)
+- [goreleaser/goreleaser v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (2 days ago)
 - [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Chungking Express, 1994 - ★★★★](https://letterboxd.com/mondodrew/film/chungking-express/)
+- [The Seventh Seal, 1957 - ★★★★½](https://letterboxd.com/mondodrew/film/the-seventh-seal/)
 - [Decision to Leave, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/decision-to-leave/)
 - [The Battle of Algiers, 1966 - ★★★★](https://letterboxd.com/mondodrew/film/the-battle-of-algiers/)
 - [Nights of Cabiria, 1957 - ★★★](https://letterboxd.com/mondodrew/film/nights-of-cabiria/)
-- [The Munsters, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-munsters/)
-- [Pearl, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/pearl-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- &#34;Technology In&#34; Film - Part 1
 - &#34;Technology In&#34; - Education
 - &#34;Technology In&#34; - The Political Arena
 - Ancestry and Technology with Joe Stinnett Part 2
 - Ancestry and Technology with Joe Stinnett Part 1
-- Technology and Americas History of Slavery
