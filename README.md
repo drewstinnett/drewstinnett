@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.12.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.12.0) (4 days ago)
-- [goreleaser/goreleaser v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (6 days ago)
+- [trufflesecurity/trufflehog v3.12.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.12.0) (5 days ago)
+- [goreleaser/goreleaser v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (1 week ago)
 - [goreleaser/nfpm v2.18.1](https://github.com/goreleaser/nfpm/releases/tag/v2.18.1) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Second Mother, 2015 - ★★★★★](https://letterboxd.com/mondodrew/film/the-second-mother/)
+- [Avengers: Endgame, 2019 - ★★★★](https://letterboxd.com/mondodrew/film/avengers-endgame/2/)
+- [Avengers: Infinity War, 2018 - ★★★½](https://letterboxd.com/mondodrew/film/avengers-infinity-war/2/)
+- [A Trip to the Moon, 1902 - ★★★★](https://letterboxd.com/mondodrew/film/a-trip-to-the-moon/)
 - [Lou, 2022 - ★★★](https://letterboxd.com/mondodrew/film/lou-2022/)
-- [8½, 1963 - ★★★★](https://letterboxd.com/mondodrew/film/8-half/)
-- [Don&#39;t Worry Darling, 2022 - ★★★](https://letterboxd.com/mondodrew/film/dont-worry-darling/)
-- [Memoria, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/memoria-2021/)
-- [Werckmeister Harmonies, 2000 - ★★★★](https://letterboxd.com/mondodrew/film/werckmeister-harmonies/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; Film - Part 1
