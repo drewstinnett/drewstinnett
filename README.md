@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/nfpm v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (2 days ago)
-- [trufflesecurity/trufflehog v3.13.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.13.0) (5 days ago)
+- [goreleaser/nfpm v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (3 days ago)
+- [trufflesecurity/trufflehog v3.13.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.13.0) (6 days ago)
 - [goreleaser/goreleaser v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (3 months ago)
 
 #### 🍿 Latest movies I've watched
-- [The Greatest Beer Run Ever, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-greatest-beer-run-ever/)
-- [Bicycle Thieves, 1948 - ★★★½](https://letterboxd.com/mondodrew/film/bicycle-thieves/)
-- [Sissy, 2022 - ★★★](https://letterboxd.com/mondodrew/film/sissy-2022/)
-- [The 400 Blows, 1959 - ★★★★](https://letterboxd.com/mondodrew/film/the-400-blows/)
-- [Late Spring, 1949 - ★★★★](https://letterboxd.com/mondodrew/film/late-spring/)
+- [Dark Glasses, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/dark-glasses/)
+- [The Ghost &amp; Mr. Chicken, 1966 - ★★½](https://letterboxd.com/mondodrew/film/the-ghost-mr-chicken/)
+- [The Incredible Shrinking Man, 1957 - ★★★½](https://letterboxd.com/mondodrew/film/the-incredible-shrinking-man/)
+- [Sole Survivor, 1984 - ★½](https://letterboxd.com/mondodrew/film/sole-survivor-1984/)
+- [Bad Moon, 1996 - ★★](https://letterboxd.com/mondodrew/film/bad-moon/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; Film - Part 2
