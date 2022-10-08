@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.14.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.14.0) (2 days ago)
-- [goreleaser/goreleaser v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (4 days ago)
+- [trufflesecurity/trufflehog v3.14.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.14.0) (3 days ago)
+- [goreleaser/goreleaser v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (5 days ago)
 - [goreleaser/nfpm v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (3 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [I Walked with a Zombie, 1943 - ★★★](https://letterboxd.com/mondodrew/film/i-walked-with-a-zombie/)
+- [Hellraiser, 2022 - ★★★](https://letterboxd.com/mondodrew/film/hellraiser-2022/)
+- [Werewolf by Night, 2022 - ★★½](https://letterboxd.com/mondodrew/film/werewolf-by-night/)
 - [Repulsion, 1965 - ★★★★](https://letterboxd.com/mondodrew/film/repulsion/)
 - [The Fan, 1982 - ★★★★½](https://letterboxd.com/mondodrew/film/the-fan-1982/)
-- [Mr. Harrigan&#39;s Phone, 2022 - ★★★](https://letterboxd.com/mondodrew/film/mr-harrigans-phone/)
-- [Jeepers Creepers Reborn, 2022 - ★★★](https://letterboxd.com/mondodrew/film/jeepers-creepers-reborn/)
-- [The Hidden, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/the-hidden/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; Film - Part 2
