@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.14.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.14.0) (5 days ago)
+- [trufflesecurity/trufflehog v3.14.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.14.0) (6 days ago)
 - [goreleaser/goreleaser v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (1 week ago)
 - [goreleaser/nfpm v2.19.2](https://github.com/goreleaser/nfpm/releases/tag/v2.19.2) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [2001: A Space Odyssey, 1968 - ★★★★½](https://letterboxd.com/mondodrew/film/2001-a-space-odyssey/)
 - [Opera, 1987 - ★★★](https://letterboxd.com/mondodrew/film/opera/)
 - [Who Can Kill a Child?, 1976 - ★★★½](https://letterboxd.com/mondodrew/film/who-can-kill-a-child/)
 - [Anguish, 1987 - ★★★★](https://letterboxd.com/mondodrew/film/anguish/)
 - [Night of the Demon, 1957 - ★★★½](https://letterboxd.com/mondodrew/film/night-of-the-demon/)
-- [Dahmer – Monster: The Jeffrey Dahmer Story, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/dahmer-monster-the-jeffrey-dahmer-story/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; Film - Part 2
