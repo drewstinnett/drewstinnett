@@ -22,11 +22,11 @@
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Clerks III, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/clerks-iii/)
 - [Speak No Evil, 2022 - ★★★★½ (contains spoilers)](https://letterboxd.com/mondodrew/film/speak-no-evil-2022/)
 - [2001: A Space Odyssey, 1968 - ★★★★½](https://letterboxd.com/mondodrew/film/2001-a-space-odyssey/)
 - [Opera, 1987 - ★★★](https://letterboxd.com/mondodrew/film/opera/)
 - [Who Can Kill a Child?, 1976 - ★★★½](https://letterboxd.com/mondodrew/film/who-can-kill-a-child/)
-- [Anguish, 1987 - ★★★★](https://letterboxd.com/mondodrew/film/anguish/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; Film - Part 2
