@@ -22,11 +22,11 @@
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
 
 #### 🍿 Latest movies I've watched
-- [Old Man, 2022 - ★★½](https://letterboxd.com/mondodrew/film/old-man-2022/)
-- [The Thing From Another World, 1951 - ★★★½](https://letterboxd.com/mondodrew/film/the-thing-from-another-world/)
-- [Clerks III, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/clerks-iii/)
-- [Speak No Evil, 2022 - ★★★★½ (contains spoilers)](https://letterboxd.com/mondodrew/film/speak-no-evil-2022/)
-- [2001: A Space Odyssey, 1968 - ★★★★½](https://letterboxd.com/mondodrew/film/2001-a-space-odyssey/)
+- [Elephant, 2003 - ★★★★](https://letterboxd.com/mondodrew/film/elephant-2003/)
+- [Accident Man: Hitman&#39;s Holiday, 2022 - ★★½](https://letterboxd.com/mondodrew/film/accident-man-hitmans-holiday/)
+- [Carnival of Souls, 1962 - ★★★½](https://letterboxd.com/mondodrew/film/carnival-of-souls/)
+- [Godzilla vs. Destoroyah, 1995 - ★★★½](https://letterboxd.com/mondodrew/film/godzilla-vs-destoroyah/)
+- [Halloween Ends, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/halloween-ends/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; Film - Part 2
