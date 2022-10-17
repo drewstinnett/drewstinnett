@@ -16,17 +16,17 @@
 
 #### 🚀 Latest releases I've contributed to
 - [trufflesecurity/trufflehog v3.14.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.14.0) (1 week ago)
-- [goreleaser/goreleaser v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (1 week ago)
+- [goreleaser/goreleaser v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
 
 #### 🍿 Latest movies I've watched
-- [Elephant, 2003 - ★★★★](https://letterboxd.com/mondodrew/film/elephant-2003/)
-- [Accident Man: Hitman&#39;s Holiday, 2022 - ★★½](https://letterboxd.com/mondodrew/film/accident-man-hitmans-holiday/)
-- [Carnival of Souls, 1962 - ★★★½](https://letterboxd.com/mondodrew/film/carnival-of-souls/)
-- [Godzilla vs. Destoroyah, 1995 - ★★★½](https://letterboxd.com/mondodrew/film/godzilla-vs-destoroyah/)
-- [Halloween Ends, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/halloween-ends/)
+- [The Skin I Live In, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/the-skin-i-live-in/)
+- [The Spiral Staircase, 1946 - ★★★](https://letterboxd.com/mondodrew/film/the-spiral-staircase/)
+- [Kuroneko, 1968 - ★★★★½](https://letterboxd.com/mondodrew/film/kuroneko/)
+- [Spirit Halloween: The Movie, 2022 - ★½](https://letterboxd.com/mondodrew/film/spirit-halloween-the-movie/)
+- [Frenzy, 1972 - ★★★★](https://letterboxd.com/mondodrew/film/frenzy/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - &#34;Technology In&#34; Film - Part 2
