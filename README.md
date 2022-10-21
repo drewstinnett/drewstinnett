@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.12.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.2) (1 day ago)
+- [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (1 day ago)
 - [trufflesecurity/trufflehog v3.14.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.14.0) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [V/H/S/99, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/v-h-s-99/)
 - [Significant Other, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/significant-other/)
 - [Peeping Tom, 1960 - ★★½](https://letterboxd.com/mondodrew/film/peeping-tom/)
 - [Bloody Muscle Body Builder in Hell, 1995 - ★★★½](https://letterboxd.com/mondodrew/film/bloody-muscle-body-builder-in-hell/)
 - [Kwaidan, 1964 - ★★★★★](https://letterboxd.com/mondodrew/film/kwaidan/)
-- [Bros, 2022 - ★★](https://letterboxd.com/mondodrew/film/bros/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Free Technology
