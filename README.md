@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (4 days ago)
-- [trufflesecurity/trufflehog v3.14.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.14.0) (2 weeks ago)
+- [trufflesecurity/trufflehog v3.15](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.15) (1 day ago)
+- [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (5 days ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Psycho III, 1986 - ★★★](https://letterboxd.com/mondodrew/film/psycho-iii/)
+- [Psycho II, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/psycho-ii/)
 - [Psycho, 1960 - ★★★★½](https://letterboxd.com/mondodrew/film/psycho/)
 - [Popcorn, 1991 - ★★](https://letterboxd.com/mondodrew/film/popcorn/1/)
 - [Elvira&#39;s Haunted Hills, 2001 - ★★★](https://letterboxd.com/mondodrew/film/elviras-haunted-hills/)
-- [Eyes Without a Face, 1960 - ★★★](https://letterboxd.com/mondodrew/film/eyes-without-a-face/)
-- [Inland Empire, 2006 - ★★★½](https://letterboxd.com/mondodrew/film/inland-empire/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Free Technology
