@@ -15,22 +15,22 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.15](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.15) (1 day ago)
-- [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (5 days ago)
+- [trufflesecurity/trufflehog v3.15.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.15.1) (1 day ago)
+- [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (6 days ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Angst, 1983 - ★★★](https://letterboxd.com/mondodrew/film/angst/)
+- [The Deadly Spawn, 1983 - ★★½](https://letterboxd.com/mondodrew/film/the-deadly-spawn/)
+- [Psycho IV: The Beginning, 1990 - ★★★](https://letterboxd.com/mondodrew/film/psycho-iv-the-beginning/)
 - [Psycho III, 1986 - ★★★](https://letterboxd.com/mondodrew/film/psycho-iii/)
 - [Psycho II, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/psycho-ii/)
-- [Psycho, 1960 - ★★★★½](https://letterboxd.com/mondodrew/film/psycho/)
-- [Popcorn, 1991 - ★★](https://letterboxd.com/mondodrew/film/popcorn/1/)
-- [Elvira&#39;s Haunted Hills, 2001 - ★★★](https://letterboxd.com/mondodrew/film/elviras-haunted-hills/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Life!
 - Free Technology
 - &#34;Technology In&#34; Film - Part 2
 - &#34;Technology In&#34; Film - Part 1
 - &#34;Technology In&#34; - Education
-- &#34;Technology In&#34; - The Political Arena
