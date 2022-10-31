@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.16.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.1) (2 days ago)
+- [trufflesecurity/trufflehog v3.16.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.1) (3 days ago)
 - [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Bad Seed, 1956 - ★★★½](https://letterboxd.com/mondodrew/film/the-bad-seed/)
+- [Prey for the Devil, 2022 - ★★](https://letterboxd.com/mondodrew/film/prey-for-the-devil/)
+- [The Haunting, 1963 - ★★★](https://letterboxd.com/mondodrew/film/the-haunting/)
+- [Shin Godzilla, 2016 - ★★★★](https://letterboxd.com/mondodrew/film/shin-godzilla/)
 - [Kagemusha, 1980 - ★★★½](https://letterboxd.com/mondodrew/film/kagemusha/)
-- [The Tenant, 1976 - ★★★★](https://letterboxd.com/mondodrew/film/the-tenant/)
-- [November, 2017 - ★★★½](https://letterboxd.com/mondodrew/film/november-2017/)
-- [The Stepford Wives, 1975 - ★★½](https://letterboxd.com/mondodrew/film/the-stepford-wives/)
-- [Theatre of Blood, 1973 - ★★★](https://letterboxd.com/mondodrew/film/theatre-of-blood/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Life!
