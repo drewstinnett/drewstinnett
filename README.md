@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.16.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.1) (4 days ago)
+- [trufflesecurity/trufflehog v3.16.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.3) (today)
 - [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (4 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [God Forbid: The Sex Scandal That Brought Down a Dynasty, 2022 - ★★★](https://letterboxd.com/mondodrew/film/god-forbid-the-sex-scandal-that-brought-down-a-dynasty/)
+- [We All Loved Each Other So Much, 1974 - ★★½](https://letterboxd.com/mondodrew/film/we-all-loved-each-other-so-much/)
+- [Psycho, 1998 - ★★★](https://letterboxd.com/mondodrew/film/psycho-1998/)
 - [Nightmares, 1983 - ★★½](https://letterboxd.com/mondodrew/film/nightmares/)
 - [Morgiana, 1972 - ★★★★](https://letterboxd.com/mondodrew/film/morgiana/)
-- [The Bad Seed, 1956 - ★★★½](https://letterboxd.com/mondodrew/film/the-bad-seed/)
-- [Prey for the Devil, 2022 - ★★](https://letterboxd.com/mondodrew/film/prey-for-the-devil/)
-- [The Haunting, 1963 - ★★★](https://letterboxd.com/mondodrew/film/the-haunting/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Life!
