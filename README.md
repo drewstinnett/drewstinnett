@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.16.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.3) (4 days ago)
+- [trufflesecurity/trufflehog v3.16.3](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.3) (5 days ago)
 - [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (5 months ago)
-- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (9 months ago)
+- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (10 months ago)
 
 #### 🍿 Latest movies I've watched
-- [Paganini Horror, 1989 - ★★★](https://letterboxd.com/mondodrew/film/paganini-horror/)
-- [Faust, 1926 - ★★★★](https://letterboxd.com/mondodrew/film/faust-1926/)
-- [Nightmare Man, 2006 - ★★★](https://letterboxd.com/mondodrew/film/nightmare-man/)
-- [Napoleon, 1927 - ★★★½](https://letterboxd.com/mondodrew/film/napoleon/)
-- [Kendrick Lamar&#39;s The Big Steppers Tour: Live from Paris, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/kendrick-lamars-the-big-steppers-tour-live-from-paris/)
+- [A Separation, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/a-separation/)
+- [Causeway, 2022 - ★★½](https://letterboxd.com/mondodrew/film/causeway/)
+- [Hour of the Wolf, 1968 - ★★★½](https://letterboxd.com/mondodrew/film/hour-of-the-wolf/)
+- [The Banshees of Inisherin, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/the-banshees-of-inisherin/)
+- [The Skeleton of Mrs. Morales, 1960 - ★★★](https://letterboxd.com/mondodrew/film/the-skeleton-of-mrs-morales/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Life!
