@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.16.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.4) (today)
-- [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (2 weeks ago)
+- [trufflesecurity/trufflehog v3.16.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.4) (1 day ago)
+- [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (5 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (5 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (10 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Where Is My Friend&#39;s House?, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/where-is-my-friends-house/)
+- [I Dream in Another Language, 2017 - ★★★★½](https://letterboxd.com/mondodrew/film/i-dream-in-another-language/)
 - [Tampopo, 1985 - ★★★★](https://letterboxd.com/mondodrew/film/tampopo/)
 - [A Special Day, 1977 - ★★★★](https://letterboxd.com/mondodrew/film/a-special-day/)
 - [The Young and the Damned, 1950 - ★★★★](https://letterboxd.com/mondodrew/film/the-young-and-the-damned/)
-- [Landscape in the Mist, 1988 - ★★★★½](https://letterboxd.com/mondodrew/film/landscape-in-the-mist/)
-- [A Separation, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/a-separation/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Building an App!
