@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.16.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.4) (4 days ago)
+- [trufflesecurity/trufflehog v3.16.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.16.4) (5 days ago)
 - [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (5 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (5 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (10 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Your Name., 2016 - ★★★](https://letterboxd.com/mondodrew/film/your-name/)
+- [My Policeman, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/my-policeman/)
+- [Argentina, 1985, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/argentina-1985/)
+- [Is That Black Enough for You?!?, 2022 - ★★★](https://letterboxd.com/mondodrew/film/is-that-black-enough-for-you/)
 - [Section 8, 2022 - ★★](https://letterboxd.com/mondodrew/film/section-8-2022-1/)
-- [A Man Escaped, 1956 - ★★★★](https://letterboxd.com/mondodrew/film/a-man-escaped/)
-- [Three Colors: Red, 1994 - ★★★](https://letterboxd.com/mondodrew/film/three-colors-red/)
-- [Edge of Tomorrow, 2014 - ★★★★½](https://letterboxd.com/mondodrew/film/edge-of-tomorrow/)
-- [Black Panther: Wakanda Forever, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/black-panther-wakanda-forever/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Building an App!
