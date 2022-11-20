@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.17.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.17.0) (4 days ago)
+- [trufflesecurity/trufflehog v3.17.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.17.0) (5 days ago)
 - [goreleaser/goreleaser v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (5 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (5 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (10 months ago)
 
 #### 🍿 Latest movies I've watched
-- [Eyes Wide Shut, 1999 - ★★★½](https://letterboxd.com/mondodrew/film/eyes-wide-shut/)
-- [They Don&#39;t Wear Black Tie, 1981 - ★★★★](https://letterboxd.com/mondodrew/film/they-dont-wear-black-tie/)
-- [Both Sides of the Blade, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/both-sides-of-the-blade/)
-- [Red Beard, 1965 - ★★★★½](https://letterboxd.com/mondodrew/film/red-beard/)
-- [TÁR, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/tar-2022/)
+- [Dope, 2015 - ★★★½](https://letterboxd.com/mondodrew/film/dope-2015/)
+- [Slash/Back, 2022 - ★★★](https://letterboxd.com/mondodrew/film/slash-back/)
+- [The Killing Tree, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-killing-tree/)
+- [The Menu, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-menu-2022/)
+- [Evangelion: 3.0&#43;1.0 Thrice Upon a Time, 2021 - ★★★](https://letterboxd.com/mondodrew/film/evangelion-3010-thrice-upon-a-time/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - The Technology of Politics
