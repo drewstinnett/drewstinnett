@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (1 day ago)
-- [trufflesecurity/trufflehog v3.17.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.17.0) (6 days ago)
+- [goreleaser/goreleaser v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0) (2 days ago)
+- [trufflesecurity/trufflehog v3.17.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.17.0) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (5 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (5 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (10 months ago)
 
 #### 🍿 Latest movies I've watched
-- [American Movie, 1999 - ★★★★](https://letterboxd.com/mondodrew/film/american-movie/)
-- [Yojimbo, 1961 - ★★★★](https://letterboxd.com/mondodrew/film/yojimbo/)
-- [Army of Shadows, 1969 - ★★★★](https://letterboxd.com/mondodrew/film/army-of-shadows/)
-- [The Mansion of Madness, 1973 - ★★★](https://letterboxd.com/mondodrew/film/the-mansion-of-madness/)
-- [Dope, 2015 - ★★★½](https://letterboxd.com/mondodrew/film/dope-2015/)
+- [The Happiness of the Katakuris, 2001 - ★★★½](https://letterboxd.com/mondodrew/film/the-happiness-of-the-katakuris/)
+- [The Sky Is Everywhere, 2022 - ★★](https://letterboxd.com/mondodrew/film/the-sky-is-everywhere/)
+- [Aftersun, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/aftersun/)
+- [Wings of Desire, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/wings-of-desire/)
+- [Shin Ultraman, 2022 - ★★½](https://letterboxd.com/mondodrew/film/shin-ultraman/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - The Technology of Politics
