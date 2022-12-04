@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1) (4 days ago)
+- [goreleaser/goreleaser v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1) (5 days ago)
 - [trufflesecurity/trufflehog v3.18.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.18.0) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (5 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (5 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (10 months ago)
 
 #### 🍿 Latest movies I've watched
-- [Munchies, 1987 - ★½](https://letterboxd.com/mondodrew/film/munchies/)
-- [&#34;Sr.&#34;, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/sr/)
-- [The Best of Youth, 2003 - ★★★★★](https://letterboxd.com/mondodrew/film/the-best-of-youth/)
-- [Troll, 2022 - ★★](https://letterboxd.com/mondodrew/film/troll-2022/)
-- [Cool as Ice, 1991 - ★★](https://letterboxd.com/mondodrew/film/cool-as-ice/)
+- [The General, 1926 - ★★★★](https://letterboxd.com/mondodrew/film/the-general/)
+- [Il Sorpasso, 1962 - ★★★½](https://letterboxd.com/mondodrew/film/il-sorpasso/)
+- [The Harder They Come, 1972 - ★★★★](https://letterboxd.com/mondodrew/film/the-harder-they-come/)
+- [Violent Night, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/violent-night/)
+- [The Tale of the Princess Kaguya, 2013 - ★★★](https://letterboxd.com/mondodrew/film/the-tale-of-the-princess-kaguya/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Subscriptions!
