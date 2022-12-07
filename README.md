@@ -19,18 +19,18 @@
 - [trufflesecurity/trufflehog v3.18.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.18.0) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (5 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (6 months ago)
-- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (10 months ago)
+- [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (11 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, 1975 - ★★★★](https://letterboxd.com/mondodrew/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles/)
 - [La Dolce Vita, 1960 - ★★★](https://letterboxd.com/mondodrew/film/la-dolce-vita/)
 - [Shoplifters, 2018 - ★★★★½](https://letterboxd.com/mondodrew/film/shoplifters/)
 - [Happy Together, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/happy-together-1997/)
 - [Raise the Red Lantern, 1991 - ★★★½](https://letterboxd.com/mondodrew/film/raise-the-red-lantern/)
-- [In the Name of the Father, 1993 - ★★★](https://letterboxd.com/mondodrew/film/in-the-name-of-the-father-1993/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Inflation
 - Subscriptions!
 - The Technology of Politics
 - Building an App!
 - Life!
-- Free Technology
