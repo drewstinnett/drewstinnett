@@ -22,11 +22,11 @@
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (11 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Dead Snow, 2009 - ★★★★½](https://letterboxd.com/mondodrew/film/dead-snow/)
+- [The Trip, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/the-trip-2021/)
 - [She Said, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/she-said-2022/)
 - [Night of the Demons III, 1997 - ★★](https://letterboxd.com/mondodrew/film/night-of-the-demons-iii/)
 - [Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles, 1975 - ★★★★](https://letterboxd.com/mondodrew/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles/)
-- [La Dolce Vita, 1960 - ★★★](https://letterboxd.com/mondodrew/film/la-dolce-vita/)
-- [Shoplifters, 2018 - ★★★★½](https://letterboxd.com/mondodrew/film/shoplifters/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Inflation
