@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.19.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.19.0) (3 days ago)
-- [goreleaser/goreleaser v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1) (1 week ago)
+- [trufflesecurity/trufflehog v3.19.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.19.0) (4 days ago)
+- [goreleaser/goreleaser v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (6 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (6 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (11 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Murder Mansion, 1972 - ★★½](https://letterboxd.com/mondodrew/film/murder-mansion/)
+- [Arabella: Black Angel, 1989 - ★★★](https://letterboxd.com/mondodrew/film/arabella-black-angel/)
 - [Underground, 1995 - ★★★½](https://letterboxd.com/mondodrew/film/underground-1995/)
 - [The Big City, 1963 - ★★★](https://letterboxd.com/mondodrew/film/the-big-city/)
 - [To Live, 1994 - ★★★★½](https://letterboxd.com/mondodrew/film/to-live/)
-- [Dead Snow 2: Red vs. Dead, 2014 - ★★★★½](https://letterboxd.com/mondodrew/film/dead-snow-2-red-vs-dead/)
-- [La Notte, 1961 - ★★★★](https://letterboxd.com/mondodrew/film/la-notte/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Inflation
