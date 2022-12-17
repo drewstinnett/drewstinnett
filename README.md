@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.19.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.19.0) (1 week ago)
+- [trufflesecurity/trufflehog v3.20.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.20.0) (1 day ago)
 - [goreleaser/goreleaser v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (6 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (6 months ago)
 - [drewstinnett/vaultx v0.2.1](https://github.com/drewstinnett/vaultx/releases/tag/v0.2.1) (11 months ago)
 
 #### 🍿 Latest movies I've watched
+- [DC League of Super-Pets, 2022 - ★½](https://letterboxd.com/mondodrew/film/dc-league-of-super-pets/)
+- [Once Upon a Time in Anatolia, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/once-upon-a-time-in-anatolia/)
 - [The Man Who Laughs, 1928 - ★★★½](https://letterboxd.com/mondodrew/film/the-man-who-laughs/)
 - [Celia, 1989 - ★★★½](https://letterboxd.com/mondodrew/film/celia/)
 - [Manila in the Claws of Light, 1975 - ★★★★½](https://letterboxd.com/mondodrew/film/manila-in-the-claws-of-light/)
-- [Paddington 2, 2017 - ★★★★](https://letterboxd.com/mondodrew/film/paddington-2/)
-- [Blazing Saddles, 1974 - ★★★★](https://letterboxd.com/mondodrew/film/blazing-saddles/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Inflation
