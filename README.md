@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.21.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.21.0) (3 days ago)
+- [trufflesecurity/trufflehog v3.21.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.21.0) (5 days ago)
 - [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (1 week ago)
 - [goreleaser/goreleaser v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (6 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (6 months ago)
 
 #### 🍿 Latest movies I've watched
-- [Vampire Hookers, 1978 - ★★](https://letterboxd.com/mondodrew/film/vampire-hookers/)
-- [Bud Abbott and Lou Costello Meet Frankenstein, 1948 - ★★★](https://letterboxd.com/mondodrew/film/bud-abbott-and-lou-costello-meet-frankenstein/)
-- [Scare Package II: Rad Chad’s Revenge, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/scare-package-ii-rad-chads-revenge/)
-- [Dr. Jekyll and Mr. Hyde, 1931 - ★★★](https://letterboxd.com/mondodrew/film/dr-jekyll-and-mr-hyde-1931/)
-- [Dracula, 1958 - ★★★½](https://letterboxd.com/mondodrew/film/dracula-1958/)
+- [What Ever Happened to Baby Jane?, 1962 - ★★★](https://letterboxd.com/mondodrew/film/what-ever-happened-to-baby-jane/)
+- [The Leech, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/the-leech-2022/)
+- [Seconds, 1966 - ★★★★](https://letterboxd.com/mondodrew/film/seconds/)
+- [Adult Swim Yule Log, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/adult-swim-yule-log/)
+- [Images, 1972 - ★★½](https://letterboxd.com/mondodrew/film/images/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Inflation
