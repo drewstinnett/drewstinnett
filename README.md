@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0) (6 days ago)
+- [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (1 day ago)
 - [trufflesecurity/trufflehog v3.21.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.21.0) (1 week ago)
-- [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (2 weeks ago)
+- [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (6 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (6 months ago)
 
 #### 🍿 Latest movies I've watched
-- [Dead Ringers, 1988 - ★★★★](https://letterboxd.com/mondodrew/film/dead-ringers/)
-- [White Dog, 1982 - ★★](https://letterboxd.com/mondodrew/film/white-dog/)
-- [The 4th Man, 1983 - ★★½](https://letterboxd.com/mondodrew/film/the-4th-man/)
-- [Inglourious Basterds, 2009 - ★★★★](https://letterboxd.com/mondodrew/film/inglourious-basterds/)
-- [Kung Fu Hustle, 2004 - ★★★★★](https://letterboxd.com/mondodrew/film/kung-fu-hustle/)
+- [The Big 4, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-big-4/)
+- [Trouble in Paradise, 1932 - ★★½](https://letterboxd.com/mondodrew/film/trouble-in-paradise/)
+- [Rio Bravo, 1959 - ★★★½](https://letterboxd.com/mondodrew/film/rio-bravo/)
+- [Naked, 1993 - ★★½](https://letterboxd.com/mondodrew/film/naked/)
+- [Phenomena, 1985 - ★★★★](https://letterboxd.com/mondodrew/film/phenomena/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Inflation
