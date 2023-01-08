@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.23.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.23.1) (today)
-- [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (5 days ago)
+- [trufflesecurity/trufflehog v3.23.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.23.1) (1 day ago)
+- [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (6 days ago)
 - [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (7 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (7 months ago)
 
 #### 🍿 Latest movies I've watched
+- [In a Lonely Place, 1950 - ★★★](https://letterboxd.com/mondodrew/film/in-a-lonely-place/)
+- [M3GAN, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/m3gan/)
+- [Inside Out, 2015 - ★★★★½](https://letterboxd.com/mondodrew/film/inside-out-2015/)
+- [The Wild Bunch, 1969 - ★★★★](https://letterboxd.com/mondodrew/film/the-wild-bunch/)
 - [Aguirre, the Wrath of God, 1972 - ★★★½](https://letterboxd.com/mondodrew/film/aguirre-the-wrath-of-god/)
-- [The Pale Blue Eye, 2022 - ★★½](https://letterboxd.com/mondodrew/film/the-pale-blue-eye/)
-- [The King of Comedy, 1982 - ★★★★★](https://letterboxd.com/mondodrew/film/the-king-of-comedy/)
-- [Sorcerer, 1977 - ★★★★](https://letterboxd.com/mondodrew/film/sorcerer/)
-- [The Searchers, 1956 - ★★★½](https://letterboxd.com/mondodrew/film/the-searchers/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - ChatGPT with Dan Cantrell
