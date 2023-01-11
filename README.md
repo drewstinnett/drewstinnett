@@ -15,22 +15,22 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.23.4-alpha](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.23.4-alpha) (today)
+- [trufflesecurity/trufflehog v3.23.4-alpha](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.23.4-alpha) (1 day ago)
 - [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (1 week ago)
 - [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (4 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (7 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (7 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Last Picture Show, 1971 - ★★★★½](https://letterboxd.com/mondodrew/film/the-last-picture-show/)
+- [Manhattan, 1979 - ★★★](https://letterboxd.com/mondodrew/film/manhattan/)
 - [Countess Dracula, 1971 - ★★½](https://letterboxd.com/mondodrew/film/countess-dracula/)
 - [Annie Hall, 1977 - ★★★½](https://letterboxd.com/mondodrew/film/annie-hall/)
 - [Devotion, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/devotion-2022/)
-- [Dracula Untold, 2014 - ★★](https://letterboxd.com/mondodrew/film/dracula-untold/)
-- [Babylon, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/babylon-2022/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Technology in Movies
 - ChatGPT with Dan Cantrell
 - Inflation
 - Subscriptions!
 - The Technology of Politics
-- Building an App!
