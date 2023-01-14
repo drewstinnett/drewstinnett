@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.25.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.25.1) (1 day ago)
+- [trufflesecurity/trufflehog v3.25.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.25.2) (1 day ago)
 - [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (1 week ago)
 - [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (7 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (7 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Short Term 12, 2013 - ★★★★](https://letterboxd.com/mondodrew/film/short-term-12-2013/)
+- [Mars One, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/mars-one/)
 - [Tenet, 2020 - ★★★★½](https://letterboxd.com/mondodrew/film/tenet/1/)
 - [The Death of Dick Long, 2019 - ★★★★½](https://letterboxd.com/mondodrew/film/the-death-of-dick-long/1/)
 - [The Last Picture Show, 1971 - ★★★★½](https://letterboxd.com/mondodrew/film/the-last-picture-show/)
-- [Manhattan, 1979 - ★★★](https://letterboxd.com/mondodrew/film/manhattan/)
-- [Countess Dracula, 1971 - ★★½](https://letterboxd.com/mondodrew/film/countess-dracula/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology in Movies
