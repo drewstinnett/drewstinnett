@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.25.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.25.2) (2 days ago)
-- [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (1 week ago)
+- [trufflesecurity/trufflehog v3.25.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.25.2) (3 days ago)
+- [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (2 weeks ago)
 - [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (7 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (7 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Mr. Smith Goes to Washington, 1939 - ★★★½](https://letterboxd.com/mondodrew/film/mr-smith-goes-to-washington/)
+- [Million Dollar Baby, 2004 - ★★★½](https://letterboxd.com/mondodrew/film/million-dollar-baby/)
+- [Plane, 2023 - ★★½](https://letterboxd.com/mondodrew/film/plane-2023/)
+- [Nashville, 1975 - ★★★](https://letterboxd.com/mondodrew/film/nashville/)
 - [For a Few Dollars More, 1965 - ★★★★](https://letterboxd.com/mondodrew/film/for-a-few-dollars-more/)
-- [A Fistful of Dollars, 1964 - ★★★★](https://letterboxd.com/mondodrew/film/a-fistful-of-dollars/)
-- [House Party, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/house-party-2023/)
-- [Sick, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/sick-2022/)
-- [El sur, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/el-sur/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology in Movies
