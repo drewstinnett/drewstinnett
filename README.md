@@ -15,7 +15,7 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.25.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.25.2) (6 days ago)
+- [trufflesecurity/trufflehog v3.25.2](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.25.2) (1 week ago)
 - [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (2 weeks ago)
 - [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (7 months ago)
