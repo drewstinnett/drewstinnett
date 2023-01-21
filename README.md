@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (7 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Mary and Max, 2009 - ★★★★½](https://letterboxd.com/mondodrew/film/mary-and-max/)
+- [The Grapes of Wrath, 1940 - ★★★½](https://letterboxd.com/mondodrew/film/the-grapes-of-wrath/)
 - [Take Back the Night, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/take-back-the-night/)
 - [There&#39;s Something Wrong with the Children, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/theres-something-wrong-with-the-children/)
 - [The French Connection, 1971 - ★★★★](https://letterboxd.com/mondodrew/film/the-french-connection/)
-- [Vampyres, 1974 - ★★★½](https://letterboxd.com/mondodrew/film/vampyres/)
-- [12 Years a Slave, 2013 - ★★★½](https://letterboxd.com/mondodrew/film/12-years-a-slave/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - How far have we come?
