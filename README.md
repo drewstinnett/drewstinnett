@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (7 months ago)
 
 #### 🍿 Latest movies I've watched
-- [Mary and Max, 2009 - ★★★★½](https://letterboxd.com/mondodrew/film/mary-and-max/)
-- [The Grapes of Wrath, 1940 - ★★★½](https://letterboxd.com/mondodrew/film/the-grapes-of-wrath/)
-- [Take Back the Night, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/take-back-the-night/)
-- [There&#39;s Something Wrong with the Children, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/theres-something-wrong-with-the-children/)
-- [The French Connection, 1971 - ★★★★](https://letterboxd.com/mondodrew/film/the-french-connection/)
+- [Maximum Overdrive, 1986 - ★★](https://letterboxd.com/mondodrew/film/maximum-overdrive/)
+- [Shiva Baby, 2020 - ★★★★](https://letterboxd.com/mondodrew/film/shiva-baby-2020/)
+- [High Flying Bird, 2019 - ★★](https://letterboxd.com/mondodrew/film/high-flying-bird/)
+- [Sorry About the Demon, 2022 - ★★★](https://letterboxd.com/mondodrew/film/sorry-about-the-demon/)
+- [On the Waterfront, 1954 - ★★★★](https://letterboxd.com/mondodrew/film/on-the-waterfront/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - How far have we come?
