@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.26.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.26.0) (1 day ago)
+- [trufflesecurity/trufflehog v3.26.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.26.0) (2 days ago)
 - [goreleaser/goreleaser v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1) (3 weeks ago)
 - [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (7 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (7 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Freaked, 1993 - ★★★½](https://letterboxd.com/mondodrew/film/freaked/)
+- [The Keep, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/the-keep/)
+- [Layer Cake, 2004 - ★★★★](https://letterboxd.com/mondodrew/film/layer-cake/)
+- [Infinity Pool, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/infinity-pool/)
 - [To Leslie, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/to-leslie/)
-- [Koyaanisqatsi, 1982 - ★★★½](https://letterboxd.com/mondodrew/film/koyaanisqatsi/)
-- [Prom Night, 1980 - ★★★](https://letterboxd.com/mondodrew/film/prom-night/)
-- [Carol, 2015 - ★★★★](https://letterboxd.com/mondodrew/film/carol-2015/)
-- [We&#39;re All Going to the World&#39;s Fair, 2021 - ★★★½](https://letterboxd.com/mondodrew/film/were-all-going-to-the-worlds-fair/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - How far have we come?
