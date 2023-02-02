@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.15.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.0) (1 day ago)
-- [trufflesecurity/trufflehog v3.26.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.26.0) (5 days ago)
+- [goreleaser/goreleaser v1.15.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.1) (today)
+- [trufflesecurity/trufflehog v3.26.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.26.0) (6 days ago)
 - [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (7 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (7 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Hannah and Her Sisters, 1986 - ★★★½](https://letterboxd.com/mondodrew/film/hannah-and-her-sisters/)
 - [Babylon, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/babylon-2022/2/)
 - [Puss in Boots: The Last Wish, 2022 - ★★](https://letterboxd.com/mondodrew/film/puss-in-boots-the-last-wish/)
 - [Freaked, 1993 - ★★★½](https://letterboxd.com/mondodrew/film/freaked/)
 - [The Keep, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/the-keep/)
-- [Layer Cake, 2004 - ★★★★](https://letterboxd.com/mondodrew/film/layer-cake/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Structured and Unstructured Data
