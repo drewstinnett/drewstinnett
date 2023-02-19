@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
+- [showwin/speedtest-go v1.4.1](https://github.com/showwin/speedtest-go/releases/tag/v1.4.1) (today)
 - [trufflesecurity/trufflehog v3.27.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.27.1) (1 week ago)
 - [goreleaser/goreleaser v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2) (1 week ago)
-- [showwin/speedtest-go v1.3.1](https://github.com/showwin/speedtest-go/releases/tag/v1.3.1) (2 months ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (8 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (8 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Ant-Man and the Wasp: Quantumania, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/ant-man-and-the-wasp-quantumania/)
+- [Oblivion, 2013 - ★★★½](https://letterboxd.com/mondodrew/film/oblivion-2013/)
 - [The Inspection, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-inspection/)
 - [The Banshees of Inisherin, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/the-banshees-of-inisherin/1/)
 - [Nekromantik, 1988 - ★★★](https://letterboxd.com/mondodrew/film/nekromantik/)
-- [Phantom of the Mall: Eric&#39;s Revenge, 1989 - ★★★](https://letterboxd.com/mondodrew/film/phantom-of-the-mall-erics-revenge/1/)
-- [Empire of Light, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/empire-of-light/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Reaching Across the Aisle
