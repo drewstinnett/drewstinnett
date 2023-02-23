@@ -15,22 +15,22 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.4.1](https://github.com/showwin/speedtest-go/releases/tag/v1.4.1) (3 days ago)
-- [trufflesecurity/trufflehog v3.27.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.27.1) (1 week ago)
+- [trufflesecurity/trufflehog v3.28.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.28.0) (1 day ago)
+- [showwin/speedtest-go v1.4.2](https://github.com/showwin/speedtest-go/releases/tag/v1.4.2) (1 day ago)
 - [goreleaser/goreleaser v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2) (2 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (8 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (8 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Women Talking, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/women-talking/)
 - [Lust for a Vampire, 1971 - ★★★](https://letterboxd.com/mondodrew/film/lust-for-a-vampire/)
 - [Ant-Man and the Wasp: Quantumania, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/ant-man-and-the-wasp-quantumania/)
 - [Oblivion, 2013 - ★★★½](https://letterboxd.com/mondodrew/film/oblivion-2013/)
 - [The Inspection, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-inspection/)
-- [The Banshees of Inisherin, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/the-banshees-of-inisherin/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- DEI
 - Reaching Across the Aisle
 - Tech Trivia
 - Structured and Unstructured Data
 - How far have we come?
-- Technology in Movies
