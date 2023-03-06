@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.5.2](https://github.com/showwin/speedtest-go/releases/tag/v1.5.2) (1 day ago)
-- [trufflesecurity/trufflehog v3.28.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.28.7) (2 days ago)
+- [showwin/speedtest-go v1.5.2](https://github.com/showwin/speedtest-go/releases/tag/v1.5.2) (2 days ago)
+- [trufflesecurity/trufflehog v3.28.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.28.7) (3 days ago)
 - [goreleaser/goreleaser v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (8 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [How It Ends, 2021 - ★★★](https://letterboxd.com/mondodrew/film/how-it-ends-2021/)
+- [Who We Are: A Chronicle of Racism in America, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/who-we-are-a-chronicle-of-racism-in-america/)
+- [Spoonful of Sugar, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/spoonful-of-sugar/)
+- [Chris Rock: Selective Outrage, 2023 - ★★½](https://letterboxd.com/mondodrew/film/chris-rock-selective-outrage/)
 - [All the Beauty and the Bloodshed, 2022 - ★★½](https://letterboxd.com/mondodrew/film/all-the-beauty-and-the-bloodshed/)
-- [Creed III, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/creed-iii/)
-- [Creed, 2015 - ★★★★½](https://letterboxd.com/mondodrew/film/creed/)
-- [Living, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/living-2022/)
-- [World War Z, 2013 - ★★★½](https://letterboxd.com/mondodrew/film/world-war-z/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - The Path to Data Freedom with David G. Simmons
