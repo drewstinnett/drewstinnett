@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0) (today)
-- [showwin/speedtest-go v1.5.2](https://github.com/showwin/speedtest-go/releases/tag/v1.5.2) (3 days ago)
-- [trufflesecurity/trufflehog v3.28.7](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.28.7) (4 days ago)
-- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (8 months ago)
+- [trufflesecurity/trufflehog v3.29.0](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.29.0) (today)
+- [goreleaser/goreleaser v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0) (1 day ago)
+- [showwin/speedtest-go v1.5.2](https://github.com/showwin/speedtest-go/releases/tag/v1.5.2) (4 days ago)
+- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (9 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Fast and the Furious, 2001 - ★★★★](https://letterboxd.com/mondodrew/film/the-fast-and-the-furious-2001/2/)
 - [How It Ends, 2021 - ★★★](https://letterboxd.com/mondodrew/film/how-it-ends-2021/)
 - [Who We Are: A Chronicle of Racism in America, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/who-we-are-a-chronicle-of-racism-in-america/)
 - [Spoonful of Sugar, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/spoonful-of-sugar/)
 - [Chris Rock: Selective Outrage, 2023 - ★★½](https://letterboxd.com/mondodrew/film/chris-rock-selective-outrage/)
-- [All the Beauty and the Bloodshed, 2022 - ★★½](https://letterboxd.com/mondodrew/film/all-the-beauty-and-the-bloodshed/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - The Path to Data Freedom with David G. Simmons
