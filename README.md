@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (1 day ago)
+- [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (2 days ago)
 - [trufflesecurity/trufflehog v3.29.1](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.29.1) (1 week ago)
 - [goreleaser/goreleaser v1.16.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.1) (1 week ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (9 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (9 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Babylon, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/babylon-2022/3/)
+- [65, 2023 - ★★½](https://letterboxd.com/mondodrew/film/65/)
+- [T2 Trainspotting, 2017 - ★★★½](https://letterboxd.com/mondodrew/film/t2-trainspotting/)
 - [F9, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/f9/1/)
 - [The Fate of the Furious, 2017 - ★★★★★](https://letterboxd.com/mondodrew/film/the-fate-of-the-furious/2/)
-- [Furious 7, 2015 - ★★★★](https://letterboxd.com/mondodrew/film/furious-7/3/)
-- [Fast Five, 2011 - ★★★★½](https://letterboxd.com/mondodrew/film/fast-five/2/)
-- [Los Bandoleros, 2009 - ★★★](https://letterboxd.com/mondodrew/film/los-bandoleros/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew: What is Coding?
