@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.31.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.31.4) (1 day ago)
+- [trufflesecurity/trufflehog v3.31.4](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.31.4) (2 days ago)
 - [goreleaser/goreleaser v1.16.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.2) (2 weeks ago)
 - [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (3 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (10 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (10 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Sunshine, 2007 - ★★★½](https://letterboxd.com/mondodrew/film/sunshine-2007/)
+- [Shazam! Fury of the Gods, 2023 - ★★](https://letterboxd.com/mondodrew/film/shazam-fury-of-the-gods/)
 - [John Wick: Chapter 4, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/john-wick-chapter-4/)
 - [The Boxer&#39;s Omen, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/the-boxers-omen/)
 - [Winnie the Pooh: Blood and Honey, 2023 - ★½](https://letterboxd.com/mondodrew/film/winnie-the-pooh-blood-and-honey/)
-- [Kill Her Goats, 2023 - ★★½](https://letterboxd.com/mondodrew/film/kill-her-goats/)
-- [Babylon, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/babylon-2022/3/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - AI
