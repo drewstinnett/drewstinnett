@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [trufflesecurity/trufflehog v3.31.6](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.31.6) (1 day ago)
-- [goreleaser/goreleaser v1.17.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.0) (4 days ago)
+- [goreleaser/goreleaser v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1) (1 day ago)
+- [trufflesecurity/trufflehog v3.31.6](https://github.com/trufflesecurity/trufflehog/releases/tag/v3.31.6) (2 days ago)
 - [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (4 weeks ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (10 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (10 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Wicker Man, 1973 - ★★★★](https://letterboxd.com/mondodrew/film/the-wicker-man/)
+- [Boyhood, 2014 - ★★★★½](https://letterboxd.com/mondodrew/film/boyhood/)
+- [Kids vs. Aliens, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/kids-vs-aliens/)
 - [A Good Person, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/a-good-person-2023/)
 - [Champions, 2023 - ★★★](https://letterboxd.com/mondodrew/film/champions-2023/)
-- [Bog, 1979 - ★★](https://letterboxd.com/mondodrew/film/bog/)
-- [Living with Chucky, 2022 - ★★★](https://letterboxd.com/mondodrew/film/living-with-chucky/)
-- [Tetris, 2023 - ★★](https://letterboxd.com/mondodrew/film/tetris/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Killer Robots!
