@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1) (2 days ago)
+- [goreleaser/goreleaser v1.17.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.1) (3 days ago)
 - [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (10 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (10 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [Infinity Pool, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/infinity-pool/1/)
+- [The Elephant Whisperers, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-elephant-whisperers/)
+- [Sorority Babes in the Slimeball Bowl-O-Rama 2, 2022 - ★★★](https://letterboxd.com/mondodrew/film/sorority-babes-in-the-slimeball-bowl-o-rama-2/)
 - [Rye Lane, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/rye-lane/)
 - [Before Sunrise, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/before-sunrise/1/)
-- [Door Mouse, 2022 - ★★½](https://letterboxd.com/mondodrew/film/door-mouse/)
-- [Renfield, 2023 - ★★★](https://letterboxd.com/mondodrew/film/renfield/)
-- [I Trapped the Devil, 2019 - ★★★](https://letterboxd.com/mondodrew/film/i-trapped-the-devil/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Killer Robots!
