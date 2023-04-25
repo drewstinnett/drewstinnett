@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2) (6 days ago)
+- [goreleaser/goreleaser v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2) (1 week ago)
 - [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (10 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (10 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [Swarm, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/swarm-2023-1/)
 - [The Beyond, 1981 - ★★★](https://letterboxd.com/mondodrew/film/the-beyond/)
 - [Beau Is Afraid, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/beau-is-afraid/)
 - [BEEF, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/beef-2023/)
 - [The Outwaters, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-outwaters/)
-- [The Gold Rush, 1925 - ★★★½](https://letterboxd.com/mondodrew/film/the-gold-rush/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology in Entertainment
