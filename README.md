@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [Witchboard, 1986 - ★½](https://letterboxd.com/mondodrew/film/witchboard/1/)
 - [Dead Ringers, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/dead-ringers-2023/)
 - [Swarm, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/swarm-2023-1/)
 - [The Beyond, 1981 - ★★★](https://letterboxd.com/mondodrew/film/the-beyond/)
 - [Beau Is Afraid, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/beau-is-afraid/)
-- [BEEF, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/beef-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Episode 100!
