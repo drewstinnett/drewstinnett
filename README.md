@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [Clock, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/clock-2023/)
+- [The Artifice Girl, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-artifice-girl/)
+- [The Devil&#39;s Rain, 1975 - ★★★](https://letterboxd.com/mondodrew/film/the-devils-rain/)
 - [The Royal Tenenbaums, 2001 - ★★★★★](https://letterboxd.com/mondodrew/film/the-royal-tenenbaums/)
 - [From Black, 2023 - ★★★](https://letterboxd.com/mondodrew/film/from-black/)
-- [Sisu, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/sisu-2022/)
-- [Witchboard, 1986 - ★½](https://letterboxd.com/mondodrew/film/witchboard/1/)
-- [Dead Ringers, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/dead-ringers-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Episode 100!
