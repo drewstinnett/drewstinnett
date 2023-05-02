@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2) (1 week ago)
+- [goreleaser/goreleaser v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2) (2 weeks ago)
 - [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (10 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (10 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [Slumdog Millionaire, 2008 - ★★★½](https://letterboxd.com/mondodrew/film/slumdog-millionaire/)
 - [Clock, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/clock-2023/)
 - [The Artifice Girl, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-artifice-girl/)
 - [The Devil&#39;s Rain, 1975 - ★★★](https://letterboxd.com/mondodrew/film/the-devils-rain/)
 - [The Royal Tenenbaums, 2001 - ★★★★★](https://letterboxd.com/mondodrew/film/the-royal-tenenbaums/)
-- [From Black, 2023 - ★★★](https://letterboxd.com/mondodrew/film/from-black/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Episode 100!
