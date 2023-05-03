@@ -22,15 +22,15 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [The Pope&#39;s Exorcist, 2023 - ★★](https://letterboxd.com/mondodrew/film/the-popes-exorcist/)
 - [Slumdog Millionaire, 2008 - ★★★½](https://letterboxd.com/mondodrew/film/slumdog-millionaire/)
 - [Clock, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/clock-2023/)
 - [The Artifice Girl, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-artifice-girl/)
 - [The Devil&#39;s Rain, 1975 - ★★★](https://letterboxd.com/mondodrew/film/the-devils-rain/)
-- [The Royal Tenenbaums, 2001 - ★★★★★](https://letterboxd.com/mondodrew/film/the-royal-tenenbaums/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Entrepreneurial Spirit with Alex Pritchett
 - Episode 100!
 - Technology in Entertainment
 - Killer Robots!
 - AI
-- Technology in Education
