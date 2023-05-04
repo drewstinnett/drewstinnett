@@ -18,7 +18,7 @@
 - [goreleaser/goreleaser v1.17.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.2) (2 weeks ago)
 - [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (10 months ago)
-- [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (10 months ago)
+- [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (11 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
