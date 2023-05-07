@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.18.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.1) (1 day ago)
+- [goreleaser/goreleaser v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) (today)
 - [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (1 month ago)
-- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (10 months ago)
+- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (11 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (11 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [The Texas Chain Saw Massacre, 1974 - ★★★★](https://letterboxd.com/mondodrew/film/the-texas-chain-saw-massacre/)
+- [Guardians of the Galaxy Vol. 3, 2023 - ★★★★★](https://letterboxd.com/mondodrew/film/guardians-of-the-galaxy-vol-3/)
+- [How to Blow Up a Pipeline, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/how-to-blow-up-a-pipeline/)
 - [The Pope&#39;s Exorcist, 2023 - ★★](https://letterboxd.com/mondodrew/film/the-popes-exorcist/)
 - [Slumdog Millionaire, 2008 - ★★★½](https://letterboxd.com/mondodrew/film/slumdog-millionaire/)
-- [Clock, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/clock-2023/)
-- [The Artifice Girl, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-artifice-girl/)
-- [The Devil&#39;s Rain, 1975 - ★★★](https://letterboxd.com/mondodrew/film/the-devils-rain/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Entrepreneurial Spirit with Alex Pritchett
