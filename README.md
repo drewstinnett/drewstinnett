@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [The Muthers, 1976 - ★★](https://letterboxd.com/mondodrew/film/the-muthers/)
+- [The Babadook, 2014 - ★★★★½](https://letterboxd.com/mondodrew/film/the-babadook/)
 - [Hypnotic, 2023 - ★★½](https://letterboxd.com/mondodrew/film/hypnotic-2023/)
 - [Conan the Barbarian, 1982 - ★★★½](https://letterboxd.com/mondodrew/film/conan-the-barbarian/)
 - [Paint, 2023 - ★★½](https://letterboxd.com/mondodrew/film/paint-2023/)
-- [Air, 2023 - ★★](https://letterboxd.com/mondodrew/film/air-2023/)
-- [The Covenant, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-covenant-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Technology in Entertainment - Part 2
