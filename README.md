@@ -29,8 +29,8 @@
 - [Conan the Barbarian, 1982 - ★★★½](https://letterboxd.com/mondodrew/film/conan-the-barbarian/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Tech Mistakes!
 - Technology in Entertainment - Part 2
 - Entrepreneurial Spirit with Alex Pritchett
 - Episode 100!
 - Technology in Entertainment
-- Killer Robots!
