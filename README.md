@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [White Men Can&#39;t Jump, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/white-men-cant-jump-2023/)
 - [Polite Society, 2023 - ★★★](https://letterboxd.com/mondodrew/film/polite-society/)
 - [The Devil&#39;s Doorway, 2018 - ★★½](https://letterboxd.com/mondodrew/film/the-devils-doorway/)
 - [The Muthers, 1976 - ★★](https://letterboxd.com/mondodrew/film/the-muthers/)
 - [The Babadook, 2014 - ★★★★½](https://letterboxd.com/mondodrew/film/the-babadook/)
-- [Hypnotic, 2023 - ★★½](https://letterboxd.com/mondodrew/film/hypnotic-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Tech Mistakes!
