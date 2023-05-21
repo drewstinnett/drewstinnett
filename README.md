@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) (1 week ago)
+- [goreleaser/goreleaser v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) (2 weeks ago)
 - [showwin/speedtest-go v1.6.0](https://github.com/showwin/speedtest-go/releases/tag/v1.6.0) (2 months ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (11 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (11 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [All the President&#39;s Men, 1976 - ★★★★](https://letterboxd.com/mondodrew/film/all-the-presidents-men/)
+- [Fast X, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/fast-x/)
+- [The Final Exit of the Disciples of Ascensia, 2019 - ★★★½](https://letterboxd.com/mondodrew/film/the-final-exit-of-the-disciples-of-ascensia/)
+- [Consecration, 2023 - ★★★](https://letterboxd.com/mondodrew/film/consecration-2023/)
 - [White Men Can&#39;t Jump, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/white-men-cant-jump-2023/)
-- [Polite Society, 2023 - ★★★](https://letterboxd.com/mondodrew/film/polite-society/)
-- [The Devil&#39;s Doorway, 2018 - ★★½](https://letterboxd.com/mondodrew/film/the-devils-doorway/)
-- [The Muthers, 1976 - ★★](https://letterboxd.com/mondodrew/film/the-muthers/)
-- [The Babadook, 2014 - ★★★★½](https://letterboxd.com/mondodrew/film/the-babadook/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Tech Mistakes!
