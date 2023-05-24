@@ -22,15 +22,15 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [Margin Call, 2011 - ★★★](https://letterboxd.com/mondodrew/film/margin-call/)
 - [Possession, 1981 - ★★★★½](https://letterboxd.com/mondodrew/film/possession/)
 - [The Mutilator, 1984 - ★★★½](https://letterboxd.com/mondodrew/film/the-mutilator/1/)
 - [All the President&#39;s Men, 1976 - ★★★★](https://letterboxd.com/mondodrew/film/all-the-presidents-men/)
 - [Fast X, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/fast-x/)
-- [The Final Exit of the Disciples of Ascensia, 2019 - ★★★½](https://letterboxd.com/mondodrew/film/the-final-exit-of-the-disciples-of-ascensia/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Future of Work
 - Tech Mistakes!
 - Technology in Entertainment - Part 2
 - Entrepreneurial Spirit with Alex Pritchett
 - Episode 100!
-- Technology in Entertainment
