@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [Malum, 2023 - ★★★](https://letterboxd.com/mondodrew/film/malum-2023/)
+- [Torque, 2004 - ★★](https://letterboxd.com/mondodrew/film/torque/)
+- [John Wick: Chapter 4, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/john-wick-chapter-4/1/)
 - [Margin Call, 2011 - ★★★](https://letterboxd.com/mondodrew/film/margin-call/)
 - [Possession, 1981 - ★★★★½](https://letterboxd.com/mondodrew/film/possession/)
-- [The Mutilator, 1984 - ★★★½](https://letterboxd.com/mondodrew/film/the-mutilator/1/)
-- [All the President&#39;s Men, 1976 - ★★★★](https://letterboxd.com/mondodrew/film/all-the-presidents-men/)
-- [Fast X, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/fast-x/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Future of Work
