@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [A Trip to Infinity, 2022 - ★★★](https://letterboxd.com/mondodrew/film/a-trip-to-infinity/)
+- [Black Hawk Down, 2001 - ★★★★](https://letterboxd.com/mondodrew/film/black-hawk-down/)
 - [Malum, 2023 - ★★★](https://letterboxd.com/mondodrew/film/malum-2023/)
 - [Torque, 2004 - ★★](https://letterboxd.com/mondodrew/film/torque/)
 - [John Wick: Chapter 4, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/john-wick-chapter-4/1/)
-- [Margin Call, 2011 - ★★★](https://letterboxd.com/mondodrew/film/margin-call/)
-- [Possession, 1981 - ★★★★½](https://letterboxd.com/mondodrew/film/possession/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Future of Work
