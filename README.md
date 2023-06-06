@@ -15,9 +15,9 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (1 day ago)
-- [goreleaser/goreleaser v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) (4 weeks ago)
-- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (11 months ago)
+- [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (2 days ago)
+- [goreleaser/goreleaser v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) (1 month ago)
+- [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 year ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
