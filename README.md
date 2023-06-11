@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (6 days ago)
+- [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (1 week ago)
 - [goreleaser/goreleaser v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 year ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Fast Five, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/fast-five/3/)
+- [Fast &amp; Furious, 2009 - ★★★½](https://letterboxd.com/mondodrew/film/fast-furious/3/)
+- [Transformers: Rise of the Beasts, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/transformers-rise-of-the-beasts/)
+- [Bumblebee, 2018 - ★★★](https://letterboxd.com/mondodrew/film/bumblebee/)
 - [Master Gardener, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/master-gardener/)
-- [Spider-Man: Across the Spider-Verse, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/spider-man-across-the-spider-verse/)
-- [BlackBerry, 2023 - ★★★](https://letterboxd.com/mondodrew/film/blackberry-2023/)
-- [The Price We Pay, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-price-we-pay-2022/)
-- [A Trip to Infinity, 2022 - ★★★](https://letterboxd.com/mondodrew/film/a-trip-to-infinity/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Future of Work with Tonya Drake
