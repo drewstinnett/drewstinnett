@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Furious 7, 2015 - ★★★★](https://letterboxd.com/mondodrew/film/furious-7/4/)
+- [Fast &amp; Furious 6, 2013 - ★★★★](https://letterboxd.com/mondodrew/film/fast-furious-6/2/)
+- [Brooklyn 45, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/brooklyn-45/)
 - [Fast Five, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/fast-five/3/)
 - [Fast &amp; Furious, 2009 - ★★★½](https://letterboxd.com/mondodrew/film/fast-furious/3/)
-- [Transformers: Rise of the Beasts, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/transformers-rise-of-the-beasts/)
-- [Bumblebee, 2018 - ★★★](https://letterboxd.com/mondodrew/film/bumblebee/)
-- [Master Gardener, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/master-gardener/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Future of Work with Tonya Drake
