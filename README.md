@@ -22,15 +22,15 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Fate of the Furious, 2017 - ★★★★★](https://letterboxd.com/mondodrew/film/the-fate-of-the-furious/3/)
 - [Furious 7, 2015 - ★★★★](https://letterboxd.com/mondodrew/film/furious-7/4/)
 - [Fast &amp; Furious 6, 2013 - ★★★★](https://letterboxd.com/mondodrew/film/fast-furious-6/2/)
 - [Brooklyn 45, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/brooklyn-45/)
 - [Fast Five, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/fast-five/3/)
-- [Fast &amp; Furious, 2009 - ★★★½](https://letterboxd.com/mondodrew/film/fast-furious/3/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- DEI
 - Future of Work with Tonya Drake
 - Technology in Commercials
 - Future of Work
 - Tech Mistakes!
-- Technology in Entertainment - Part 2
