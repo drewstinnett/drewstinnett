@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (1 week ago)
+- [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (2 weeks ago)
 - [goreleaser/goreleaser v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) (1 month ago)
 - [drewstinnett/letterboxdctl v0.1.5](https://github.com/drewstinnett/letterboxdctl/releases/tag/v0.1.5) (1 year ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
-- [F9, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/f9/2/)
-- [The Fate of the Furious, 2017 - ★★★★★](https://letterboxd.com/mondodrew/film/the-fate-of-the-furious/3/)
-- [Furious 7, 2015 - ★★★★](https://letterboxd.com/mondodrew/film/furious-7/4/)
-- [Fast &amp; Furious 6, 2013 - ★★★★](https://letterboxd.com/mondodrew/film/fast-furious-6/2/)
-- [Brooklyn 45, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/brooklyn-45/)
+- [The Wrath of Becky, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-wrath-of-becky/)
+- [Extraction 2, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/extraction-2/)
+- [Black Mirror: Beyond the Sea, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/black-mirror-beyond-the-sea/)
+- [Black Mirror: Loch Henry, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/black-mirror-loch-henry/)
+- [Black Mirror: Joan Is Awful, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/black-mirror-joan-is-awful/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - DEI
