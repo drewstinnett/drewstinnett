@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Kandahar, 2023 - ★★½](https://letterboxd.com/mondodrew/film/kandahar-2023/)
+- [The Blackening, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-blackening/)
 - [Chevalier, 2023 - ★★★](https://letterboxd.com/mondodrew/film/chevalier-2023/)
 - [Black Mirror: Demon 79, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/black-mirror-demon-79/)
 - [Jagged Mind, 2023 - ★★★](https://letterboxd.com/mondodrew/film/jagged-mind/)
-- [Black Mirror: Mazey Day, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/black-mirror-mazey-day/)
-- [The Wrath of Becky, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-wrath-of-becky/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - DEI
