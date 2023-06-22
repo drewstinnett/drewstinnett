@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Lair, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-lair-2022/)
+- [Extraction 2, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/extraction-2/1/)
 - [Extraction, 2020 - ★★★★½](https://letterboxd.com/mondodrew/film/extraction-2020/2/)
 - [Kandahar, 2023 - ★★½](https://letterboxd.com/mondodrew/film/kandahar-2023/)
 - [The Blackening, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-blackening/)
-- [Chevalier, 2022 - ★★★](https://letterboxd.com/mondodrew/film/chevalier-2022/)
-- [Black Mirror: Demon 79, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/black-mirror-demon-79/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - AI Deep Dive
