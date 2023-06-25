@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (2 weeks ago)
+- [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (3 weeks ago)
 - [goreleaser/goreleaser v1.18.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.18.2) (1 month ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Sanctuary, 2022 - ★★★](https://letterboxd.com/mondodrew/film/sanctuary-2022/)
 - [The Lair, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-lair-2022/)
 - [Extraction 2, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/extraction-2/1/)
 - [Extraction, 2020 - ★★★★½](https://letterboxd.com/mondodrew/film/extraction-2020/2/)
 - [Kandahar, 2023 - ★★½](https://letterboxd.com/mondodrew/film/kandahar-2023/)
-- [The Blackening, 2022 - ★★★](https://letterboxd.com/mondodrew/film/the-blackening/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - AI Deep Dive
