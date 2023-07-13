@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) (5 days ago)
+- [goreleaser/goreleaser v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) (6 days ago)
 - [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (1 month ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Piranha 3DD, 2012 - ★★★½](https://letterboxd.com/mondodrew/film/piranha-3dd/)
 - [Asteroid City, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/asteroid-city/)
 - [Piranha 3D, 2010 - ★★★★](https://letterboxd.com/mondodrew/film/piranha-3d/)
 - [Olympus Has Fallen, 2013 - ★★★★](https://letterboxd.com/mondodrew/film/olympus-has-fallen/)
 - [Perfect Blue, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/perfect-blue/1/)
-- [Mad God, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/mad-god/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What is Ethernet?
