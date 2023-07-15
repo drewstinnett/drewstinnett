@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Sharper, 2023 - ★★½](https://letterboxd.com/mondodrew/film/sharper/)
 - [Showing Up, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/showing-up-2022/)
 - [Piranha 3DD, 2012 - ★★★½](https://letterboxd.com/mondodrew/film/piranha-3dd/)
 - [Asteroid City, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/asteroid-city/)
 - [Piranha 3D, 2010 - ★★★★](https://letterboxd.com/mondodrew/film/piranha-3d/)
-- [Olympus Has Fallen, 2013 - ★★★★](https://letterboxd.com/mondodrew/film/olympus-has-fallen/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What is Ethernet?
