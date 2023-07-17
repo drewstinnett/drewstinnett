@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Alligator, 1980 - ★★★](https://letterboxd.com/mondodrew/film/alligator/1/)
 - [Mission: Impossible – Dead Reckoning Part One, 2023 - ★★](https://letterboxd.com/mondodrew/film/mission-impossible-dead-reckoning-part-one/)
 - [Unwelcome, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/unwelcome-2022/)
 - [Sharper, 2023 - ★★½](https://letterboxd.com/mondodrew/film/sharper/)
 - [Showing Up, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/showing-up-2022/)
-- [Piranha 3DD, 2012 - ★★★½](https://letterboxd.com/mondodrew/film/piranha-3dd/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What is Ethernet?
