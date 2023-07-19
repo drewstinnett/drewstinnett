@@ -29,8 +29,8 @@
 - [Showing Up, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/showing-up-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Gadgets!
 - What is Ethernet?
 - States with the most Inventors
 - AI Deep Dive
 - DEI
-- Future of Work with Tonya Drake
