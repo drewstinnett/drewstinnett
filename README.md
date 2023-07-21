@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) (1 week ago)
+- [goreleaser/goreleaser v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) (2 weeks ago)
 - [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (1 month ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Oppenheimer, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/oppenheimer-2023/)
 - [Alligator, 1980 - ★★★](https://letterboxd.com/mondodrew/film/alligator/1/)
 - [Mission: Impossible – Dead Reckoning Part One, 2023 - ★★](https://letterboxd.com/mondodrew/film/mission-impossible-dead-reckoning-part-one/)
 - [Unwelcome, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/unwelcome-2022/)
 - [Sharper, 2023 - ★★½](https://letterboxd.com/mondodrew/film/sharper/)
-- [Showing Up, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/showing-up-2022/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Gadgets!
