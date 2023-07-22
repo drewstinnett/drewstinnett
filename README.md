@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Barbie, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/barbie/)
 - [Oppenheimer, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/oppenheimer-2023/)
 - [Alligator, 1980 - ★★★](https://letterboxd.com/mondodrew/film/alligator/1/)
 - [Mission: Impossible – Dead Reckoning Part One, 2023 - ★★](https://letterboxd.com/mondodrew/film/mission-impossible-dead-reckoning-part-one/)
 - [Unwelcome, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/unwelcome-2022/)
-- [Sharper, 2023 - ★★½](https://letterboxd.com/mondodrew/film/sharper/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Gadgets!
