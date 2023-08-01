@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Sharksploitation, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/sharksploitation/)
 - [Unknown: Cosmic Time Machine, 2023 - ★★★](https://letterboxd.com/mondodrew/film/unknown-cosmic-time-machine/)
 - [Sympathy for the Devil, 2023 - ★★½](https://letterboxd.com/mondodrew/film/sympathy-for-the-devil-2023/)
 - [Joy Ride, 2023 - ★★½](https://letterboxd.com/mondodrew/film/joy-ride-2023/)
 - [Talk to Me, 2022 - ★★★★](https://letterboxd.com/mondodrew/film/talk-to-me-2022/)
-- [Invincible: Atom Eve, 2023 - ★★★★★](https://letterboxd.com/mondodrew/film/invincible-atom-eve-2/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Gadgets!
