@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) (4 weeks ago)
+- [goreleaser/goreleaser v1.19.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.2) (1 month ago)
 - [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Bird Box Barcelona, 2023 - ★★½](https://letterboxd.com/mondodrew/film/bird-box-barcelona/)
+- [Meg 2: The Trench, 2023 - ★★½](https://letterboxd.com/mondodrew/film/meg-2-the-trench/)
+- [Pee-wee&#39;s Big Adventure, 1985 - ★★★★](https://letterboxd.com/mondodrew/film/pee-wees-big-adventure/)
 - [The Beanie Bubble, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-beanie-bubble/)
 - [They Cloned Tyrone, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/they-cloned-tyrone/)
-- [Sharksploitation, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/sharksploitation/)
-- [Unknown: Cosmic Time Machine, 2023 - ★★★](https://letterboxd.com/mondodrew/film/unknown-cosmic-time-machine/)
-- [Sympathy for the Devil, 2023 - ★★½](https://letterboxd.com/mondodrew/film/sympathy-for-the-devil-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - DEI
