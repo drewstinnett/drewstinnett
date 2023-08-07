@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Theater Camp, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/theater-camp-2023/)
+- [The Haunted Palace, 1963 - ★★★](https://letterboxd.com/mondodrew/film/the-haunted-palace/)
+- [River Wild, 2023 - ★★½](https://letterboxd.com/mondodrew/film/river-wild/)
+- [Guardians of the Galaxy Vol. 3, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/guardians-of-the-galaxy-vol-3/1/)
 - [Bird Box Barcelona, 2023 - ★★½](https://letterboxd.com/mondodrew/film/bird-box-barcelona/)
-- [Meg 2: The Trench, 2023 - ★★½](https://letterboxd.com/mondodrew/film/meg-2-the-trench/)
-- [Pee-wee&#39;s Big Adventure, 1985 - ★★★★](https://letterboxd.com/mondodrew/film/pee-wees-big-adventure/)
-- [The Beanie Bubble, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-beanie-bubble/)
-- [They Cloned Tyrone, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/they-cloned-tyrone/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - DEI
