@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser v1.20.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.20.0) (2 days ago)
+- [goreleaser/goreleaser v1.20.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.20.0) (3 days ago)
 - [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Spider-Man: Across the Spider-Verse, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/spider-man-across-the-spider-verse/1/)
+- [Spider-Man: Into the Spider-Verse, 2018 - ★★★★★](https://letterboxd.com/mondodrew/film/spider-man-into-the-spider-verse/5/)
 - [No Hard Feelings, 2023 - ★★★](https://letterboxd.com/mondodrew/film/no-hard-feelings-2023/)
 - [Theater Camp, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/theater-camp-2023/)
 - [The Haunted Palace, 1963 - ★★★](https://letterboxd.com/mondodrew/film/the-haunted-palace/)
-- [River Wild, 2023 - ★★½](https://letterboxd.com/mondodrew/film/river-wild/)
-- [Guardians of the Galaxy Vol. 3, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/guardians-of-the-galaxy-vol-3/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Technology?
