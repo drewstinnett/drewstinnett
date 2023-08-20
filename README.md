@@ -15,18 +15,18 @@
 - [drewstinnett/letterboxdctl](https://github.com/drewstinnett/letterboxdctl) - Command line client for looking up Letterboxd information
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (2 days ago)
+- [goreleaser/goreleaser nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (3 days ago)
 - [showwin/speedtest-go v1.6.3](https://github.com/showwin/speedtest-go/releases/tag/v1.6.3) (2 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Elemental, 2023 - ★★](https://letterboxd.com/mondodrew/film/elemental-2023/)
+- [Cobweb, 2023 - ★★★](https://letterboxd.com/mondodrew/film/cobweb-2023/)
+- [Blue Beetle, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/blue-beetle/)
 - [Bad Things, 2023 - ★★★](https://letterboxd.com/mondodrew/film/bad-things/)
 - [National Lampoon Presents The Beach Party at the Threshold of Hell, 2006 - ★](https://letterboxd.com/mondodrew/film/national-lampoon-presents-the-beach-party-at-the-threshold-of-hell/)
-- [Spider-Man: Across the Spider-Verse, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/spider-man-across-the-spider-verse/1/)
-- [Spider-Man: Into the Spider-Verse, 2018 - ★★★★★](https://letterboxd.com/mondodrew/film/spider-man-into-the-spider-verse/5/)
-- [No Hard Feelings, 2023 - ★★★](https://letterboxd.com/mondodrew/film/no-hard-feelings-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew: What is the CLI?
