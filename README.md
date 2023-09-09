@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [goreleaser/goreleaser nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (1 day ago)
+- [goreleaser/goreleaser nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (2 days ago)
 - [showwin/speedtest-go v1.6.5](https://github.com/showwin/speedtest-go/releases/tag/v1.6.5) (2 weeks ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (4 months ago)
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Night of the Demons, 1988 - ★★★★](https://letterboxd.com/mondodrew/film/night-of-the-demons/1/)
+- [Jaws, 1975 - ★★★★½](https://letterboxd.com/mondodrew/film/jaws/)
 - [Into the Inferno, 2016 - ★★★½](https://letterboxd.com/mondodrew/film/into-the-inferno/)
 - [The Equalizer 3, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-equalizer-3/)
 - [ManFish, 2022 - ★★½](https://letterboxd.com/mondodrew/film/manfish-2022/)
-- [Perpetrator, 2023 - ★★★](https://letterboxd.com/mondodrew/film/perpetrator/)
-- [The Equalizer 2, 2018 - ★★★](https://letterboxd.com/mondodrew/film/the-equalizer-2/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Who are you gonna believe, me or your lying eyes?
