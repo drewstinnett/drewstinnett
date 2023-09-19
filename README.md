@@ -22,11 +22,11 @@
 - [drewstinnett/letterrestd v0.1.13](https://github.com/drewstinnett/letterrestd/releases/tag/v0.1.13) (1 year ago)
 
 #### 🍿 Latest movies I've watched
+- [One Dark Night, 1982 - ★★](https://letterboxd.com/mondodrew/film/one-dark-night/)
+- [The Magnificent Seven, 1960 - ★★★½](https://letterboxd.com/mondodrew/film/the-magnificent-seven/)
 - [Stagecoach, 1939 - ★★★½](https://letterboxd.com/mondodrew/film/stagecoach/)
 - [The Passion of the Christ, 2004 - ★★](https://letterboxd.com/mondodrew/film/the-passion-of-the-christ/)
 - [Gladiator, 2000 - ★★★½](https://letterboxd.com/mondodrew/film/gladiator-2000/)
-- [Silverado, 1985 - ★★½](https://letterboxd.com/mondodrew/film/silverado/)
-- [Come True, 2020 - ★★★½](https://letterboxd.com/mondodrew/film/come-true/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Self Driving Cars
