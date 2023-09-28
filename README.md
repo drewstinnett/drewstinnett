@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/taskpoet v0.0.11](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.11) (today)
-- [goreleaser/goreleaser v1.21.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.21.2) (1 day ago)
+- [goreleaser/goreleaser nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly) (today)
+- [drewstinnett/taskpoet v0.0.11](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.11) (1 day ago)
 - [rclone/rclone v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0) (2 weeks ago)
 - [showwin/speedtest-go v1.6.6](https://github.com/showwin/speedtest-go/releases/tag/v1.6.6) (2 weeks ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (5 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Wonderful Story of Henry Sugar, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-wonderful-story-of-henry-sugar/)
 - [Se7en, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/se7en/)
 - [The Black Book, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-black-book-2023/)
 - [Millennium Actress, 2001 - ★★★★](https://letterboxd.com/mondodrew/film/millennium-actress/)
 - [No One Will Save You, 2023 - ★★★](https://letterboxd.com/mondodrew/film/no-one-will-save-you/)
-- [The Machine, 2023 - ★★](https://letterboxd.com/mondodrew/film/the-machine-2/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew: What&#39;s a Firewall?
