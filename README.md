@@ -15,22 +15,22 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/taskpoet v0.0.11](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.11) (6 days ago)
+- [drewstinnett/taskpoet v0.0.11](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.11) (1 week ago)
 - [rclone/rclone v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0) (3 weeks ago)
 - [showwin/speedtest-go v1.6.6](https://github.com/showwin/speedtest-go/releases/tag/v1.6.6) (3 weeks ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (5 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Nun II, 2023 - ★½](https://letterboxd.com/mondodrew/film/the-nun-ii/)
 - [Sound of Freedom, 2023 - ★½](https://letterboxd.com/mondodrew/film/sound-of-freedom/)
 - [The X Files, 1998 - ★★★★½](https://letterboxd.com/mondodrew/film/the-x-files/)
 - [The Creator, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-creator-2023/)
 - [Saw X, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/saw-x/)
-- [Reptile, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/reptile-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- When the Consumer is the Product
 - Ask Drew: What&#39;s a Firewall?
 - Self Driving Cars
 - Who are you gonna believe, me or your lying eyes?
 - Coded Words
-- Ask Drew: What is the CLI?
