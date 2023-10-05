@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Haunted Mansion, 2023 - ★★½](https://letterboxd.com/mondodrew/film/haunted-mansion-2023/)
 - [The Nun II, 2023 - ★½](https://letterboxd.com/mondodrew/film/the-nun-ii/)
 - [Sound of Freedom, 2023 - ★½](https://letterboxd.com/mondodrew/film/sound-of-freedom/)
 - [The X Files, 1998 - ★★★★½](https://letterboxd.com/mondodrew/film/the-x-files/)
 - [The Creator, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-creator-2023/)
-- [Saw X, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/saw-x/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - When the Consumer is the Product
