@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/taskpoet v0.0.11](https://github.com/drewstinnett/taskpoet/releases/tag/v0.0.11) (1 week ago)
+- [drewstinnett/taskpoet v0.1.2](https://github.com/drewstinnett/taskpoet/releases/tag/v0.1.2) (1 day ago)
 - [rclone/rclone v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0) (3 weeks ago)
-- [showwin/speedtest-go v1.6.6](https://github.com/showwin/speedtest-go/releases/tag/v1.6.6) (3 weeks ago)
+- [showwin/speedtest-go v1.6.6](https://github.com/showwin/speedtest-go/releases/tag/v1.6.6) (4 weeks ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (5 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Zombie Town, 2023 - ★★★](https://letterboxd.com/mondodrew/film/zombie-town-2023/)
+- [The Exorcist: Believer, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-exorcist-believer/)
 - [V/H/S/85, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/v-h-s-85/)
 - [The Mean One, 2022 - ★★](https://letterboxd.com/mondodrew/film/the-mean-one/)
 - [Haunted Mansion, 2023 - ★★½](https://letterboxd.com/mondodrew/film/haunted-mansion-2023/)
-- [The Nun II, 2023 - ★½](https://letterboxd.com/mondodrew/film/the-nun-ii/)
-- [Sound of Freedom, 2023 - ★½](https://letterboxd.com/mondodrew/film/sound-of-freedom/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - When the Consumer is the Product
