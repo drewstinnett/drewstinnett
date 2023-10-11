@@ -15,22 +15,22 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/taskpoet v0.2.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.2.1) (1 day ago)
-- [rclone/rclone v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0) (4 weeks ago)
+- [drewstinnett/taskpoet v0.2.2](https://github.com/drewstinnett/taskpoet/releases/tag/v0.2.2) (1 day ago)
+- [rclone/rclone v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0) (1 month ago)
 - [showwin/speedtest-go v1.6.6](https://github.com/showwin/speedtest-go/releases/tag/v1.6.6) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (5 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Appendage, 2023 - ★★★](https://letterboxd.com/mondodrew/film/appendage-2023/)
 - [The Mill, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-mill-2023/)
 - [Anchorage, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/anchorage/)
 - [Ghoulies II, 1987 - ★★★★](https://letterboxd.com/mondodrew/film/ghoulies-ii/)
 - [Pet Sematary: Bloodlines, 2023 - ★★★](https://letterboxd.com/mondodrew/film/pet-sematary-bloodlines/)
-- [Totally Killer, 2023 - ★★½](https://letterboxd.com/mondodrew/film/totally-killer/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- What&#39;s New in Healthcare Technology
 - When the Consumer is the Product
 - Ask Drew: What&#39;s a Firewall?
 - Self Driving Cars
 - Who are you gonna believe, me or your lying eyes?
-- Coded Words
