@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/taskpoet v0.2.2](https://github.com/drewstinnett/taskpoet/releases/tag/v0.2.2) (3 days ago)
+- [drewstinnett/taskpoet v0.2.2](https://github.com/drewstinnett/taskpoet/releases/tag/v0.2.2) (4 days ago)
 - [rclone/rclone v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0) (1 month ago)
 - [showwin/speedtest-go v1.6.6](https://github.com/showwin/speedtest-go/releases/tag/v1.6.6) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (5 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Puppetman, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-puppetman/)
+- [Ghoulies IV, 1994 - ★★½](https://letterboxd.com/mondodrew/film/ghoulies-iv/)
+- [Expend4bles, 2023 - ★★](https://letterboxd.com/mondodrew/film/expend4bles/)
 - [Ghoulies III: Ghoulies Go to College, 1990 - ★★★★](https://letterboxd.com/mondodrew/film/ghoulies-iii-ghoulies-go-to-college/)
 - [Fight Club, 1999 - ★★★★](https://letterboxd.com/mondodrew/film/fight-club/)
-- [Reality, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/reality-2023/)
-- [Appendage, 2023 - ★★★](https://letterboxd.com/mondodrew/film/appendage-2023/)
-- [The Mill, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-mill-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Healthcare Technology
