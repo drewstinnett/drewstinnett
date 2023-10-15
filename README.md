@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/taskpoet v0.2.2](https://github.com/drewstinnett/taskpoet/releases/tag/v0.2.2) (4 days ago)
+- [drewstinnett/taskpoet v0.2.2](https://github.com/drewstinnett/taskpoet/releases/tag/v0.2.2) (5 days ago)
 - [rclone/rclone v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0) (1 month ago)
 - [showwin/speedtest-go v1.6.6](https://github.com/showwin/speedtest-go/releases/tag/v1.6.6) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (5 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Fall of the House of Usher, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-fall-of-the-house-of-usher-2023/)
+- [Monster Inside: America&#39;s Most Extreme Haunted House, 2023 - ★★](https://letterboxd.com/mondodrew/film/monster-inside-americas-most-extreme-haunted-house/)
 - [The Puppetman, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-puppetman/)
 - [Ghoulies IV, 1994 - ★★½](https://letterboxd.com/mondodrew/film/ghoulies-iv/)
 - [Expend4bles, 2023 - ★★](https://letterboxd.com/mondodrew/film/expend4bles/)
-- [Ghoulies III: Ghoulies Go to College, 1990 - ★★★★](https://letterboxd.com/mondodrew/film/ghoulies-iii-ghoulies-go-to-college/)
-- [Fight Club, 1999 - ★★★★](https://letterboxd.com/mondodrew/film/fight-club/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Healthcare Technology
