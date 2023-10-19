@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.64.1](https://github.com/rclone/rclone/releases/tag/v1.64.1) (1 day ago)
+- [rclone/rclone v1.64.1](https://github.com/rclone/rclone/releases/tag/v1.64.1) (2 days ago)
 - [drewstinnett/taskpoet v0.2.2](https://github.com/drewstinnett/taskpoet/releases/tag/v0.2.2) (1 week ago)
 - [showwin/speedtest-go v1.6.6](https://github.com/showwin/speedtest-go/releases/tag/v1.6.6) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (5 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Panic Room, 2002 - ★★★½](https://letterboxd.com/mondodrew/film/panic-room/)
+- [Landmine Goes Click, 2015 - ★★★](https://letterboxd.com/mondodrew/film/landmine-goes-click/)
 - [Slotherhouse, 2023 - ★★½](https://letterboxd.com/mondodrew/film/slotherhouse/)
 - [Halloween, 1978 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-1978/)
 - [The Fall of the House of Usher, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-fall-of-the-house-of-usher-2023/)
-- [Monster Inside: America&#39;s Most Extreme Haunted House, 2023 - ★★](https://letterboxd.com/mondodrew/film/monster-inside-americas-most-extreme-haunted-house/)
-- [The Puppetman, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-puppetman/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Healthcare Technology
