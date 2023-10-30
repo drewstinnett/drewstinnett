@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.7](https://github.com/showwin/speedtest-go/releases/tag/v1.6.7) (1 day ago)
-- [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (4 days ago)
+- [showwin/speedtest-go v1.6.7](https://github.com/showwin/speedtest-go/releases/tag/v1.6.7) (2 days ago)
+- [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (5 days ago)
 - [rclone/rclone v1.64.2](https://github.com/rclone/rclone/releases/tag/v1.64.2) (1 week ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (6 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Passages, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/passages-2023/)
+- [Viking Wolf, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/viking-wolf/)
+- [Halloween Kills, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-kills/2/)
+- [Halloween, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-2018/1/)
 - [Solaris, 2002 - ★★★★](https://letterboxd.com/mondodrew/film/solaris-2002/)
-- [Dark Harvest, 2023 - ★★½](https://letterboxd.com/mondodrew/film/dark-harvest-2023/)
-- [Five Nights at Freddy&#39;s, 2023 - ★★★](https://letterboxd.com/mondodrew/film/five-nights-at-freddys/)
-- [Vampire Hunter D: Bloodlust, 2000 - ★★★½](https://letterboxd.com/mondodrew/film/vampire-hunter-d-bloodlust/)
-- [Suitable Flesh, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/suitable-flesh/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Healthcare Technology Part 2
