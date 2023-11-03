@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.7](https://github.com/showwin/speedtest-go/releases/tag/v1.6.7) (5 days ago)
+- [showwin/speedtest-go v1.6.7](https://github.com/showwin/speedtest-go/releases/tag/v1.6.7) (6 days ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 week ago)
 - [rclone/rclone v1.64.2](https://github.com/rclone/rclone/releases/tag/v1.64.2) (2 weeks ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (6 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [When Evil Lurks, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/when-evil-lurks/)
 - [Passages, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/passages-2023/)
 - [Viking Wolf, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/viking-wolf/)
 - [Halloween Kills, 2021 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-kills/2/)
 - [Halloween, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/halloween-2018/1/)
-- [Solaris, 2002 - ★★★★](https://letterboxd.com/mondodrew/film/solaris-2002/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Tech Trivia!
