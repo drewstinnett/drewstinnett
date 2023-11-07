@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Dersu Uzala, 1975 - ★★★★½](https://letterboxd.com/mondodrew/film/dersu-uzala/)
+- [The Night Comes for Us, 2018 - ★★★★½](https://letterboxd.com/mondodrew/film/the-night-comes-for-us/1/)
 - [Sly, 2023 - ★★★](https://letterboxd.com/mondodrew/film/sly-2023/)
 - [Rashomon, 1950 - ★★★★½](https://letterboxd.com/mondodrew/film/rashomon/)
 - [Priscilla, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/priscilla/)
-- [When Evil Lurks, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/when-evil-lurks/)
-- [Passages, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/passages-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Tech Trivia!
