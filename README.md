@@ -17,16 +17,16 @@
 #### 🚀 Latest releases I've contributed to
 - [showwin/speedtest-go v1.6.7](https://github.com/showwin/speedtest-go/releases/tag/v1.6.7) (1 week ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (2 weeks ago)
-- [rclone/rclone v1.64.2](https://github.com/rclone/rclone/releases/tag/v1.64.2) (2 weeks ago)
+- [rclone/rclone v1.64.2](https://github.com/rclone/rclone/releases/tag/v1.64.2) (3 weeks ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (6 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Lives of Others, 2006 - ★★★★](https://letterboxd.com/mondodrew/film/the-lives-of-others/)
+- [Waterworld, 1995 - ★★½](https://letterboxd.com/mondodrew/film/waterworld/)
 - [The Fifth Seal, 1976 - ★★★★½](https://letterboxd.com/mondodrew/film/the-fifth-seal/)
 - [Anatomy of a Fall, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/anatomy-of-a-fall/)
 - [Dersu Uzala, 1975 - ★★★★½](https://letterboxd.com/mondodrew/film/dersu-uzala/)
-- [The Night Comes for Us, 2018 - ★★★★½](https://letterboxd.com/mondodrew/film/the-night-comes-for-us/1/)
-- [Sly, 2023 - ★★★](https://letterboxd.com/mondodrew/film/sly-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Tech Trivia Part 2!
