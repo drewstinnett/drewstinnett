@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Winter Light, 1963 - ★★★½](https://letterboxd.com/mondodrew/film/winter-light/)
+- [The Celebration, 1998 - ★★★★](https://letterboxd.com/mondodrew/film/the-celebration/)
 - [The Lives of Others, 2006 - ★★★★](https://letterboxd.com/mondodrew/film/the-lives-of-others/)
 - [Waterworld, 1995 - ★★½](https://letterboxd.com/mondodrew/film/waterworld/)
 - [The Fifth Seal, 1976 - ★★★★½](https://letterboxd.com/mondodrew/film/the-fifth-seal/)
-- [Anatomy of a Fall, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/anatomy-of-a-fall/)
-- [Dersu Uzala, 1975 - ★★★★½](https://letterboxd.com/mondodrew/film/dersu-uzala/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Tech Trivia Part 2!
