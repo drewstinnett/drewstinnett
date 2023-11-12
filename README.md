@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Quiz Lady, 2023 - ★★★](https://letterboxd.com/mondodrew/film/quiz-lady/)
+- [The Marvels, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-marvels/)
+- [Outlaw Johnny Black, 2023 - ★★★](https://letterboxd.com/mondodrew/film/outlaw-johnny-black/)
 - [The Killer, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-killer-2023/)
 - [Rififi, 1955 - ★★★★](https://letterboxd.com/mondodrew/film/rififi/)
-- [Ugetsu, 1953 - ★★★★](https://letterboxd.com/mondodrew/film/ugetsu/)
-- [Winter Light, 1963 - ★★★½](https://letterboxd.com/mondodrew/film/winter-light/)
-- [The Celebration, 1998 - ★★★★](https://letterboxd.com/mondodrew/film/the-celebration/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Tech Trivia Part 2!
