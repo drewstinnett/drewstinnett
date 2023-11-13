@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.7](https://github.com/showwin/speedtest-go/releases/tag/v1.6.7) (2 weeks ago)
+- [showwin/speedtest-go v1.6.8](https://github.com/showwin/speedtest-go/releases/tag/v1.6.8) (1 day ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (2 weeks ago)
 - [rclone/rclone v1.64.2](https://github.com/rclone/rclone/releases/tag/v1.64.2) (3 weeks ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (6 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Life, and Nothing More..., 1992 - ★★★½](https://letterboxd.com/mondodrew/film/life-and-nothing-more/)
+- [Altered States, 1980 - ★★★★](https://letterboxd.com/mondodrew/film/altered-states/)
+- [Amour, 2012 - ★★★★](https://letterboxd.com/mondodrew/film/amour/)
+- [The Holdovers, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/the-holdovers/)
 - [Quiz Lady, 2023 - ★★★](https://letterboxd.com/mondodrew/film/quiz-lady/)
-- [The Marvels, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-marvels/)
-- [Outlaw Johnny Black, 2023 - ★★★](https://letterboxd.com/mondodrew/film/outlaw-johnny-black/)
-- [The Killer, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-killer-2023/)
-- [Rififi, 1955 - ★★★★](https://letterboxd.com/mondodrew/film/rififi/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Tech Trivia Part 2!
