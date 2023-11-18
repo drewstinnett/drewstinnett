@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.8](https://github.com/showwin/speedtest-go/releases/tag/v1.6.8) (5 days ago)
+- [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (1 day ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (3 weeks ago)
-- [rclone/rclone v1.64.2](https://github.com/rclone/rclone/releases/tag/v1.64.2) (4 weeks ago)
+- [rclone/rclone v1.64.2](https://github.com/rclone/rclone/releases/tag/v1.64.2) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (6 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Insurrectionist Next Door, 2023 - ★★★](https://letterboxd.com/mondodrew/film/the-insurrectionist-next-door/)
 - [Inside the Mind of a Cat, 2022 - ★★★](https://letterboxd.com/mondodrew/film/inside-the-mind-of-a-cat/)
 - [Cop Land, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/cop-land/)
 - [Onyx the Fortuitous and the Talisman of Souls, 2023 - ★★](https://letterboxd.com/mondodrew/film/onyx-the-fortuitous-and-the-talisman-of-souls/)
 - [The Wailing, 2016 - ★★★★](https://letterboxd.com/mondodrew/film/the-wailing/)
-- [Umberto D., 1952 - ★★★★](https://letterboxd.com/mondodrew/film/umberto-d/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Surveillance
