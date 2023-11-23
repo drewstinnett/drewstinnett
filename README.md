@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (5 days ago)
+- [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (6 days ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (4 weeks ago)
 - [rclone/rclone v1.64.2](https://github.com/rclone/rclone/releases/tag/v1.64.2) (1 month ago)
-- [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (6 months ago)
+- [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Dawn of the Planet of the Apes, 2014 - ★★★½](https://letterboxd.com/mondodrew/film/dawn-of-the-planet-of-the-apes/)
 - [Rise of the Planet of the Apes, 2011 - ★★★½](https://letterboxd.com/mondodrew/film/rise-of-the-planet-of-the-apes/)
 - [L.A. Confidential, 1997 - ★★★★](https://letterboxd.com/mondodrew/film/la-confidential/)
 - [Thanksgiving, 2023 - ★★★](https://letterboxd.com/mondodrew/film/thanksgiving-2023/)
 - [Next Goal Wins, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/next-goal-wins-2023/)
-- [The Disappearance of Haruhi Suzumiya, 2010 - ★](https://letterboxd.com/mondodrew/film/the-disappearance-of-haruhi-suzumiya/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Surveillance
