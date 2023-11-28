@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (1 day ago)
+- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (2 days ago)
 - [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (1 week ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Watermelon Woman, 1996 - ★★★★](https://letterboxd.com/mondodrew/film/the-watermelon-woman/)
 - [Whiplash, 2014 - ★★★★★](https://letterboxd.com/mondodrew/film/whiplash-2014/)
 - [Saltburn, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/saltburn/)
 - [The X Files: I Want to Believe, 2008 - ★★½](https://letterboxd.com/mondodrew/film/the-x-files-i-want-to-believe/)
 - [War for the Planet of the Apes, 2017 - ★★½](https://letterboxd.com/mondodrew/film/war-for-the-planet-of-the-apes/)
-- [Dawn of the Planet of the Apes, 2014 - ★★★½](https://letterboxd.com/mondodrew/film/dawn-of-the-planet-of-the-apes/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Surveillance
