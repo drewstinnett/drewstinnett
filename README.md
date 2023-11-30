@@ -15,7 +15,7 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (3 days ago)
+- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (4 days ago)
 - [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (1 week ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
@@ -29,8 +29,8 @@
 - [Whiplash, 2014 - ★★★★★](https://letterboxd.com/mondodrew/film/whiplash-2014/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Grieving
 - Surveillance
 - Tech Trivia Part 2!
 - Tech Trivia!
 - What&#39;s New in Healthcare Technology Part 2
-- What&#39;s New in Healthcare Technology
