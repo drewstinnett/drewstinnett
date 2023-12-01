@@ -15,8 +15,8 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (4 days ago)
-- [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (1 week ago)
+- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (5 days ago)
+- [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (2 weeks ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
