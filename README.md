@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (6 days ago)
+- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (1 week ago)
 - [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (2 weeks ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
-- [Don&#39;t Think Twice, 2016 - ★★★★★](https://letterboxd.com/mondodrew/film/dont-think-twice/1/)
-- [Mike Birbiglia: The Old Man and the Pool, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/mike-birbiglia-the-old-man-and-the-pool/)
-- [Fitzcarraldo, 1982 - ★★★½](https://letterboxd.com/mondodrew/film/fitzcarraldo/)
-- [The Watermelon Woman, 1996 - ★★★★](https://letterboxd.com/mondodrew/film/the-watermelon-woman/)
-- [Whiplash, 2014 - ★★★★★](https://letterboxd.com/mondodrew/film/whiplash-2014/)
+- [It&#39;s a Wonderful Knife, 2023 - ★★](https://letterboxd.com/mondodrew/film/its-a-wonderful-knife-2023/)
+- [After Death, 1989 - ★★★](https://letterboxd.com/mondodrew/film/after-death-1989/)
+- [Rustin, 2023 - ★★½](https://letterboxd.com/mondodrew/film/rustin-2023/)
+- [May December, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/may-december/)
+- [Silent Night, 2023 - ★★★](https://letterboxd.com/mondodrew/film/silent-night-2023-1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
