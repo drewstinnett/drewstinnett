@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Napoleon, 2023 - ★★★](https://letterboxd.com/mondodrew/film/napoleon-2023/)
 - [It&#39;s a Wonderful Knife, 2023 - ★★](https://letterboxd.com/mondodrew/film/its-a-wonderful-knife-2023/)
 - [After Death, 1989 - ★★★](https://letterboxd.com/mondodrew/film/after-death-1989/)
 - [Rustin, 2023 - ★★½](https://letterboxd.com/mondodrew/film/rustin-2023/)
 - [May December, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/may-december/)
-- [Silent Night, 2023 - ★★★](https://letterboxd.com/mondodrew/film/silent-night-2023-1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
