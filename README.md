@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Departed, 2006 - ★★★★](https://letterboxd.com/mondodrew/film/the-departed/1/)
 - [Guns Akimbo, 2019 - ★★★★](https://letterboxd.com/mondodrew/film/guns-akimbo/1/)
 - [Killers of the Flower Moon, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/killers-of-the-flower-moon/)
 - [RE:BORN, 2016 - ★★★½](https://letterboxd.com/mondodrew/film/re-born/)
 - [Napoleon, 2023 - ★★★](https://letterboxd.com/mondodrew/film/napoleon-2023/)
-- [It&#39;s a Wonderful Knife, 2023 - ★★](https://letterboxd.com/mondodrew/film/its-a-wonderful-knife-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
