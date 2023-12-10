@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (1 week ago)
+- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (2 weeks ago)
 - [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (3 weeks ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
-- [The Departed, 2006 - ★★★★](https://letterboxd.com/mondodrew/film/the-departed/1/)
-- [Guns Akimbo, 2019 - ★★★★](https://letterboxd.com/mondodrew/film/guns-akimbo/1/)
-- [Killers of the Flower Moon, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/killers-of-the-flower-moon/)
-- [RE:BORN, 2016 - ★★★½](https://letterboxd.com/mondodrew/film/re-born/)
-- [Napoleon, 2023 - ★★★](https://letterboxd.com/mondodrew/film/napoleon-2023/)
+- [The Melodic Blue: Baby Keem, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-melodic-blue-baby-keem/)
+- [Cat Person, 2023 - ★★★](https://letterboxd.com/mondodrew/film/cat-person/)
+- [Leave the World Behind, 2023 - ★★](https://letterboxd.com/mondodrew/film/leave-the-world-behind-2023/)
+- [In the Cut, 2003 - ★★★](https://letterboxd.com/mondodrew/film/in-the-cut/)
+- [Godzilla Minus One, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/godzilla-minus-one/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
