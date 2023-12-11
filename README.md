@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Pencils Vs Pixels, 2023 - ★★★](https://letterboxd.com/mondodrew/film/pencils-vs-pixels/)
+- [The Boy and the Heron, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/the-boy-and-the-heron/)
 - [The Melodic Blue: Baby Keem, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-melodic-blue-baby-keem/)
 - [Cat Person, 2023 - ★★★](https://letterboxd.com/mondodrew/film/cat-person/)
 - [Leave the World Behind, 2023 - ★★](https://letterboxd.com/mondodrew/film/leave-the-world-behind-2023/)
-- [In the Cut, 2003 - ★★★](https://letterboxd.com/mondodrew/film/in-the-cut/)
-- [Godzilla Minus One, 2023 - ★★★★½](https://letterboxd.com/mondodrew/film/godzilla-minus-one/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
