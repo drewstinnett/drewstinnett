@@ -22,11 +22,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Journey to Bethlehem, 2023 - ★★★](https://letterboxd.com/mondodrew/film/journey-to-bethlehem/)
 - [Mean Streets, 1973 - ★★★](https://letterboxd.com/mondodrew/film/mean-streets/)
 - [Pencils Vs Pixels, 2023 - ★★★](https://letterboxd.com/mondodrew/film/pencils-vs-pixels/)
 - [The Boy and the Heron, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/the-boy-and-the-heron/)
 - [The Melodic Blue: Baby Keem, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-melodic-blue-baby-keem/)
-- [Cat Person, 2023 - ★★★](https://letterboxd.com/mondodrew/film/cat-person/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
