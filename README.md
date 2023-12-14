@@ -16,17 +16,16 @@
 
 #### 🚀 Latest releases I've contributed to
 - [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (2 weeks ago)
-- [showwin/speedtest-go v1.6.9](https://github.com/showwin/speedtest-go/releases/tag/v1.6.9) (3 weeks ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Annihilation, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/annihilation/)
 - [Journey to Bethlehem, 2023 - ★★★](https://letterboxd.com/mondodrew/film/journey-to-bethlehem/)
 - [Mean Streets, 1973 - ★★★](https://letterboxd.com/mondodrew/film/mean-streets/)
 - [Pencils Vs Pixels, 2023 - ★★★](https://letterboxd.com/mondodrew/film/pencils-vs-pixels/)
 - [The Boy and the Heron, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/the-boy-and-the-heron/)
-- [The Melodic Blue: Baby Keem, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-melodic-blue-baby-keem/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
