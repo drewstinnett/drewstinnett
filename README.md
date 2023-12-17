@@ -15,17 +15,17 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (2 weeks ago)
+- [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (3 weeks ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 month ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Wonka, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/wonka/)
+- [Baron Blood, 1972 - ★★★](https://letterboxd.com/mondodrew/film/baron-blood/)
 - [Touch of Evil, 1958 - ★★★½](https://letterboxd.com/mondodrew/film/touch-of-evil/)
 - [Lethal Weapon, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/lethal-weapon/)
 - [Annihilation, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/annihilation/)
-- [Journey to Bethlehem, 2023 - ★★★](https://letterboxd.com/mondodrew/film/journey-to-bethlehem/)
-- [Mean Streets, 1973 - ★★★](https://letterboxd.com/mondodrew/film/mean-streets/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
