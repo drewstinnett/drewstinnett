@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Out of the Past, 1947 - ★★★½](https://letterboxd.com/mondodrew/film/out-of-the-past/)
+- [The Gingerdead Man, 2005 - ★★★](https://letterboxd.com/mondodrew/film/the-gingerdead-man/)
+- [The Brain, 1988 - ★★★](https://letterboxd.com/mondodrew/film/the-brain/)
 - [Wonka, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/wonka/)
 - [Baron Blood, 1972 - ★★★](https://letterboxd.com/mondodrew/film/baron-blood/)
-- [Touch of Evil, 1958 - ★★★½](https://letterboxd.com/mondodrew/film/touch-of-evil/)
-- [Lethal Weapon, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/lethal-weapon/)
-- [Annihilation, 2018 - ★★★★](https://letterboxd.com/mondodrew/film/annihilation/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
