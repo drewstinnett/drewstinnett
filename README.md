@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Secrets &amp; Lies, 1996 - ★★★★](https://letterboxd.com/mondodrew/film/secrets-lies/)
 - [Kiki&#39;s Delivery Service, 1989 - ★★★½](https://letterboxd.com/mondodrew/film/kikis-delivery-service/)
 - [Eureka, 2000 - ★★★★](https://letterboxd.com/mondodrew/film/eureka-2000/)
 - [Out of the Past, 1947 - ★★★½](https://letterboxd.com/mondodrew/film/out-of-the-past/)
 - [The Gingerdead Man, 2005 - ★★★](https://letterboxd.com/mondodrew/film/the-gingerdead-man/)
-- [The Brain, 1988 - ★★★](https://letterboxd.com/mondodrew/film/the-brain/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Grieving
