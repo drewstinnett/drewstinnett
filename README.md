@@ -21,15 +21,15 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [A Murder at the End of the World, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/a-murder-at-the-end-of-the-world/)
+- [Maestro, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/maestro-2023/)
 - [Secrets &amp; Lies, 1996 - ★★★★](https://letterboxd.com/mondodrew/film/secrets-lies/)
 - [Kiki&#39;s Delivery Service, 1989 - ★★★½](https://letterboxd.com/mondodrew/film/kikis-delivery-service/)
 - [Eureka, 2000 - ★★★★](https://letterboxd.com/mondodrew/film/eureka-2000/)
-- [Out of the Past, 1947 - ★★★½](https://letterboxd.com/mondodrew/film/out-of-the-past/)
-- [The Gingerdead Man, 2005 - ★★★](https://letterboxd.com/mondodrew/film/the-gingerdead-man/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Dan Ariely Part 1
 - Grieving
 - Surveillance
 - Tech Trivia Part 2!
 - Tech Trivia!
-- What&#39;s New in Healthcare Technology Part 2
