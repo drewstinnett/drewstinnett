@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Breathless, 1960 - ★★★★½](https://letterboxd.com/mondodrew/film/breathless/)
 - [A Murder at the End of the World, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/a-murder-at-the-end-of-the-world/)
 - [Maestro, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/maestro-2023/)
 - [Secrets &amp; Lies, 1996 - ★★★★](https://letterboxd.com/mondodrew/film/secrets-lies/)
 - [Kiki&#39;s Delivery Service, 1989 - ★★★½](https://letterboxd.com/mondodrew/film/kikis-delivery-service/)
-- [Eureka, 2000 - ★★★★](https://letterboxd.com/mondodrew/film/eureka-2000/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Dan Ariely Part 1
