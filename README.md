@@ -17,15 +17,15 @@
 #### 🚀 Latest releases I've contributed to
 - [rclone/rclone v1.65.0](https://github.com/rclone/rclone/releases/tag/v1.65.0) (3 weeks ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (1 month ago)
-- [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (7 months ago)
+- [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (8 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
-- [Breathless, 1960 - ★★★★½](https://letterboxd.com/mondodrew/film/breathless/)
-- [A Murder at the End of the World, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/a-murder-at-the-end-of-the-world/)
-- [Maestro, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/maestro-2023/)
-- [Secrets &amp; Lies, 1996 - ★★★★](https://letterboxd.com/mondodrew/film/secrets-lies/)
-- [Kiki&#39;s Delivery Service, 1989 - ★★★½](https://letterboxd.com/mondodrew/film/kikis-delivery-service/)
+- [The Wind Rises, 2013 - ★★★★](https://letterboxd.com/mondodrew/film/the-wind-rises/)
+- [Anatomy of a Murder, 1959 - ★★★½](https://letterboxd.com/mondodrew/film/anatomy-of-a-murder/)
+- [Rebel Moon - Part One: A Child of Fire, 2023 - ★★½](https://letterboxd.com/mondodrew/film/rebel-moon-part-one-a-child-of-fire/)
+- [Poor Things, 2023 - ★★★★★ (contains spoilers)](https://letterboxd.com/mondodrew/film/poor-things-2023/)
+- [Judgment at Nuremberg, 1961 - ★★★½](https://letterboxd.com/mondodrew/film/judgment-at-nuremberg/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Dan Ariely Part 1
