@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The Virgin Spring, 1960 - ★★★½](https://letterboxd.com/mondodrew/film/the-virgin-spring/)
+- [An Autumn Afternoon, 1962 - ★★★½](https://letterboxd.com/mondodrew/film/an-autumn-afternoon/)
+- [G.I. Joe: The Movie, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/gi-joe-the-movie/)
+- [Castle in the Sky, 1986 - ★★★★](https://letterboxd.com/mondodrew/film/castle-in-the-sky/)
 - [Carol &amp; the End of the World, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/carol-the-end-of-the-world/)
-- [Cure, 1997 - ★★★½](https://letterboxd.com/mondodrew/film/cure/)
-- [The Iron Claw, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/the-iron-claw-2023/)
-- [Dream Scenario, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/dream-scenario/)
-- [The Wind Rises, 2013 - ★★★★](https://letterboxd.com/mondodrew/film/the-wind-rises/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Dan Ariely Part 1
