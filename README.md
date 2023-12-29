@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Hush... Hush, Sweet Charlotte, 1964 - ★★★](https://letterboxd.com/mondodrew/film/hush-hush-sweet-charlotte/)
+- [Bad Company, 1972 - ★★★★](https://letterboxd.com/mondodrew/film/bad-company/)
 - [She Wore a Yellow Ribbon, 1949 - ★★★½](https://letterboxd.com/mondodrew/film/she-wore-a-yellow-ribbon/)
 - [Bone Tomahawk, 2015 - ★★★½](https://letterboxd.com/mondodrew/film/bone-tomahawk/)
 - [The Face of Another, 1966 - ★★★★★](https://letterboxd.com/mondodrew/film/the-face-of-another/)
-- [Porco Rosso, 1992 - ★★★](https://letterboxd.com/mondodrew/film/porco-rosso/)
-- [The Green Knight, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/the-green-knight/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Dan Ariely Part 2
