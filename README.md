@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
-- [Marty, 1955 - ★★★](https://letterboxd.com/mondodrew/film/marty/)
-- [Hush... Hush, Sweet Charlotte, 1964 - ★★★](https://letterboxd.com/mondodrew/film/hush-hush-sweet-charlotte/)
-- [Bad Company, 1972 - ★★★★](https://letterboxd.com/mondodrew/film/bad-company/)
-- [She Wore a Yellow Ribbon, 1949 - ★★★½](https://letterboxd.com/mondodrew/film/she-wore-a-yellow-ribbon/)
-- [Bone Tomahawk, 2015 - ★★★½](https://letterboxd.com/mondodrew/film/bone-tomahawk/)
+- [La La Land, 2016 - ★★★★](https://letterboxd.com/mondodrew/film/la-la-land/1/)
+- [Drive Angry, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/drive-angry/1/)
+- [How to Have Sex, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/how-to-have-sex/)
+- [Aquaman and the Lost Kingdom, 2023 - ★★](https://letterboxd.com/mondodrew/film/aquaman-and-the-lost-kingdom/)
+- [Breathless, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/breathless-1983/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Dan Ariely Part 2
