@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
-- [La La Land, 2016 - ★★★★](https://letterboxd.com/mondodrew/film/la-la-land/1/)
-- [Drive Angry, 2011 - ★★★★](https://letterboxd.com/mondodrew/film/drive-angry/1/)
-- [How to Have Sex, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/how-to-have-sex/)
-- [Aquaman and the Lost Kingdom, 2023 - ★★](https://letterboxd.com/mondodrew/film/aquaman-and-the-lost-kingdom/)
-- [Breathless, 1983 - ★★★½](https://letterboxd.com/mondodrew/film/breathless-1983/)
+- [Babylon, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/babylon-2022/4/)
+- [Singin&#39; in the Rain, 1952 - ★★★★★](https://letterboxd.com/mondodrew/film/singin-in-the-rain/1/)
+- [Legend, 1985 - ★★★½](https://letterboxd.com/mondodrew/film/legend/)
+- [The Color Purple, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/the-color-purple-2023/)
+- [Dave Chappelle: The Dreamer, 2023 - ★★](https://letterboxd.com/mondodrew/film/dave-chappelle-the-dreamer/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Dan Ariely Part 2
