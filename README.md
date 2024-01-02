@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Marrowbone, 2017 - ★★](https://letterboxd.com/mondodrew/film/marrowbone/)
+- [The Northman, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/the-northman/1/)
+- [It Lives Inside, 2023 - ★★★](https://letterboxd.com/mondodrew/film/it-lives-inside-2023/)
 - [Babylon, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/babylon-2022/4/)
 - [Singin&#39; in the Rain, 1952 - ★★★★★](https://letterboxd.com/mondodrew/film/singin-in-the-rain/1/)
-- [Legend, 1985 - ★★★½](https://letterboxd.com/mondodrew/film/legend/)
-- [The Color Purple, 2023 - ★★★★](https://letterboxd.com/mondodrew/film/the-color-purple-2023/)
-- [Dave Chappelle: The Dreamer, 2023 - ★★](https://letterboxd.com/mondodrew/film/dave-chappelle-the-dreamer/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Dan Ariely Part 2
