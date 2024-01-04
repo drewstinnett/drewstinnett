@@ -28,8 +28,8 @@
 - [Singin&#39; in the Rain, 1952 - ★★★★★](https://letterboxd.com/mondodrew/film/singin-in-the-rain/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- What&#39;s New in Tech?
 - Dan Ariely Part 2
 - Dan Ariely Part 1
 - Grieving
 - Surveillance
-- Tech Trivia Part 2!
