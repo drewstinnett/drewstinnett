@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [The System, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-system-2022/)
+- [Seven Psychopaths, 2012 - ★★★★½](https://letterboxd.com/mondodrew/film/seven-psychopaths/)
+- [Night Swim, 2024 - ★½](https://letterboxd.com/mondodrew/film/night-swim-2024/)
 - [Marrowbone, 2017 - ★★](https://letterboxd.com/mondodrew/film/marrowbone/)
 - [The Northman, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/the-northman/1/)
-- [It Lives Inside, 2023 - ★★★](https://letterboxd.com/mondodrew/film/it-lives-inside-2023/)
-- [Babylon, 2022 - ★★★★★](https://letterboxd.com/mondodrew/film/babylon-2022/4/)
-- [Singin&#39; in the Rain, 1952 - ★★★★★](https://letterboxd.com/mondodrew/film/singin-in-the-rain/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Tech?
