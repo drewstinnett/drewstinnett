@@ -21,11 +21,11 @@
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Cool Hand Luke, 1967 - ★★★★½](https://letterboxd.com/mondodrew/film/cool-hand-luke/)
+- [Safe, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/safe/)
+- [The Weeping Meadow, 2004 - ★★★★½](https://letterboxd.com/mondodrew/film/the-weeping-meadow/)
+- [Eileen, 2023 - ★★★](https://letterboxd.com/mondodrew/film/eileen-2023/)
 - [The System, 2022 - ★★★½](https://letterboxd.com/mondodrew/film/the-system-2022/)
-- [Seven Psychopaths, 2012 - ★★★★½](https://letterboxd.com/mondodrew/film/seven-psychopaths/)
-- [Night Swim, 2024 - ★½](https://letterboxd.com/mondodrew/film/night-swim-2024/)
-- [Marrowbone, 2017 - ★★](https://letterboxd.com/mondodrew/film/marrowbone/)
-- [The Northman, 2022 - ★★★★½](https://letterboxd.com/mondodrew/film/the-northman/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Tech?
