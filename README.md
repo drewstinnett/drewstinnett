@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.65.1](https://github.com/rclone/rclone/releases/tag/v1.65.1) (5 days ago)
+- [rclone/rclone v1.65.1](https://github.com/rclone/rclone/releases/tag/v1.65.1) (6 days ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (2 months ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (8 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Boy Swallows Universe, 2024 - ★★★½](https://letterboxd.com/mondodrew/film/boy-swallows-universe/)
+- [The Beekeeper, 2024 - ★★★](https://letterboxd.com/mondodrew/film/the-beekeeper-2024/)
+- [Self Reliance, 2023 - ★★★](https://letterboxd.com/mondodrew/film/self-reliance/)
+- [Pete Davidson: Turbo Fonzarelli, 2024 - ★★★](https://letterboxd.com/mondodrew/film/pete-davidson-turbo-fonzarelli/)
 - [El Conde, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/el-conde/)
-- [He Went That Way, 2023 - ★★½](https://letterboxd.com/mondodrew/film/he-went-that-way/)
-- [The Passenger, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/the-passenger-2023/)
-- [The Curse, 2023 - ★★★★ (contains spoilers)](https://letterboxd.com/mondodrew/film/the-curse-2023/)
-- [Echo, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/echo-2024-1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Tech?
