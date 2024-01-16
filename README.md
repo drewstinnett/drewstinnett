@@ -22,11 +22,11 @@
 - [drewstinnett/sourceseedy v0.2.6](https://github.com/drewstinnett/sourceseedy/releases/tag/v0.2.6) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [War and Peace, Part II: Natasha Rostova, 1966 - ★★★](https://letterboxd.com/mondodrew/film/war-and-peace-part-ii-natasha-rostova/)
+- [War and Peace, Part I: Andrei Bolkonsky, 1966 - ★★★½](https://letterboxd.com/mondodrew/film/war-and-peace-part-i-andrei-bolkonsky/)
+- [Soul, 2020 - ★★★★½](https://letterboxd.com/mondodrew/film/soul-2020/1/)
 - [The Book of Clarence, 2023 - ★★](https://letterboxd.com/mondodrew/film/the-book-of-clarence-2023/)
 - [The Mission, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-mission-2023/)
-- [NYAD, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/nyad/)
-- [Boy Swallows Universe, 2024 - ★★★½](https://letterboxd.com/mondodrew/film/boy-swallows-universe/)
-- [The Beekeeper, 2024 - ★★★](https://letterboxd.com/mondodrew/film/the-beekeeper-2024/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Tech?
