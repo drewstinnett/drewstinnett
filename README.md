@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/letseat v0.0.5](https://github.com/drewstinnett/letseat/releases/tag/v0.0.5) (1 day ago)
+- [drewstinnett/letseat v0.0.5](https://github.com/drewstinnett/letseat/releases/tag/v0.0.5) (2 days ago)
 - [rclone/rclone v1.65.1](https://github.com/rclone/rclone/releases/tag/v1.65.1) (1 week ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (2 months ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (8 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
-- [Johnny Guitar, 1954 - ★★★★](https://letterboxd.com/mondodrew/film/johnny-guitar/)
-- [A Bronx Tale, 1993 - ★★★½](https://letterboxd.com/mondodrew/film/a-bronx-tale/)
-- [War and Peace, 1966 - ★★★½](https://letterboxd.com/mondodrew/film/war-and-peace-1966/)
-- [War and Peace, Part IV: Pierre Bezukhov, 1967 - ★★★½](https://letterboxd.com/mondodrew/film/war-and-peace-part-iv-pierre-bezukhov/)
-- [War and Peace, Part III: The Year 1812, 1967 - ★★★★](https://letterboxd.com/mondodrew/film/war-and-peace-part-iii-the-year-1812/)
+- [Jack Reacher: Never Go Back, 2016 - ★★★](https://letterboxd.com/mondodrew/film/jack-reacher-never-go-back/)
+- [Jack Reacher, 2012 - ★★★½](https://letterboxd.com/mondodrew/film/jack-reacher/)
+- [Galaxy of Terror, 1981 - ★★★½](https://letterboxd.com/mondodrew/film/galaxy-of-terror/)
+- [Happy Hour, 2015 - ★★★](https://letterboxd.com/mondodrew/film/happy-hour-2015-1/)
+- [Fingernails, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/fingernails/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Tech?
