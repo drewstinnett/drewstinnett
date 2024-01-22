@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/letseat v0.0.5](https://github.com/drewstinnett/letseat/releases/tag/v0.0.5) (2 days ago)
-- [rclone/rclone v1.65.1](https://github.com/rclone/rclone/releases/tag/v1.65.1) (1 week ago)
+- [drewstinnett/letseat v0.0.5](https://github.com/drewstinnett/letseat/releases/tag/v0.0.5) (3 days ago)
+- [rclone/rclone v1.65.1](https://github.com/rclone/rclone/releases/tag/v1.65.1) (2 weeks ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (2 months ago)
-- [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (8 months ago)
+- [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (9 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
-- [Jack Reacher: Never Go Back, 2016 - ★★★](https://letterboxd.com/mondodrew/film/jack-reacher-never-go-back/)
-- [Jack Reacher, 2012 - ★★★½](https://letterboxd.com/mondodrew/film/jack-reacher/)
-- [Galaxy of Terror, 1981 - ★★★½](https://letterboxd.com/mondodrew/film/galaxy-of-terror/)
-- [Happy Hour, 2015 - ★★★](https://letterboxd.com/mondodrew/film/happy-hour-2015-1/)
-- [Fingernails, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/fingernails/)
+- [The Kitchen, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-kitchen-2023/)
+- [Barton Fink, 1991 - ★★★★](https://letterboxd.com/mondodrew/film/barton-fink/)
+- [Blood Simple, 1984 - ★★★★](https://letterboxd.com/mondodrew/film/blood-simple/)
+- [Mean Girls, 2024 - ★★½](https://letterboxd.com/mondodrew/film/mean-girls-2024/)
+- [American Nightmare, 2024 - ★★★](https://letterboxd.com/mondodrew/film/american-nightmare-2024-1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - What&#39;s New in Tech?
