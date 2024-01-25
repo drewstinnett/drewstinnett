@@ -15,22 +15,22 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/letseat v0.0.5](https://github.com/drewstinnett/letseat/releases/tag/v0.0.5) (5 days ago)
-- [rclone/rclone v1.65.1](https://github.com/rclone/rclone/releases/tag/v1.65.1) (2 weeks ago)
+- [rclone/rclone v1.65.2](https://github.com/rclone/rclone/releases/tag/v1.65.2) (1 day ago)
+- [drewstinnett/letseat v0.0.5](https://github.com/drewstinnett/letseat/releases/tag/v0.0.5) (6 days ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (3 months ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (9 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Takers, 2010 - ★★★](https://letterboxd.com/mondodrew/film/takers/)
+- [Kizumonogatari Part 2: Nekketsu, 2016 - ★★★](https://letterboxd.com/mondodrew/film/kizumonogatari-part-2-nekketsu/)
 - [Kizumonogatari Part 1: Tekketsu, 2016 - ★★★](https://letterboxd.com/mondodrew/film/kizumonogatari-part-1-tekketsu/)
 - [Fargo, 1996 - ★★★★★](https://letterboxd.com/mondodrew/film/fargo/)
 - [The Kitchen, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-kitchen-2023/)
-- [Barton Fink, 1991 - ★★★★](https://letterboxd.com/mondodrew/film/barton-fink/)
-- [Blood Simple, 1984 - ★★★★](https://letterboxd.com/mondodrew/film/blood-simple/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Best AI in Film and Television 2023
 - What&#39;s New in Tech?
 - Dan Ariely Part 2
 - Dan Ariely Part 1
 - Grieving
-- Surveillance
