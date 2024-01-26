@@ -15,18 +15,18 @@
 - [drewstinnett/letswatch](https://github.com/drewstinnett/letswatch) - Scripts and library with a generic client that can be used to access various film APIs
 
 #### 🚀 Latest releases I've contributed to
-- [rclone/rclone v1.65.2](https://github.com/rclone/rclone/releases/tag/v1.65.2) (1 day ago)
-- [drewstinnett/letseat v0.0.5](https://github.com/drewstinnett/letseat/releases/tag/v0.0.5) (6 days ago)
+- [rclone/rclone v1.65.2](https://github.com/rclone/rclone/releases/tag/v1.65.2) (2 days ago)
+- [drewstinnett/letseat v0.0.5](https://github.com/drewstinnett/letseat/releases/tag/v0.0.5) (1 week ago)
 - [drewstinnett/taskpoet v0.3.1](https://github.com/drewstinnett/taskpoet/releases/tag/v0.3.1) (3 months ago)
 - [mholt/archiver v4.0.0-alpha.8](https://github.com/mholt/archiver/releases/tag/v4.0.0-alpha.8) (9 months ago)
 - [drewstinnett/labdoc v0.1.4](https://github.com/drewstinnett/labdoc/releases/tag/v0.1.4) (2 years ago)
 
 #### 🍿 Latest movies I've watched
+- [Miller&#39;s Crossing, 1990 - ★★★★★](https://letterboxd.com/mondodrew/film/millers-crossing/)
+- [Kizumonogatari Part 3: Reiketsu, 2017 - ★★★](https://letterboxd.com/mondodrew/film/kizumonogatari-part-3-reiketsu/)
 - [Takers, 2010 - ★★★](https://letterboxd.com/mondodrew/film/takers/)
 - [Kizumonogatari Part 2: Nekketsu, 2016 - ★★★](https://letterboxd.com/mondodrew/film/kizumonogatari-part-2-nekketsu/)
 - [Kizumonogatari Part 1: Tekketsu, 2016 - ★★★](https://letterboxd.com/mondodrew/film/kizumonogatari-part-1-tekketsu/)
-- [Fargo, 1996 - ★★★★★](https://letterboxd.com/mondodrew/film/fargo/)
-- [The Kitchen, 2023 - ★★½](https://letterboxd.com/mondodrew/film/the-kitchen-2023/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Best AI in Film and Television 2023
