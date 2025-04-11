@@ -27,6 +27,6 @@
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 
-{{- range rss "https://feeds.buzzsprout.com/1581748.rss" 5}}
+{{- range rss "https://anchor.fm/s/ecaf57fc/podcast/rss" 5}}
 - {{.Title}}
 {{- end}}
