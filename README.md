@@ -15,14 +15,15 @@
 - [drewstinnett/gout-cobra](https://github.com/drewstinnett/gout-cobra) - Integrate gout with cobra CLI applications
 
 #### 🚀 Latest releases I've contributed to
+- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (1 day ago)
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [A Complete Unknown, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/a-complete-unknown/1/)
+- [A Chorus Line, 1985 - ★★★★](https://letterboxd.com/mondodrew/film/a-chorus-line/)
+- [Black Bag, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/black-bag-2025/)
+- [Bloody Axe Wound, 2024 - ★★★](https://letterboxd.com/mondodrew/film/bloody-axe-wound/)
 - [Final Destination 3, 2006 - ★★★½](https://letterboxd.com/mondodrew/film/final-destination-3/1/)
-- [G20, 2025 - ★★★](https://letterboxd.com/mondodrew/film/g20/)
-- [Final Destination 2, 2003 - ★★★½](https://letterboxd.com/mondodrew/film/final-destination-2/1/)
-- [Final Destination, 2000 - ★★★½](https://letterboxd.com/mondodrew/film/final-destination/1/)
-- [In a Violent Nature, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/in-a-violent-nature/2/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Talking Again with Dan: How do you choose a hobby for a happy life?
