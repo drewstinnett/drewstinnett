@@ -15,20 +15,20 @@
 - [drewstinnett/gout-cobra](https://github.com/drewstinnett/gout-cobra) - Integrate gout with cobra CLI applications
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (3 days ago)
-- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (4 days ago)
+- [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (4 days ago)
+- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (5 days ago)
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (1 month ago)
 
 #### 🍿 Latest movies I've watched
+- [Magpie, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/magpie-2024/)
 - [Borat Subsequent Moviefilm, 2020 - ★★★½](https://letterboxd.com/mondodrew/film/borat-subsequent-moviefilm/1/)
 - [Warfare, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/warfare/)
 - [In the Heights, 2021 - ★★★★½](https://letterboxd.com/mondodrew/film/in-the-heights/3/)
 - [Babylon A.D., 2008 - ★★](https://letterboxd.com/mondodrew/film/babylon-ad/)
-- [A Complete Unknown, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/a-complete-unknown/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Ask Drew: Can AI Write a Movie for Me?
 - Talking Again with Dan: How do you choose a hobby for a happy life?
 - Purchasing Digital Currency
 - Meet a Technology: Surviving Disconnection
 - Ask Drew: What makes a good movie?
-- Talking Again with Dan: Curating News and Information Feeds Using Technology
