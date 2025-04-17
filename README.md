@@ -15,8 +15,8 @@
 - [drewstinnett/gout-cobra](https://github.com/drewstinnett/gout-cobra) - Integrate gout with cobra CLI applications
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (4 days ago)
-- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (5 days ago)
+- [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (5 days ago)
+- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (6 days ago)
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (1 month ago)
 
 #### 🍿 Latest movies I've watched
