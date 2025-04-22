@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Final Destination 5, 2011 - ★★★](https://letterboxd.com/mondodrew/film/final-destination-5/1/)
+- [The Final Destination, 2009 - ★★★](https://letterboxd.com/mondodrew/film/the-final-destination/1/)
 - [Sal Vulcano: Terrified, 2024 - ★★](https://letterboxd.com/mondodrew/film/sal-vulcano-terrified/)
 - [Sinners, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/sinners-2025/)
 - [The Woman in the Yard, 2025 - ★★](https://letterboxd.com/mondodrew/film/the-woman-in-the-yard/)
-- [Magpie, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/magpie-2024/)
-- [Borat Subsequent Moviefilm, 2020 - ★★★½](https://letterboxd.com/mondodrew/film/borat-subsequent-moviefilm/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew: Can AI Write a Movie for Me?
