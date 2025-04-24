@@ -27,8 +27,8 @@
 - [The Woman in the Yard, 2025 - ★★](https://letterboxd.com/mondodrew/film/the-woman-in-the-yard/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Trivia: Movie Technology
 - Ask Drew: Can AI Write a Movie for Me?
 - Talking Again with Dan: How do you choose a hobby for a happy life?
 - Purchasing Digital Currency
 - Meet a Technology: Surviving Disconnection
-- Ask Drew: What makes a good movie?
