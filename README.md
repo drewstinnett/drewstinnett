@@ -15,16 +15,16 @@
 - [drewstinnett/gout-cobra](https://github.com/drewstinnett/gout-cobra) - Integrate gout with cobra CLI applications
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (1 week ago)
+- [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (2 weeks ago)
 - [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (2 weeks ago)
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Ash, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/ash-2025/1/)
+- [The Alto Knights, 2025 - ★★½](https://letterboxd.com/mondodrew/film/the-alto-knights/)
+- [Havoc, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/havoc-2025/)
+- [Locked, 2025 - ★½](https://letterboxd.com/mondodrew/film/locked-2025/)
 - [Final Destination 5, 2011 - ★★★](https://letterboxd.com/mondodrew/film/final-destination-5/1/)
-- [The Final Destination, 2009 - ★★★](https://letterboxd.com/mondodrew/film/the-final-destination/1/)
-- [Sal Vulcano: Terrified, 2024 - ★★](https://letterboxd.com/mondodrew/film/sal-vulcano-terrified/)
-- [Sinners, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/sinners-2025/)
-- [The Woman in the Yard, 2025 - ★★](https://letterboxd.com/mondodrew/film/the-woman-in-the-yard/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Trivia: Movie Technology
