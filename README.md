@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Schindler&#39;s List, 1993 - ★★★★](https://letterboxd.com/mondodrew/film/schindlers-list/)
+- [Hell of a Summer, 2023 - ★½](https://letterboxd.com/mondodrew/film/hell-of-a-summer/)
 - [Ash, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/ash-2025/1/)
 - [The Alto Knights, 2025 - ★★½](https://letterboxd.com/mondodrew/film/the-alto-knights/)
 - [Havoc, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/havoc-2025/)
-- [Locked, 2025 - ★½](https://letterboxd.com/mondodrew/film/locked-2025/)
-- [Final Destination 5, 2011 - ★★★](https://letterboxd.com/mondodrew/film/final-destination-5/1/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Trivia: Movie Technology
