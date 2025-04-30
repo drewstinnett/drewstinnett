@@ -20,15 +20,15 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Death of a Unicorn, 2025 - ★★½](https://letterboxd.com/mondodrew/film/death-of-a-unicorn/)
 - [Laserblast, 1978 - ★★★](https://letterboxd.com/mondodrew/film/laserblast/)
 - [The Accountant 2, 2025](https://letterboxd.com/mondodrew/film/the-accountant-2/)
 - [Death Promise, 1977 - ★★★½](https://letterboxd.com/mondodrew/film/death-promise/)
 - [Schindler&#39;s List, 1993 - ★★★★](https://letterboxd.com/mondodrew/film/schindlers-list/)
-- [Hell of a Summer, 2023 - ★½](https://letterboxd.com/mondodrew/film/hell-of-a-summer/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- The Emotional Impact of Job Loss – Coping and Moving Forward
 - Trivia: Movie Technology
 - Ask Drew: Can AI Write a Movie for Me?
 - Talking Again with Dan: How do you choose a hobby for a happy life?
 - Purchasing Digital Currency
-- Meet a Technology: Surviving Disconnection
