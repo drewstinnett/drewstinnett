@@ -15,16 +15,16 @@
 - [drewstinnett/gout-cobra](https://github.com/drewstinnett/gout-cobra) - Integrate gout with cobra CLI applications
 
 #### 🚀 Latest releases I've contributed to
-- [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (2 weeks ago)
+- [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (3 weeks ago)
 - [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (3 weeks ago)
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Waves of Madness, 2024 - ★★★](https://letterboxd.com/mondodrew/film/the-waves-of-madness-2024/)
 - [Death of a Unicorn, 2025 - ★★½](https://letterboxd.com/mondodrew/film/death-of-a-unicorn/)
 - [Laserblast, 1978 - ★★★](https://letterboxd.com/mondodrew/film/laserblast/)
 - [The Accountant 2, 2025](https://letterboxd.com/mondodrew/film/the-accountant-2/)
 - [Death Promise, 1977 - ★★★½](https://letterboxd.com/mondodrew/film/death-promise/)
-- [Schindler&#39;s List, 1993 - ★★★★](https://letterboxd.com/mondodrew/film/schindlers-list/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - The Emotional Impact of Job Loss – Coping and Moving Forward
