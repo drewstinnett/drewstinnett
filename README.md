@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Drop, 2025 - ★½](https://letterboxd.com/mondodrew/film/drop-2025/)
+- [Fast Times at Ridgemont High, 1982 - ★★★★★](https://letterboxd.com/mondodrew/film/fast-times-at-ridgemont-high/)
+- [Thunderbolts*, 2025 - ★★★](https://letterboxd.com/mondodrew/film/thunderbolts/)
 - [The Waves of Madness, 2024 - ★★★](https://letterboxd.com/mondodrew/film/the-waves-of-madness-2024/)
 - [Death of a Unicorn, 2025 - ★★½](https://letterboxd.com/mondodrew/film/death-of-a-unicorn/)
-- [Laserblast, 1978 - ★★★](https://letterboxd.com/mondodrew/film/laserblast/)
-- [The Accountant 2, 2025](https://letterboxd.com/mondodrew/film/the-accountant-2/)
-- [Death Promise, 1977 - ★★★½](https://letterboxd.com/mondodrew/film/death-promise/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - The Emotional Impact of Job Loss – Coping and Moving Forward
