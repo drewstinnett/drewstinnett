@@ -16,15 +16,15 @@
 
 #### 🚀 Latest releases I've contributed to
 - [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (4 weeks ago)
-- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (4 weeks ago)
+- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (1 month ago)
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Warfare, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/warfare/1/)
+- [Fail Safe, 1964 - ★★★★](https://letterboxd.com/mondodrew/film/fail-safe/)
+- [Wick Is Pain, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/wick-is-pain/)
 - [Azur &amp; Asmar: The Princes&#39; Quest, 2006](https://letterboxd.com/mondodrew/film/azur-asmar-the-princes-quest/)
 - [The Ugly Stepsister, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/the-ugly-stepsister/)
-- [Con Air, 1997 - ★★★](https://letterboxd.com/mondodrew/film/con-air/)
-- [The City of the Dead, 1960 - ★★★½](https://letterboxd.com/mondodrew/film/the-city-of-the-dead/1/)
-- [The Surfer, 2024 - ★★★½](https://letterboxd.com/mondodrew/film/the-surfer-2024/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - The Emotional Impact of Job Loss – Coping and Moving Forward
