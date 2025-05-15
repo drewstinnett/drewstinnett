@@ -27,8 +27,8 @@
 - [The Ugly Stepsister, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/the-ugly-stepsister/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Talking Again with Dan: Learning and Retraining
 - The Emotional Impact of Job Loss – Coping and Moving Forward
 - Trivia: Movie Technology
 - Ask Drew: Can AI Write a Movie for Me?
 - Talking Again with Dan: How do you choose a hobby for a happy life?
-- Purchasing Digital Currency
