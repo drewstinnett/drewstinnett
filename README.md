@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (2 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Final Destination Bloodlines, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/final-destination-bloodlines/)
 - [Hurry Up Tomorrow, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/hurry-up-tomorrow/)
 - [Warfare, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/warfare/1/)
 - [Fail Safe, 1964 - ★★★★](https://letterboxd.com/mondodrew/film/fail-safe/)
 - [Wick Is Pain, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/wick-is-pain/)
-- [Azur &amp; Asmar: The Princes&#39; Quest, 2006](https://letterboxd.com/mondodrew/film/azur-asmar-the-princes-quest/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Talking Again with Dan: Learning and Retraining
