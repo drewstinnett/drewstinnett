@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Fear Street: Prom Queen, 2025 - ★★½](https://letterboxd.com/mondodrew/film/fear-street-prom-queen/)
+- [Mission: Impossible – The Final Reckoning, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/mission-impossible-the-final-reckoning/)
+- [Until Dawn, 2025 - ★★](https://letterboxd.com/mondodrew/film/until-dawn-2025/)
 - [Final Destination Bloodlines, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/final-destination-bloodlines/)
 - [Hurry Up Tomorrow, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/hurry-up-tomorrow/)
-- [Warfare, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/warfare/1/)
-- [Fail Safe, 1964 - ★★★★](https://letterboxd.com/mondodrew/film/fail-safe/)
-- [Wick Is Pain, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/wick-is-pain/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew: How does the web work?
