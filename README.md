@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [A Minecraft Movie, 2025 - ★★½](https://letterboxd.com/mondodrew/film/a-minecraft-movie/)
+- [Jerrod Carmichael: Don’t Be Gay, 2025 - ★★](https://letterboxd.com/mondodrew/film/jerrod-carmichael-dont-be-gay/)
+- [Mike Birbiglia: The Good Life, 2025 - ★★½](https://letterboxd.com/mondodrew/film/mike-birbiglia-the-good-life/)
 - [Friendship, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/friendship-2024/)
 - [Tropic Thunder, 2008 - ★★★](https://letterboxd.com/mondodrew/film/tropic-thunder/)
-- [Sarah Silverman: PostMortem, 2025 - ★★★](https://letterboxd.com/mondodrew/film/sarah-silverman-postmortem/)
-- [Fear Street: Prom Queen, 2025 - ★★½](https://letterboxd.com/mondodrew/film/fear-street-prom-queen/)
-- [Mission: Impossible – The Final Reckoning, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/mission-impossible-the-final-reckoning/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Ask Drew: How does the web work?
