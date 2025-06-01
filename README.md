@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Rogue One: A Star Wars Story, 2016 - ★★★★](https://letterboxd.com/mondodrew/film/rogue-one-a-star-wars-story/1/)
+- [Bring Her Back, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/bring-her-back/)
 - [The Surrender, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/the-surrender-2025/)
 - [Snow White, 2025 - ½](https://letterboxd.com/mondodrew/film/snow-white-2025/)
 - [A Minecraft Movie, 2025 - ★★½](https://letterboxd.com/mondodrew/film/a-minecraft-movie/)
-- [Jerrod Carmichael: Don&#39;t Be Gay, 2025 - ★★](https://letterboxd.com/mondodrew/film/jerrod-carmichael-dont-be-gay/)
-- [Mike Birbiglia: The Good Life, 2025 - ★★½](https://letterboxd.com/mondodrew/film/mike-birbiglia-the-good-life/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - AI Pros and Cons
