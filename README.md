@@ -27,8 +27,8 @@
 - [The Surrender, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/the-surrender-2025/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Medical Technology
 - AI Pros and Cons
 - Ask Drew: How does the web work?
 - Talking Again with Dan: Learning and Retraining
 - The Emotional Impact of Job Loss – Coping and Moving Forward
-- Trivia: Movie Technology
