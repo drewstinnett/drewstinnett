@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Predator: Killer of Killers, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/predator-killer-of-killers/)
 - [The Phoenician Scheme, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/the-phoenician-scheme/)
 - [Sinners, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/sinners-2025/1/)
 - [Ring, 1998 - ★★½](https://letterboxd.com/mondodrew/film/ring-1998/)
 - [Rogue One: A Star Wars Story, 2016 - ★★★★](https://letterboxd.com/mondodrew/film/rogue-one-a-star-wars-story/1/)
-- [Bring Her Back, 2025 - ★★★★](https://letterboxd.com/mondodrew/film/bring-her-back/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Medical Technology
