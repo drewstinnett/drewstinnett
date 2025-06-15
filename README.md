@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (3 months ago)
 
 #### 🍿 Latest movies I've watched
+- [The Life of Chuck, 2024 - ★★★★½](https://letterboxd.com/mondodrew/film/the-life-of-chuck/)
+- [Spaceballs, 1987 - ★★★½](https://letterboxd.com/mondodrew/film/spaceballs/)
 - [The Amateur, 2025 - ★★½](https://letterboxd.com/mondodrew/film/the-amateur-2025/)
 - [Clown in a Cornfield, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/clown-in-a-cornfield/)
 - [The Day the Earth Blew Up: A Looney Tunes Movie, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/the-day-the-earth-blew-up-a-looney-tunes-movie/)
-- [Ballerina, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/ballerina-2025/)
-- [Predator: Killer of Killers, 2025 - ★★★½](https://letterboxd.com/mondodrew/film/predator-killer-of-killers/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - Medical Technology
