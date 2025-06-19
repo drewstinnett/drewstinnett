@@ -17,7 +17,7 @@
 #### 🚀 Latest releases I've contributed to
 - [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (2 months ago)
 - [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (2 months ago)
-- [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (3 months ago)
+- [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (4 months ago)
 
 #### 🍿 Latest movies I've watched
 - [The Life of Chuck, 2024 - ★★★★½](https://letterboxd.com/mondodrew/film/the-life-of-chuck/)
@@ -27,8 +27,8 @@
 - [The Day the Earth Blew Up: A Looney Tunes Movie, 2024 - ★★★★](https://letterboxd.com/mondodrew/film/the-day-the-earth-blew-up-a-looney-tunes-movie/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Talking Again With Dan: Learning from AI
 - Medical Technology
 - AI Pros and Cons
 - Ask Drew: How does the web work?
 - Talking Again with Dan: Learning and Retraining
-- The Emotional Impact of Job Loss – Coping and Moving Forward
