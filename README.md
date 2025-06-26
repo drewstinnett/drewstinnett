@@ -27,8 +27,8 @@
 - [The Life of Chuck, 2024 - ★★★★½](https://letterboxd.com/mondodrew/film/the-life-of-chuck/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
+- Ask Drew: The Future of Cities in Film
 - Talking Again With Dan: Learning from AI
 - Medical Technology
 - AI Pros and Cons
 - Ask Drew: How does the web work?
-- Talking Again with Dan: Learning and Retraining
