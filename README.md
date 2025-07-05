@@ -20,11 +20,11 @@
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (4 months ago)
 
 #### 🍿 Latest movies I've watched
+- [Flatland, 2007 - ★★★½](https://letterboxd.com/mondodrew/film/flatland-2007/)
 - [Loser, 2000 - ★★★](https://letterboxd.com/mondodrew/film/loser/)
 - [Clueless, 1995 - ★★★★](https://letterboxd.com/mondodrew/film/clueless/)
 - [28 Years Later, 2025 - ★★★★½](https://letterboxd.com/mondodrew/film/28-years-later/)
 - [Black Barbie, 2023 - ★★★½](https://letterboxd.com/mondodrew/film/black-barbie-2023/)
-- [The Life of Chuck, 2024 - ★★★★½](https://letterboxd.com/mondodrew/film/the-life-of-chuck/)
 
 #### 🎙 Latest [Imminent Teachnology](https://podcast.imminentteachnology.com/) topics
 - When Buildings Think
