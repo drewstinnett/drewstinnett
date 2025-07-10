@@ -16,7 +16,7 @@
 
 #### 🚀 Latest releases I've contributed to
 - [drewstinnett/headerhunter v0.0.1](https://github.com/drewstinnett/headerhunter/releases/tag/v0.0.1) (2 months ago)
-- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (2 months ago)
+- [drewstinnett/goflex v0.1.6](https://github.com/drewstinnett/goflex/releases/tag/v0.1.6) (3 months ago)
 - [rivosinc/prometheus-slurm-exporter v1.6.10](https://github.com/rivosinc/prometheus-slurm-exporter/releases/tag/v1.6.10) (4 months ago)
 
 #### 🍿 Latest movies I've watched
